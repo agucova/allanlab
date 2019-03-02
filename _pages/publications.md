@@ -1,15 +1,13 @@
 ---
-title: "RayoLab - Publications"
 layout: gridlay
-excerpt: "RayoLab -- Publications."
+title: RayoLab - Publicaciones
+excerpt: Publicaciones - RayoLab @ Universidad de Chile
 sitemap: false
 permalink: /publications/
 ---
+# Publicaciones
 
-
-# Publications
-
-## Highlights
+## Lo resaltado
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
@@ -20,6 +18,7 @@ permalink: /publications/
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -38,6 +37,7 @@ permalink: /publications/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -46,13 +46,13 @@ permalink: /publications/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
 <p> &nbsp; </p>
 
-
-## Full List
+## Lista Completa
 
 {% for publi in site.data.publist %}
 
@@ -60,4 +60,3 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
