@@ -24,7 +24,7 @@ collections:
         extension: yml
         fields:
           - label: Investigador
-            name: investigador
+            name: miembros
             widget: list
             fields:
               - {label: Nombre, name: name, widget: string}
