@@ -15,19 +15,19 @@ collections:
       - {label: "Cuerpo", name: "body", widget: "markdown"}
       - {label: "Sitemap", name: "sitemap", widget: "boolean", default: false}
       - {label: "Permalink", name: "permalink", widget: "string", default: "{{slug}}"}
-    - label: "Investigadores"
-      name: "investigadores"
-      file: "_data/investigadores.yml"
-      extension: yml
-      widget: list
-      fields:
-        - {label: Nombre, name: name, widget: string}
-        - {label: Foto, name: photo, widget: image}
-        - {label: Info, name: info, widget: string}
-        - {label: Email, name: email, widget: string}
-        - {label: Numero Educ, name: number_educ, widget: number}
-        - {label: Educación 1, name: education1, widget: text, required: false}
-        - {label: Educación 2, name: education2, widget: text, required: false}
-        - {label: Educación 3, name: education3, widget: text, required: false}
-        - {label: Educación 4, name: education4, widget: text, required: false}
-        - {label: Educación 5, name: education5, widget: text, required: false}
+  - label: "Investigadores"
+    name: "investigadores"
+    file: "_data/investigadores.yml"
+    extension: yml
+    widget: list
+    fields:
+      - {label: Nombre, name: name, widget: string}
+      - {label: Foto, name: photo, widget: image}
+      - {label: Info, name: info, widget: string}
+      - {label: Email, name: email, widget: string}
+      - {label: Numero Educ, name: number_educ, widget: number}
+      - {label: Educación 1, name: education1, widget: text, required: false}
+      - {label: Educación 2, name: education2, widget: text, required: false}
+      - {label: Educación 3, name: education3, widget: text, required: false}
+      - {label: Educación 4, name: education4, widget: text, required: false}
+      - {label: Educación 5, name: education5, widget: text, required: false}
