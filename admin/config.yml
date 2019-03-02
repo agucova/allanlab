@@ -21,6 +21,7 @@ collections:
       - label: "Investigadores"
         name: "investigadores"
         file: "_data/investigadores.yml"
+        extension: yml
         widget: list
         fields:
           - {label: Nombre, name: name, widget: string}
