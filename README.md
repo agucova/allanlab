@@ -1,4 +1,4 @@
-# RayoLab Website
+# Web de RayoLab
 
 Esta es la página de Rayolab de la Universidad de Chile. La base de la página es un fork de mpa139/allanlab, una plantilla en Jekyll práctica para sitios de laboratorios.
 
