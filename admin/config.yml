@@ -37,3 +37,14 @@ collections:
               - {label: Educación 3, name: education3, widget: text, required: false}
               - {label: Educación 4, name: education4, widget: text, required: false}
               - {label: Educación 5, name: education5, widget: text, required: false}
+      - label: "Noticias"
+        name: "noticias"
+        file: "_data/news.yml"
+        extension: yml
+        fields:
+          - label: Entrada
+            name: entradas
+            widget: list
+            fields:
+              - {label: Título, name: headline, widget: markdown}
+              - {label: Fecha, name: date, widget: date}
