@@ -10,7 +10,7 @@ permalink: /equipo.html
 ## Investigadores
 
 {% assign number_printed = 0 %}
-{% for member in site.data.investigadores %}
+{% for member in site.data.investigadores.miembros %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
