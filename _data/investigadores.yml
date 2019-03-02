@@ -6,3 +6,12 @@ miembros:
     number_educ: 1
     photo: >-
       https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/kirito-is-the-protagonist-in-a-show-based-on-a-light-novel-series-in-which-people-get-trapped-in-a-v.jpeg
+  - education1: Enseñanza Básica
+    education2: Enseñanza Media
+    education3: Licensiatura en Biología (UdeC)
+    email: rodrigo@noseque.cl
+    info: Un biólogo ultra nerd?
+    name: Rodrigo Dover
+    number_educ: 3
+    photo: >-
+      https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/raf-360x360-075-t-fafafa_ca443f4786.jpg
