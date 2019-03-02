@@ -1,14 +1,13 @@
 ---
-title: "News"
 layout: textlay
-excerpt: "RayoLab at Leiden University."
+title: Noticias
+excerpt: Noticias - Rayolab @ Universidad de Chile
 sitemap: false
-permalink: /allnews.html
 ---
-
-# News
+# Noticias
 
 {% for article in site.data.news %}
+
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em></p>
 {% endfor %}
