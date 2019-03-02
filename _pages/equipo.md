@@ -1,20 +1,20 @@
 ---
-title: "RayoLab - Equipo"
 layout: gridlay
-excerpt: "RayoLab: Miembros del equipo."
+title: RayoLab - Equipo
+excerpt: Miembros - Rayolab @ Universidad de Chile
 sitemap: false
-permalink: /equipo/
 ---
-
 # Equipo
 
 ## Investigadores
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -25,21 +25,25 @@ permalink: /equipo/
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
+
   <li> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
 
   {% if member.number_educ == 4 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
@@ -47,6 +51,7 @@ permalink: /equipo/
   {% endif %}
 
   {% if member.number_educ == 5 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
@@ -60,6 +65,7 @@ permalink: /equipo/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -67,6 +73,7 @@ permalink: /equipo/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -115,5 +122,6 @@ permalink: /equipo/
   </tr>
 </table>
 
-## Administrative Support
+## Soporte Administrativo
+
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
