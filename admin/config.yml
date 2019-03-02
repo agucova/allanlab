@@ -47,4 +47,4 @@ collections:
             widget: list
             fields:
               - {label: Título, name: headline, widget: markdown}
-              - {label: Fecha, name: date, widget: date}
+              - {label: Fecha, name: date, widget: date, format: "DD/MM/YYYY"}
