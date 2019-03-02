@@ -3,7 +3,7 @@ layout: textlay
 title: Noticias
 excerpt: Noticias - Rayolab @ Universidad de Chile
 sitemap: false
-permalink: /noticias.html
+permalink: /allnews.html
 ---
 # Noticias
 
