@@ -13,6 +13,23 @@ collections:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Extracto", name: "excerpt", widget: "string"}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
-      - {label: "Sitemap", name: "sitemap", widget: "hidden", default: "false"}
+      - {label: "Sitemap", name: "sitemap", widget: "boolean", default: false}
       - {label: "Permalink", name: "permalink", widget: "string", default: "{{slug}}"}
-
+  - name: "listas"
+    label: "Listas"
+    files:
+      - label: "Investigadores"
+        name: "investigadores"
+        file: "_data/investigadores.yml"
+        widget: list
+        fields:
+          - {label: Nombre, name: name, widget: string}
+          - {label: Foto, name: photo, widget: image}
+          - {label: Info, name: info, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: Numero Educ, name: number_educ, widget: number}
+          - {label: Educación 1, name: education1, widget: text}
+          - {label: Educación 2, name: education2, widget: text}
+          - {label: Educación 3, name: education3, widget: text}
+          - {label: Educación 4, name: education4, widget: text}
+          - {label: Educación 5, name: education5, widget: text}
