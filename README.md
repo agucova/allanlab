@@ -1,11 +1,9 @@
 # RayoLab Website
 
-This is the website of our academic research group at Leiden University.
+Esta es la página de Rayolab de la Universidad de Chile. La base de la página es un fork de mpa139/allanlab, una plantilla en Jekyll práctica para sitios de laboratorios.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91d7ea90-572e-4a08-92f5-596e9f7eede9/deploy-status)](https://app.netlify.com/sites/rayolab/deploys)
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+Copyright RayoLab. Código bajo licencia MIT (por descendencia).
 
-
-Copyright RayoLab. Code released under the MIT License.
-
+Administrada por Agustín Covarrubias (@agucova) y editada por Rodrigo Dover.
