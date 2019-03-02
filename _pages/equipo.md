@@ -3,6 +3,7 @@ layout: gridlay
 title: RayoLab - Equipo
 excerpt: Miembros - Rayolab @ Universidad de Chile
 sitemap: false
+permalink: /equipo.html
 ---
 # Equipo
 
