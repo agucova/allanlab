@@ -1,68 +1,74 @@
 ---
-title: "RayoLab - Inicio"
 layout: homelay
-excerpt: "RayoLab @ Universidad de Chile"
+title: RayoLab - Inicio
+excerpt: RayoLab @ Universidad de Chile
 sitemap: false
 permalink: /
 ---
+El Laboratorio de Neurobiología y Biología del Conocer (Rayo Lab) fue fundado en 1960 por el Dr. Humberto Maturana. Desde entonces, a la fecha, se ha convertido en un faro para el desarrollo del pensamiento biológico en Chile. En el laboratorio se han desarrollado diferentes enfoques de biología teórica, tales como la autopoiesis, el determinismo estructural y la deriva natural, del mismo modo, se han hecho aportes a la biología de sistemas. En sus casi 60 años de existencia se han generado numerosas generaciones de biólogas y biólogos los cuales se han incorporado exitosamente en diversos centros de investigación en reconocidas universidades en todo el mundo.
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-Somos un grupo de investigación con base en la Universidad de Chile. Nuestras áreas de investigación abarcan aspectos de la neuroanatomía, la neurofisiología en reptiles, aves y mamíferos, biología comparada, evolución orgánica y biología teórica.
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-    </ol>
 
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+```
+<!-- Items -->
+<div class="carousel-inner" markdown="0">
 
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/1.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/2.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/3.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/4.png" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/5.jpg" alt="Slide 5" />
-        </div>
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/1.jpg" alt="Slide 1" />
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/2.jpg" alt="Slide 2" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/3.jpg" alt="Slide 3" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/4.png" alt="Slide 4" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/5.jpg" alt="Slide 5" />
+    </div>
 </div>
+```
+
+  Actualmente las líneas de investigación que se llevan a cabo en el Rayo Lab son:
+
+\-Neuroanatomía y neurofisiología del sistema visual en aves, reptiles y mamíferos.
+
+\-Mecanismos de atención en las aves.
+
+\-Neuroanatomía comparada del sistema visual en vertebrados.
+
+\-Neuroanatomía comparada del sistema feromonal en mamíferos.
+
+\-Biomagnetismo en aves.
+
+\-Optogenética.
+
+\-Biología conceptual (autopoiesis y sistemas (M,R)).
+
+\-Evolución orgánica (epigénesis y deriva natural).
+
+\-Biología evolutiva del desarrollo (Evo-Devo).
+
+\-Biología molecular.
 
 
 
+Entre las instalaciones con las que cuenta Rayo Lab se encuentran:
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+\-Instalaciones con setups para registros a nivel intra y extracelular de rebanadas de cerebro.
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+\-Setups estereotáxicos para el registro de animales anestesiados y despiertos.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+\-Registro neuronal para el estudio del comportamiento de animales.
 
+\-Setups para registro del comportamiento en animales.
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+\-Sistemas multicanales para la adquisición y análisis.
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+\-Instalaciones que permiten desarrollar histología e inmunoreacciones.
+
+\-Microscopios ópticos, fluorescentes y confocales.
+
+\-Microscopios con softwares como neurolúcida.
