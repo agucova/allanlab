@@ -5,9 +5,7 @@ excerpt: RayoLab @ Universidad de Chile
 sitemap: false
 permalink: /
 ---
-El Laboratorio de Neurobiología y Biología del Conocer (Rayo Lab) fue fundado en 1960 por el Dr. Humberto Maturana. Desde entonces, a la fecha, se ha convertido en un faro para el desarrollo del pensamiento biológico en Chile. En el laboratorio se han desarrollado diferentes enfoques de biología teórica, tales como la autopoiesis, el determinismo estructural y la deriva natural, del mismo modo, se han hecho aportes a la biología de sistemas. En sus casi 60 años de existencia se han generado numerosas generaciones de biólogas y biólogos los cuales se han incorporado exitosamente en diversos centros de investigación en reconocidas universidades en todo el mundo.
-
-
+El "Laboratorio de Neurobiología y Biología del Conocer" (Rayo Lab) fue fundado en 1960 por el Dr. Humberto Maturana. Desde entonces, a la fecha, se ha convertido en un faro para el desarrollo del pensamiento biológico en Chile. En el laboratorio se han desarrollado diferentes enfoques de biología teórica, tales como la autopoiesis, el determinismo estructural y la deriva natural, del mismo modo, se han hecho aportes a la biología de sistemas. En sus casi 60 años de existencia se han generado numerosas generaciones de biólogas y biólogos los cuales se han incorporado exitosamente en diversos centros de investigación en reconocidas universidades en todo el mundo.
 
 ```
 <!-- Items -->
@@ -33,42 +31,24 @@ El Laboratorio de Neurobiología y Biología del Conocer (Rayo Lab) fue fundado 
 
   Actualmente las líneas de investigación que se llevan a cabo en el Rayo Lab son:
 
-\-Neuroanatomía y neurofisiología del sistema visual en aves, reptiles y mamíferos.
-
-\-Mecanismos de atención en las aves.
-
-\-Neuroanatomía comparada del sistema visual en vertebrados.
-
-\-Neuroanatomía comparada del sistema feromonal en mamíferos.
-
-\-Biomagnetismo en aves.
-
-\-Optogenética.
-
-\-Biología conceptual (autopoiesis y sistemas (M,R)).
-
-\-Evolución orgánica (epigénesis y deriva natural).
-
-\-Biología evolutiva del desarrollo (Evo-Devo).
-
-\-Biología molecular.
-
-
+* Neuroanatomía y neurofisiología del sistema visual en aves, reptiles y mamíferos.
+* Mecanismos de atención en las aves.
+* Neuroanatomía comparada del sistema visual en vertebrados.
+* Neuroanatomía comparada del sistema feromonal en mamíferos.
+* Biomagnetismo en aves.
+* Optogenética.
+* Biología conceptual (autopoiesis y sistemas (M,R)).
+* Evolución orgánica (epigénesis y deriva natural).
+* Biología evolutiva del desarrollo (Evo-Devo).
+* Biología molecular.
 
 Entre las instalaciones con las que cuenta Rayo Lab se encuentran:
 
-\-Instalaciones con setups para registros a nivel intra y extracelular de rebanadas de cerebro.
-
-\-Setups estereotáxicos para el registro de animales anestesiados y despiertos.
-
-\-Registro neuronal para el estudio del comportamiento de animales.
-
-\-Setups para registro del comportamiento en animales.
-
-\-Sistemas multicanales para la adquisición y análisis.
-
-\-Instalaciones que permiten desarrollar histología e inmunoreacciones.
-
-\-Microscopios ópticos, fluorescentes y confocales.
-
-\-Microscopios con softwares como neurolúcida.
+* Instalaciones con setups para registros a nivel intra y extracelular de rebanadas de cerebro.
+* Setups estereotáxicos para el registro de animales anestesiados y despiertos.
+* Registro neuronal para el estudio del comportamiento de animales.
+* Setups para registro del comportamiento en animales.
+* Sistemas multicanales para la adquisición y análisis.
+* Instalaciones que permiten desarrollar histología e inmunoreacciones.
+* Microscopios ópticos, fluorescentes y confocales.
+* Microscopios con softwares como neurolucida.
