@@ -9,22 +9,24 @@ El "Laboratorio de Neurobiología y Biología del Conocer" (RayoLab) fue fundado
 
 
 <!-- Items -->
-<div class="carousel-inner" markdown="0">
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/1.jpg" alt="Slide 1" />
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/retro/1.jpg" alt="Slide 1" />    
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/2.jpg" alt="Slide 2" />
+    <div class="carousel-item">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/retro/2.jpg" alt="Slide 2" />    
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/3.jpg" alt="Slide 3" />
+    <div class="carousel-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images/retro/3.jpg" alt="Slide 3" />    
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/4.png" alt="Slide 4" />
+    <div class="carousel-item">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/retro/4.png" alt="Slide 4" />   
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/5.jpg" alt="Slide 5" />
+    <div class="carousel-item">
+<img src="{{ site.url }}{{ site.baseurl }}/images/retro/5.jpg" alt="Slide 5" />    
     </div>
+  </div>
 </div>
 
 
