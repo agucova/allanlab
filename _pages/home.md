@@ -7,7 +7,6 @@ permalink: /
 ---
 El "Laboratorio de Neurobiología y Biología del Conocer" (RayoLab) fue fundado en 1960 por el Dr. Humberto Maturana. Desde entonces, a la fecha, se ha convertido en un faro para el desarrollo del pensamiento biológico en Chile. En el laboratorio se han desarrollado diferentes enfoques de biología teórica, tales como la autopoiesis, el determinismo estructural y la deriva natural, del mismo modo, se han hecho aportes a la biología de sistemas. En sus casi 60 años de existencia se han generado numerosas generaciones de biólogas y biólogos los cuales se han incorporado exitosamente en diversos centros de investigación en reconocidas universidades en todo el mundo.
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -18,26 +17,28 @@ El "Laboratorio de Neurobiología y Biología del Conocer" (RayoLab) fue fundado
         <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+```
+<!-- Items -->
+<div class="carousel-inner" markdown="0">
 
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/1.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/2.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/3.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/4.png" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/retro/5.jpg" alt="Slide 5" />
-        </div>
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/1.jpg" alt="Slide 1" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/2.jpg" alt="Slide 2" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/3.jpg" alt="Slide 3" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/4.png" alt="Slide 4" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/retro/5.jpg" alt="Slide 5" />
+    </div>
+```
 
-  Actualmente las líneas de investigación que se llevan a cabo en el Rayo Lab son:
+ Actualmente las líneas de investigación que se llevan a cabo en el Rayo Lab son:
 
 * Neuroanatomía y neurofisiología del sistema visual en aves, reptiles y mamíferos.
 * Mecanismos de atención en las aves.
