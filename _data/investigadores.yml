@@ -1,17 +1,18 @@
 miembros:
-  - education1: 'Enseñanza Básica, técnicamente'
-    email: agucova@gmail.com
-    info: Estudiante genio que maneja la web)?
-    name: Agustín Covarrubias
-    number_educ: 1
+  - education1: PREGRADO
+    education2: POSTGRADO
+    email: 'email[AT]email[DOT]com'
+    info: DESCRIPCIÓN + INVESTIGACIÓN
+    name: NOMBRE 1
+    number_educ: 2
     photo: >-
-      https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/kirito-is-the-protagonist-in-a-show-based-on-a-light-novel-series-in-which-people-get-trapped-in-a-v.jpeg
-  - education1: Enseñanza Básica
-    education2: Enseñanza Media
-    education3: Licenciatura en Biología (UdeC)
-    email: rodrigo@noseque.cl
-    info: Un biólogo ultra nerd?
-    name: Rodrigo Dover
+      https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/raf-360x360-075-t-fafafa_ca443f4786.jpg
+  - education1: PREGRADO1
+    education2: PREGRADO2
+    education3: POSTGRADO
+    email: 'EMAIL[AT]EMAIL[DOT]COM'
+    info: DESCRIPCIÓN + INVESTIGACIÓN
+    name: NOMBRE 2
     number_educ: 3
     photo: >-
       https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/raf-360x360-075-t-fafafa_ca443f4786.jpg
