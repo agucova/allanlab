@@ -7,7 +7,17 @@ permalink: /equipo.html
 ---
 # Equipo
 
-## Investigadores
+## Fundadores
+
+<table align="center" style="width:100%">
+  <tr>
+    <td>Ph.D. Humberto Maturana Romesín</td>
+    <td>Ph.D. Francisco Varela García</td>
+  </tr>
+  
+</table>
+
+## Staff
 
 {% assign number_printed = 0 %}
 {% for member in site.data.investigadores.miembros %}
@@ -78,7 +88,52 @@ permalink: /equipo.html
 </div>
 {% endif %}
 
-## Miembros Honoríficos
+## Miembros formados
+
+<table align="center" style="width:100%">
+  <tr>
+    <td>Nikolaos Iliopoulos, Spring 2016</td>
+    <td>Bert Visscher, Fall 2017</td>
+    <td>Vishnu Saj, Spring 2017</td>
+  </tr>
+  <tr>
+    <td>Vitaly Fedoseev, all of 2016</td>
+    <td>Ahmad Jamalzada, Fall 2017</td>
+    <td>Joey Braspenning, Spring 2017</td>
+  </tr>
+  <tr>
+    <td>Ramakrishna Aluru, Summer 2018</td>
+    <td>Tjerk Benschop, Summer 2017</td>
+    <td>Margot Leemker, Spring 2017</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Oliver Ostojic, Spring 2016</td>
+    <td>Sietske Lensen, Spring 2017</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Farshaad Hoeseni, Fall 2015</td>
+    <td>Alexander Vanstone, Spring 2016</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Tjerk Benschop, Spring 2016</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Arjo Andringa, Spring 2016</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Daniëlle van Klink, Spring 2016</td>
+  </tr>
+</table>
+
+## Colaboradores
 
 <table align="center" style="width:100%">
   <tr>
