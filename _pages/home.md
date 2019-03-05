@@ -36,11 +36,6 @@ El "Laboratorio de Neurobiología y Biología del Conocer" (RayoLab) fue fundado
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/retro/5.jpg" alt="Slide 5" />
         </div>
-
-
-
-
-
   Actualmente las líneas de investigación que se llevan a cabo en el Rayo Lab son:
 
 * Neuroanatomía y neurofisiología del sistema visual en aves, reptiles y mamíferos.
