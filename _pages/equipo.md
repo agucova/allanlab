@@ -92,44 +92,148 @@ permalink: /equipo
 
 <table align="center" style="width:100%">
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
-    <td>Bert Visscher, Fall 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
+    <td>Patricio Ahumada</td>
+    <td>Scarlett Delgado</td>
+    <td>Isidora Valdevenito</td>
+    <td>Cristian González-Cabrera</td>
+  </tr>
+    <tr>
+    <td>Daniel Opazo</td>
+    <td>Pedro Fernández-Aburto</td>
+    <td>Daviel Severín</td>
+    <td>Sebastián Tapia Pino</td>
   </tr>
   <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Ahmad Jamalzada, Fall 2017</td>
-    <td>Joey Braspenning, Spring 2017</td>
+    <td>Sergio Soto</td>
+    <td>Miguel Salinas</td>
+    <td>Karina Buldrini</td>
+    <td>Cristian Morales</td>
   </tr>
   <tr>
-    <td>Ramakrishna Aluru, Summer 2018</td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Margot Leemker, Spring 2017</td>
+    <td>Juan Salazar</td>
+    <td>Bryan Reynaert</td>
+    <td>Edgardo Ramírez</td>
+    <td>Daniel Smith</td>
   </tr>
   <tr>
-    <td></td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Sietske Lensen, Spring 2017</td>
+    <td>Camila Weiss-Garrido</td>
+    <td>Florencia Garrido</td>
+    <td>Natalia Madrid</td>
+    <td>Daniel Núñez</td>
   </tr>
   <tr>
-    <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Alexander Vanstone, Spring 2016</td>
+    <td>Pablo Riveros</td>
+    <td>Francisca Toledo</td>
+    <td>Amaranta Valdés</td>
+    <td>David Rojas</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Tjerk Benschop, Spring 2016</td>
+    <td>Claudia Cecchi</td>
+    <td>Cristián Villagra</td>
+    <td>Javier Díaz</td>
+    <td>David Rubilar Rogers</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Arjo Andringa, Spring 2016</td>
+    <td>Felipe Fredes</td>
+    <td>Rodrigo Suárez</td>
+    <td>Tomás Vega</td>
+    <td>Susana Vargas</td>
   </tr>
   <tr>
+    <td>Carolina Simon Gutstein</td>
+    <td>Nicolás Gravel</td>
+    <td>Macarena Faunes</td>
+    <td>Jorge Gibbons</td>
+  </tr>
+  <tr>
+    <td>Carlos Salas</td>
+    <td>Denisse Carrasco</td>
+    <td>Ernesto Durán</td>
+    <td>Ricardo Santa María</td>
+  </tr>  
+  <tr>
+    <td>Santiago Martinich</td>
+    <td>Cecilia Concha</td>
+    <td>Felipe Medina</td>
+    <td>Michaela Vergara</td>
+  </tr>
+  <tr>
+    <td>Camila Valenzuela</td>
+    <td>Hans Pottstock</td>
+    <td>Carlos Martinoya</td>
+    <td>Raúl BerrÍos</td>
+  </tr>
+  <tr>
+    <td>José Palma</td>
+    <td>Sebastián Tapia</td>
+    <td>Rosita Lizana</td>
+    <td>Gloria Guiloff</td>
+  </tr>
+  <tr>
+    <td>Mónica Quiroz</td>
+    <td>Jorge Golowash</td>
+    <td>Ximena Rojas</td>
+    <td>Vivian Budnik</td>
+  </tr>
+  <tr>
+    <td>Francisco Aboitiz</td>
+    <td>Michel Gho</td>
+    <td>Alfredo Kirkwood</td>
+    <td>Carmen Cordero</td>
+  </tr>
+  <tr>
+    <td>Rafael Panteón</td>
+    <td>Frank Sampson</td>
+    <td>John Ewer</td>
+    <td>Patricio Huerta</td>
+  </tr>
+  <tr>
+    <td>Pedro Maldonado</td>
+    <td>Marilú Aylwin</td>
+    <td>Cecilia Babul</td>
+    <td>Miguel Concha</td>
+  </tr>
+  <tr>
+    <td>Hernán Díaz</td>
+    <td>Carlos Rozas</td>
+    <td>Javier Muñoz</td>
+    <td>Juan Concha</td>
+  </tr>
+  <tr>
+    <td>Carlos Madrid</td>
+    <td>Daniver Morales</td>
+    <td>Marcelo Velasco</td>
+    <td>Pablo Henny</td>
+  </tr>
+  <tr>
+    <td>Pamela Weber</td>
+    <td>Gonzalo Farfán</td>
+    <td>Nélida Pohl</td>
+    <td>Susana Vargas</td>
+  </tr>
+  <tr>
+    <td>Camilo Libedinsky</td>
+    <td>Magdalena Carrasco</td>
+    <td>Felipe Medina</td>
+    <td>Tomás Ossandón</td>
+  </tr>
+  <tr>
+    <td>Yael Codriansky</td>
+    <td>Jaime Martínez</td>
+    <td>Cristian Gutierrez</td>
+    <td>Carla Alvial</td>
+  </tr>
+  <tr>
+    <td>Oscar Hernández</td>
+    <td>Pablo Sabat</td>
+    <td>Patricio García</td>
+    <td>Adrián Palacios</td>
+  </tr>
+  <tr>
+    <td>Francisco Flores</td>
     <td></td>
     <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
+    <td></td>
   </tr>
 </table>
 
@@ -156,6 +260,6 @@ permalink: /equipo
  
 </table>
 
-## Soporte Administrativo
+## Actualizaciones de la web
 
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:rodrigo.dover@ug.uchile.cl">Rodrigo Dover</a> está a cargo de la actualización y mantención de la web.
