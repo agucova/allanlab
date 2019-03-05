@@ -16,7 +16,7 @@ El "Laboratorio de Neurobiología y Biología del Conocer" (RayoLab) fue fundado
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
-
+</div>
 
 <!-- Items -->
 <div class="carousel-inner" markdown="0">
