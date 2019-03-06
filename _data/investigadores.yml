@@ -16,17 +16,19 @@ miembros:
     number_educ: 3
     photo: >-
       https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/raf-360x360-075-t-fafafa_ca443f4786.jpg
-  - education1: Licenciado en Ciencias con Mención en Biología de la Universidad de Chile.
-    education2: Estudiante del Magíster en Ciencias Biológicas de la Universidad de Chile.
-    email: 'rodrigo.dover[at]ug[dot]uchile[dot]cl'
+  - education1: Licenciada en Ciencias con Mención en Biología de la Universidad de Chile.
+    education2: >-
+      Estudiante del programa de Doctorado en Ecología y Biología Evolutiva de
+      la Universidad de Chile.
+    email: 'danielaflorescampos[at]gmail[dot]com'
     info: >-
-      Mi interés se enfoca en el estudio de los sistemas visuales,
-      particularmente en el desarrollo de las RGC (retinal ganglion cells).
-      También tengo gustos por la historia de la ciencia, la política científica
-      (#ScienceMarch) y la neurociencia en general.
-    name: Rodrigo Dover Aburto
+      Mi investigación se enfoca en EvoDevo sobre la evolución morfológica en la
+      transición dinosaurio-ave, y también investigo sobre la evolución de la
+      vida. Mis intereses también abordan la difusión científica y soy
+      profesora. 
+    name: Daniela Flores Campos
     number_educ: 2
-    photo: /images/uploads/cesolaa.png
+    photo: /images/uploads/daniela-flores-campos.jpg
   - education1: Titulado en Biotecnología Molecular en la Universidad de Chile.
     education2: >-
       Estudiante de programa de Doctorado en Ciencias con mención en Biología
@@ -39,3 +41,14 @@ miembros:
     name: Vicente Muñoz-Walther
     number_educ: 2
     photo: /images/uploads/vicente-muñoz-walther.jpg
+  - education1: Licenciado en Ciencias con Mención en Biología de la Universidad de Chile.
+    education2: Estudiante del Magíster en Ciencias Biológicas de la Universidad de Chile.
+    email: 'rodrigo.dover[at]ug[dot]uchile[dot]cl'
+    info: >-
+      Mi interés se enfoca en el estudio de los sistemas visuales,
+      particularmente en el desarrollo de las RGC (retinal ganglion cells).
+      También tengo gustos por la historia de la ciencia, la política científica
+      (#ScienceMarch), la docencia y la neurociencia en general.
+    name: Rodrigo Dover Aburto
+    number_educ: 2
+    photo: /images/uploads/cesolaa.png
