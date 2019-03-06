@@ -16,3 +16,15 @@ miembros:
     number_educ: 3
     photo: >-
       https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/raf-360x360-075-t-fafafa_ca443f4786.jpg
+  - education1: Titulado en Biotecnología Molecular en la Universidad de Chile.
+    education2: >-
+      Estudiante de programa de Doctorado en Ciencias con mención en Biología
+      Molecular, Celular y Neurociencias de la Universidad de Chile.
+    email: 'tente.munoz[at]gmail[dot]com'
+    info: >-
+      Mi trabajo se centra en entender la evolución mediante el estudio de la
+      biología del desarrollo. De especial interés para mí son la evolución de
+      las aves, y el estudio de transformaciones homeóticas en la evolución.
+    name: Vicente Muñoz-Walther
+    number_educ: 2
+    photo: /images/uploads/vicente-muñoz-walther.jpg
