@@ -231,7 +231,7 @@ permalink: /equipo
   </tr>
   <tr>
     <td>Francisco Flores</td>
-    <td></td>
+    <td>Daniela Vera</td>
     <td></td>
     <td></td>
   </tr>
