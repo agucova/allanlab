@@ -232,7 +232,7 @@ permalink: /equipo
   <tr>
     <td>Francisco Flores</td>
     <td>Daniela Vera</td>
-    <td></td>
+    <td>Luciana López-Jury</td>
     <td></td>
   </tr>
 </table>
