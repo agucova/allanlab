@@ -38,26 +38,6 @@ El "Laboratorio de Neurobiología y Biología del Conocer" (RayoLab) fue fundado
         </div>
 </div>
 
-  Actualmente las líneas de investigación que se llevan a cabo en el Rayo Lab son:
+  Actualmente las líneas de investigación que se llevan a cabo en el Rayo Lab son: neuroanatomía y neurofisiología del sistema visual en aves, reptiles y mamíferos, mecanismos de atención en las aves, neuroanatomía comparada del sistema visual en vertebrados, neuroanatomía comparada del sistema feromonal en mamíferos, biomagnetismo en aves, optogenética, biología conceptual (autopoiesis y sistemas (M,R)), evolución orgánica (epigénesis y deriva natural), biología evolutiva del desarrollo (Evo-Devo) y biología molecular.
 
-* Neuroanatomía y neurofisiología del sistema visual en aves, reptiles y mamíferos.
-* Mecanismos de atención en las aves.
-* Neuroanatomía comparada del sistema visual en vertebrados.
-* Neuroanatomía comparada del sistema feromonal en mamíferos.
-* Biomagnetismo en aves.
-* Optogenética.
-* Biología conceptual (autopoiesis y sistemas (M,R)).
-* Evolución orgánica (epigénesis y deriva natural).
-* Biología evolutiva del desarrollo (Evo-Devo).
-* Biología molecular.
-
-Entre las instalaciones con las que cuenta Rayo Lab se encuentran:
-
-* Instalaciones con setups para registros a nivel intra y extracelular de rebanadas de cerebro.
-* Setups estereotáxicos para el registro de animales anestesiados y despiertos.
-* Registro neuronal para el estudio del comportamiento de animales.
-* Setups para registro del comportamiento en animales.
-* Sistemas multicanales para la adquisición y análisis.
-* Instalaciones que permiten desarrollar histología e inmunoreacciones.
-* Microscopios ópticos, fluorescentes y confocales.
-* Microscopios con softwares como neurolucida.
+Entre las instalaciones con las que cuenta Rayo Lab se encuentran: instalaciones con setups para registros a nivel intra y extracelular de rebanadas de cerebro, setups estereotáxicos para el registro de animales anestesiados y despiertos, registro neuronal para el estudio del comportamiento de animales, setups para registro del comportamiento en animales, sistemas multicanales para la adquisición y análisis, instalaciones que permiten desarrollar histología e inmunoreacciones, microscopios ópticos, fluorescentes y confocales, y microscopios con softwares como neurolucida.
