@@ -7,15 +7,12 @@ miembros:
     number_educ: 2
     photo: >-
       https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/raf-360x360-075-t-fafafa_ca443f4786.jpg
-  - education1: PREGRADO1
-    education2: PREGRADO2
-    education3: POSTGRADO
-    email: 'EMAIL[AT]EMAIL[DOT]COM'
-    info: DESCRIPCIÓN + INVESTIGACIÓN
-    name: NOMBRE 2
-    number_educ: 3
-    photo: >-
-      https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/raf-360x360-075-t-fafafa_ca443f4786.jpg
+  - education1: Magíster en Ciencias Biológicas de la Universidad de Chile.
+    email: 'sentis2[at]gmail[dot]com'
+    info: Investigadora Asociada
+    name: Elisa Sentis Bahamondes
+    number_educ: 1
+    photo: /images/uploads/elisa.png
   - education1: Licenciada en Ciencias con Mención en Biología de la Universidad de Chile.
     education2: >-
       Estudiante del programa de Doctorado en Ecología y Biología Evolutiva de
