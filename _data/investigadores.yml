@@ -13,6 +13,19 @@ miembros:
     name: Elisa Sentis Bahamondes
     number_educ: 1
     photo: /images/uploads/elisa.png
+  - education1: >-
+      Asistente de Investigación, Laboratorio Neurobiología, Universidad de
+      Chile.
+    education2: 'Licenciada en Ciencias con mención en Biología, Universidad de Chile.'
+    education3: 'Magíster en Ciencias Biológicas, Universidad de Chile.'
+    email: 'carolinanorambuena.l[at]gmail[dot]com'
+    info: >-
+      Mi investigación se centra en el estudio del perfil molecular y hodológico
+      de las subpoblaciones neuronales del colopalio visual en pollos (Gallus
+      gallus).
+    name: Carolina Norambuena López
+    number_educ: 3
+    photo: /images/uploads/carolina-norambuena.jpg
   - education1: Licenciada en Ciencias con Mención en Biología de la Universidad de Chile.
     education2: >-
       Estudiante del programa de Doctorado en Ecología y Biología Evolutiva de
@@ -48,4 +61,4 @@ miembros:
       (#ScienceMarch), la docencia y la neurociencia en general.
     name: Rodrigo Dover Aburto
     number_educ: 2
-    photo: /images/uploads/cesolaa.png
+    photo: /images/uploads/carolina-norambuena.jpg
