@@ -233,6 +233,36 @@ permalink: /equipo
     <td>Francisco Flores</td>
     <td>Daniela Vera</td>
     <td>Luciana López-Jury</td>
+    <td>Alexander Vargas</td>
+  </tr>
+  <tr>
+    <td>Jorge Mpodozis</td>
+    <td>Juan Carlos Letelier</td>
+    <td>Gonzalo Marín</td>
+    <td>Elisa Sentis</td>
+  </tr>
+  <tr>
+    <td>Natalia Márquez</td>
+    <td>Sara Fernández</td>
+    <td>Alfonso Deichler</td>
+    <td>Máximo Fernández</td>
+  </tr>
+  <tr>
+    <td>Maricel Quispe</td>
+    <td>Daniela Flores</td>
+    <td>Rodrigo Dover</td>
+    <td>Rosana Reyes</td>
+  </tr>
+  <tr>
+    <td>Carolina Norambuena</td>
+    <td>Fernando Navea</td>
+    <td>Macarena Ruiz</td>
+    <td>Sebastián Jiménez</td>
+  </tr>
+  <tr>
+    <td>Vicente Muñoz</td>
+    <td>Luis Vega</td>
+    <td></td>
     <td></td>
   </tr>
 </table>
