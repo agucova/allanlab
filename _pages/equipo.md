@@ -262,7 +262,7 @@ permalink: /equipo
   <tr>
     <td>Vicente Muñoz</td>
     <td>Luis Vega</td>
-    <td></td>
+    <td>Tomas Salas</td>
     <td></td>
   </tr>
 </table>
