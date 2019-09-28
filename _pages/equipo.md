@@ -7,12 +7,11 @@ permalink: /equipo
 ---
 # Equipo
 
-## Fundadores
+## Fundador
 
 <table align="center" style="width:100%">
   <tr>
     <td>Ph.D. Humberto Maturana Romesín</td>
-    <td>Ph.D. Francisco Varela García</td>
   </tr>
   
 </table>
@@ -263,7 +262,7 @@ permalink: /equipo
     <td>Vicente Muñoz</td>
     <td>Luis Vega</td>
     <td>Tomas Salas</td>
-    <td></td>
+    <td>Francisco Varela García</td>
   </tr>
 </table>
 
@@ -274,7 +273,8 @@ permalink: /equipo
     <td>Harvey Karten (UCSD, USA)</td>
     <td>Shigeru Watanabe (Keio University, Japan)</td>
     <td>Athel Cornish-Bowden (CNRS, France)</td>
-    <td>María Luz Cárdenas-Cerda (CNRS, France)</td>
+    <td>María Luz Cárdenas-Cerda
+ (CNRS, France)</td>
   </tr>
   <tr>
     <td>Jorge Soto Andrade (UCH, Chile)</td>
@@ -283,7 +283,8 @@ permalink: /equipo
     <td>Eduardo Vera (UCH, Chile)</td>
   </tr>
   <tr>
-    <td>Mark Alan Hershkovitz</td>
+    <td>Mark Alan Hershkovitz
+</td>
     <td>Carolina Villagrán (UCH, Chile)</td>
     <td>Antonio Glaria (UV, Chile)</td>
   </tr>
