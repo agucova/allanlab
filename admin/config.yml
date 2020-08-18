@@ -48,3 +48,26 @@ collections:
             fields:
               - {label: Título, name: headline, widget: markdown}
               - {label: Fecha, name: date, widget: date, format: "DD/MM/YYYY"}
+      - label: "Publicaciones"
+	  	name: "publicaciones"
+		file: "_data/publist.yml"
+		extension: yml
+		fields:
+			- label: "Publicación"
+			  name: "papers"
+			  widget: list
+			  fields:
+			  	- {label: Título, name: title, widget: string}
+				- {label: Foto, name: image, widget: image}
+				- {label: Descripción, name: description, widget: text}
+				- {label: Autores, name: authors, widget: string}
+				- label: Link
+				  name: link
+				  widget: object
+				  fields:
+				  - {label: URL, name: url, widget: string}
+					- {label: "Mostrar como", name: display, widget: string}
+			  - {label: "¿Destacar?", name: highlight, widget: select, options: [0, 1]}
+				- {label: "En los medios 1", name: news, widget: text}
+				- {label: "En los medios 2", name: news1, widget: text}
+				- {label: "En los medios 3", name: news2, widget: text}
