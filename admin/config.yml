@@ -50,7 +50,7 @@ collections:
               - {label: Fecha, name: date, widget: date, format: "DD/MM/YYYY"}
       - label: "Publicaciones"
         name: "publicaciones"
-        file: "_data/publist_t.yml"
+        file: "_data/publications.yml"
         extension: yml
         fields:
         - label: "Publicación"
