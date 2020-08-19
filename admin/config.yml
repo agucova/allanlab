@@ -22,6 +22,8 @@ collections:
         name: "investigadores"
         file: "_data/investigadores.yml"
         extension: yml
+        editor:
+          preview: false
         fields:
           - label: Investigador
             name: miembros
@@ -52,6 +54,8 @@ collections:
         name: "publicaciones"
         file: "_data/publications.yml"
         extension: yml
+        editor:
+          preview: false
         fields:
         - label: "Publicación"
           name: "papers"
