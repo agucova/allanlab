@@ -78,6 +78,7 @@ collections:
               max: 1
               step: 1
               valueType: int
+              widget: number
             - {label: "En los medios 1", name: news, widget: text}
             - {label: "En los medios 2", name: news1, widget: text}
             - {label: "En los medios 3", name: news2, widget: text}
