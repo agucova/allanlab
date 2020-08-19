@@ -1,51 +1,37 @@
 miembros:
-  - education1: PREGRADO
-    education2: POSTGRADO
-    email: 'email[AT]email[DOT]com'
-    info: DESCRIPCIÓN + INVESTIGACIÓN
-    name: NOMBRE 1
-    number_educ: 2
-    photo: >-
-      https://raw.githubusercontent.com/agucova/rayolab/gh-pages/images/uploads/raf-360x360-075-t-fafafa_ca443f4786.jpg
   - education1: Magíster en Ciencias Biológicas de la Universidad de Chile.
-    email: 'sentis2[at]gmail[dot]com'
+    email: sentis2[at]gmail[dot]com
     info: Investigadora Asociada
     name: Elisa Sentis Bahamondes
     number_educ: 1
     photo: /images/uploads/elisa.png
-  - education1: >-
-      Asistente de Investigación, Laboratorio de Neurobiología y Biología del
-      Conocer (RayoLab).
-    education2: 'Licenciada en Ciencias con mención en Biología, Universidad de Chile.'
-    education3: 'Magíster en Ciencias Biológicas, Universidad de Chile.'
-    email: 'carolinanorambuena.l[at]gmail[dot]com'
-    info: >-
-      Mi investigación se centra en el estudio del perfil molecular y hodológico
+  - education1: Asistente de Investigación, Laboratorio de Neurobiología y Biología
+      del Conocer (RayoLab).
+    education2: Licenciada en Ciencias con mención en Biología, Universidad de Chile.
+    education3: Magíster en Ciencias Biológicas, Universidad de Chile.
+    email: carolinanorambuena.l[at]gmail[dot]com
+    info: Mi investigación se centra en el estudio del perfil molecular y hodológico
       de las subpoblaciones neuronales del colopalio visual en pollos (Gallus
       gallus).
     name: Carolina Norambuena López
     number_educ: 3
     photo: /images/uploads/carolina-norambuena.jpg
   - education1: Licenciada en Ciencias con Mención en Biología de la Universidad de Chile.
-    education2: >-
-      Estudiante del programa de Doctorado en Ecología y Biología Evolutiva de
-      la Universidad de Chile.
-    email: 'danielaflorescampos[at]gmail[dot]com'
-    info: >-
-      Mi investigación se enfoca en EvoDevo sobre la evolución morfológica en la
-      transición dinosaurio-ave, y también investigo sobre la evolución de la
+    education2: Estudiante del programa de Doctorado en Ecología y Biología
+      Evolutiva de la Universidad de Chile.
+    email: danielaflorescampos[at]gmail[dot]com
+    info: "Mi investigación se enfoca en EvoDevo sobre la evolución morfológica en
+      la transición dinosaurio-ave, y también investigo sobre la evolución de la
       vida. Mis intereses también abordan la difusión científica y soy
-      profesora. 
+      profesora. "
     name: Daniela Flores Campos
     number_educ: 2
     photo: /images/uploads/daniela-flores-campos.jpg
   - education1: Titulado en Biotecnología Molecular en la Universidad de Chile.
-    education2: >-
-      Estudiante de programa de Doctorado en Ciencias con mención en Biología
-      Molecular, Celular y Neurociencias de la Universidad de Chile.
-    email: 'tente.munoz[at]gmail[dot]com'
-    info: >-
-      Mi trabajo se centra en entender la evolución mediante el estudio de la
+    education2: Estudiante de programa de Doctorado en Ciencias con mención en
+      Biología Molecular, Celular y Neurociencias de la Universidad de Chile.
+    email: tente.munoz[at]gmail[dot]com
+    info: Mi trabajo se centra en entender la evolución mediante el estudio de la
       biología del desarrollo. De especial interés para mí son la evolución de
       las aves, y el estudio de transformaciones homeóticas en la evolución.
     name: Vicente Muñoz-Walther
@@ -53,9 +39,8 @@ miembros:
     photo: /images/uploads/vicente-muñoz-walther.jpg
   - education1: Licenciado en Ciencias con Mención en Biología de la Universidad de Chile.
     education2: Estudiante del Magíster en Ciencias Biológicas de la Universidad de Chile.
-    email: 'rodrigo.dover[at]ug[dot]uchile[dot]cl'
-    info: >-
-      Mi interés se enfoca en el estudio de los sistemas visuales,
+    email: rodrigo.dover[at]ug[dot]uchile[dot]cl
+    info: Mi interés se enfoca en el estudio de los sistemas visuales,
       particularmente en el desarrollo de las RGC (retinal ganglion cells).
       También tengo gustos por la historia de la ciencia, la política científica
       (#ScienceMarch), la docencia y la neurociencia en general.
