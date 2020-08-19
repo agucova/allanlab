@@ -15,59 +15,59 @@ collections:
       - {label: "Cuerpo", name: "body", widget: "markdown"}
       - {label: "Sitemap", name: "sitemap", widget: "boolean", default: false}
       - {label: "Permalink", name: "permalink", widget: "string", default: "{{slug}}"}
-  - name: "listas"
-    label: "Listas"
-    files:
-      - label: "Investigadores"
-        name: "investigadores"
-        file: "_data/investigadores.yml"
-        extension: yml
-        fields:
-          - label: Investigador
-            name: miembros
-            widget: list
-            fields:
-              - {label: Nombre, name: name, widget: string}
-              - {label: Foto, name: photo, widget: image}
-              - {label: Info, name: info, widget: string}
-              - {label: Email, name: email, widget: string}
-              - {label: Numero Educ, name: number_educ, widget: number}
-              - {label: Educación 1, name: education1, widget: text, required: false}
-              - {label: Educación 2, name: education2, widget: text, required: false}
-              - {label: Educación 3, name: education3, widget: text, required: false}
-              - {label: Educación 4, name: education4, widget: text, required: false}
-              - {label: Educación 5, name: education5, widget: text, required: false}
-      - label: "Noticias"
-        name: "noticias"
-        file: "_data/news.yml"
-        extension: yml
-        fields:
-          - label: Entrada
-            name: entradas
-            widget: list
-            fields:
-              - {label: Título, name: headline, widget: markdown}
-              - {label: Fecha, name: date, widget: date, format: "DD/MM/YYYY"}
-      - label: "Publicaciones"
-      name: "publicaciones"
-    file: "_data/publist.yml"
-    extension: yml
-    fields:
-      - label: "Publicación"
-        name: "papers"
-        widget: list
-        fields:
-          - {label: Título, name: title, widget: string}
-          - {label: Foto, name: image, widget: image}
-          - {label: Descripción, name: description, widget: text}
-          - {label: Autores, name: authors, widget: string}
-          - label: Link
-            name: link
-            widget: object
-            fields:
-            - {label: URL, name: url, widget: string}
-            - {label: "Mostrar como", name: display, widget: string}
-          - {label: "¿Destacar?", name: highlight, widget: select, options: [0, 1]}
-          - {label: "En los medios 1", name: news, widget: text}
-          - {label: "En los medios 2", name: news1, widget: text}
-          - {label: "En los medios 3", name: news2, widget: text}
+    - name: "listas"
+      label: "Listas"
+      files:
+        - label: "Investigadores"
+          name: "investigadores"
+          file: "_data/investigadores.yml"
+          extension: yml
+          fields:
+            - label: Investigador
+              name: miembros
+              widget: list
+              fields:
+                - {label: Nombre, name: name, widget: string}
+                - {label: Foto, name: photo, widget: image}
+                - {label: Info, name: info, widget: string}
+                - {label: Email, name: email, widget: string}
+                - {label: Numero Educ, name: number_educ, widget: number}
+                - {label: Educación 1, name: education1, widget: text, required: false}
+                - {label: Educación 2, name: education2, widget: text, required: false}
+                - {label: Educación 3, name: education3, widget: text, required: false}
+                - {label: Educación 4, name: education4, widget: text, required: false}
+                - {label: Educación 5, name: education5, widget: text, required: false}
+        - label: "Noticias"
+          name: "noticias"
+          file: "_data/news.yml"
+          extension: yml
+          fields:
+            - label: Entrada
+              name: entradas
+              widget: list
+              fields:
+                - {label: Título, name: headline, widget: markdown}
+                - {label: Fecha, name: date, widget: date, format: "DD/MM/YYYY"}
+        - label: "Publicaciones"
+        name: "publicaciones"
+      file: "_data/publist.yml"
+      extension: yml
+      fields:
+        - label: "Publicación"
+          name: "papers"
+          widget: list
+          fields:
+            - {label: Título, name: title, widget: string}
+            - {label: Foto, name: image, widget: image}
+            - {label: Descripción, name: description, widget: text}
+            - {label: Autores, name: authors, widget: string}
+            - label: Link
+              name: link
+              widget: object
+              fields:
+              - {label: URL, name: url, widget: string}
+              - {label: "Mostrar como", name: display, widget: string}
+            - {label: "¿Destacar?", name: highlight, widget: select, options: [0, 1]}
+            - {label: "En los medios 1", name: news, widget: text}
+            - {label: "En los medios 2", name: news1, widget: text}
+            - {label: "En los medios 3", name: news2, widget: text}
