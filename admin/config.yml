@@ -68,6 +68,7 @@ collections:
               - {label: URL, name: url, widget: string}
               - {label: "Mostrar como", name: display, widget: string}
             - label: "¿Destacar?"
+              name: highlight
               default: 0
               min: 0
               max: 1
