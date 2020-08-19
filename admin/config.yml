@@ -68,11 +68,11 @@ collections:
               - {label: URL, name: url, widget: string}
               - {label: "Mostrar como", name: display, widget: string}
             - label: "¿Destacar?"
-              name: highlight
-              widget: select
-              options: 
-                - {label: "No destacar", value: 0}
-                - {label: "Destacar", value: 1}
+              default: 0
+              min: 0
+              max: 1
+              step: 1
+              valueType: int
             - {label: "En los medios 1", name: news, widget: text}
             - {label: "En los medios 2", name: news1, widget: text}
             - {label: "En los medios 3", name: news2, widget: text}
