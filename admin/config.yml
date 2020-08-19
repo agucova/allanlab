@@ -47,6 +47,8 @@ collections:
           - label: Entrada
             name: entradas
             widget: list
+            editor:
+              preview: false
             fields:
               - {label: Título, name: headline, widget: markdown}
               - {label: Fecha, name: date, widget: date, format: "DD/MM/YYYY"}
@@ -57,9 +59,11 @@ collections:
         editor:
           preview: false
         fields:
-        - label: "Publicación"
+        - label: "papers"
           name: "papers"
           widget: list
+          editor:
+            preview: false
           fields:
             - {label: Título, name: title, widget: string}
             - {label: Foto, name: image, widget: image, required: false, hint: "Solo aparece si el paper está destacado."}
@@ -84,3 +88,4 @@ collections:
             - {label: "En los medios 1", name: news, widget: text, required: false, hint: "Aquí usualmente pones un link en HTML a publicaciones, menciones o cosas relacionadas. Puedes usar el 2 y el 3 si necesitas mas."}
             - {label: "En los medios 2", name: news1, widget: text, required: false}
             - {label: "En los medios 3", name: news2, widget: text, required: false}
+            
