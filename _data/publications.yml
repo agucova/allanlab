@@ -222,7 +222,7 @@ papers:
     link:
       url: http://nohaynadaaqui.com
       display: nada
-    highlight: 0
+    highlight: 1
     news2: null
   - title: Nematic electronic structure in the “parent” state of the iron-based
       superconductor Ca(Fe1−xCox)2As2
