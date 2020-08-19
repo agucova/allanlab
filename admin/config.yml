@@ -62,15 +62,15 @@ collections:
           widget: list
           fields:
             - {label: Título, name: title, widget: string}
-            - {label: Foto, name: image, widget: image}
+            - {label: Foto, name: image, widget: image, required: false, hint: "Solo aparece si el paper está destacado."}
             - {label: Descripción, name: description, widget: text}
-            - {label: Autores, name: authors, widget: string}
+            - {label: Autores, name: authors, widget: string, hint: "Formato a preferencia, pero que calce con los demás papers."}
             - label: Link
               name: link
               widget: object
               fields:
               - {label: URL, name: url, widget: string}
-              - {label: "Mostrar como", name: display, widget: string}
+              - {label: "Mostrar como", name: display, widget: string, hint: "Texto que aparece como si fuera el link."}
             - label: "¿Destacar?"
               name: highlight
               default: 0
@@ -79,6 +79,8 @@ collections:
               step: 1
               valueType: int
               widget: number
-            - {label: "En los medios 1", name: news, widget: text}
-            - {label: "En los medios 2", name: news1, widget: text}
-            - {label: "En los medios 3", name: news2, widget: text}
+              required: true
+              hint: "1 significa destacar, 0 significa no destacar."
+            - {label: "En los medios 1", name: news, widget: text, required: false, hint: "Aquí usualmente pones un link en HTML a publicaciones, menciones o cosas relacionadas. Puedes usar el 2 y el 3 si necesitas mas."}
+            - {label: "En los medios 2", name: news1, widget: text, required: false}
+            - {label: "En los medios 3", name: news2, widget: text, required: false}
