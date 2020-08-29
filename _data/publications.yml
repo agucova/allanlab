@@ -282,6 +282,35 @@ papers:
       url: https://constructivist.info/13/1/147.mpodozis
       display: "Constructivist Foundations, 13(1): 147–149."
     image: /images/uploads/13.1.medium.jpg
+  - highlight: 1
+    title: "Selective binocular vision loss in two subterranean caviomorph rodents:
+      Spalacopus cyanus and Ctenomys talarum."
+    description: Abstract. To what extent can the mammalian visual system be shaped
+      by visual behavior? Here we analyze the shape of the visual fields, the
+      densities and distribution of cells in the retinal ganglion-cell layer and
+      the organization of the visual projections in two species of facultative
+      non-strictly subterranean rodents, Spalacopus cyanus and Ctenomys talarum,
+      aiming to compare these traits with those of phylogenetically closely
+      related species possessing contrasting diurnal/nocturnal visual habits. S.
+      cyanus shows a definite zone of frontal binocular overlap and a
+      corresponding area centralis, but a highly reduced amount of ipsilateral
+      retinal projections. The situation in C. talarum is more extreme as it
+      lacks of a fronto-ventral area of binocular superposition, has no
+      recognizable area centralis and shows no ipsilateral retinal projections
+      except to the suprachiasmatic nucleus. In both species, the extension of
+      the monocular visual field and of the dorsal region of binocular overlap
+      as well as the whole set of contralateral visual projections, appear
+      well-developed. We conclude that these subterranean rodents exhibit,
+      paradoxically, diurnal instead of nocturnal visual specializations, but at
+      the same time suffer a specific regression of the anatomical substrate for
+      stereopsis. We discuss these findings in light of the visual ecology of
+      subterranean lifestyles.
+    authors: Vega-Zuniga, T., Medina, F. S., Marín, G., Letelier, J. C., Palacios,
+      A. G., Němec, P., Schleich, C. E., & Mpodozis, J. (2017)
+    link:
+      url: https://www.nature.com/articles/srep41704
+      display: "Scientific Reports, 7, 41704. doi: 10.1038/srep41704."
+    image: /images/uploads/vega-zuniga-2017.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
