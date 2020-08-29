@@ -217,11 +217,11 @@ papers:
   - highlight: 1
     link:
       url: https://www.sciencedirect.com/science/article/abs/pii/S1053811918300636
-      display: "NeuroImage, 172: 575-585."
+      display: "NeuroImage, 172: 575-585. doi: 10.1016/j.neuroimage.2018.01.063."
     title: Envelope analysis links oscillatory and arrhythmic EEG activities to two
       types of neuronal synchronization.
     authors: Díaz, J., Bassi, A., Coolen, A., Vivaldi, E. A., & Letelier, J. C. (2018)
-    description: "Traditionally, EEG is understood as originating from the
+    description: "Abstract. Traditionally, EEG is understood as originating from the
       synchronous activation of neuronal populations that generate rhythmic
       oscillations in specific frequency bands. Recently, new neuronal dynamics
       regimes have been identified (e.g. neuronal avalanches) characterized by
@@ -268,6 +268,20 @@ papers:
       brain evolution, (ii) the evolution of computational capacities and neural
       circuits, and (iii) the role of development in shaping brain evolution.
     image: /images/uploads/aboitiz2018.png
+  - highlight: 1
+    title: "Function vs. Structure: The immune system as a case in point."
+    description: Functional approaches to systems, while of heuristic value in many
+      cases, may lead to a neglect of some fundamental aspects of systemic
+      phenomenology. The adoption of an alternative structural/mechanistic
+      approach can be very enlightening to unveil, and effective to solve, the
+      conceptual and heuristic limitations resulting from the adoption of the
+      functional approach. The epistemic history of immunology, as described in
+      the target article,  offers compelling evidences of this situation.
+    authors: Mpodozis, J. (2017)
+    link:
+      url: https://constructivist.info/13/1/147.mpodozis
+      display: "Constructivist Foundations, 13(1): 147–149."
+    image: /images/uploads/13.1.medium.jpg
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
