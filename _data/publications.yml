@@ -1,18 +1,38 @@
 papers:
-  - highlight: 0
-    title: Directional movement and horizontal edge detectors in the pigeon retina.
-    image: ""
-    description: Abstract. There are ganglion cells in the pigeon retina that
-      respond selectively, some to any edge moving in a particular direction
-      only, others to any vertically moving horizontal edge. This selective
-      response to a specific stimulus arises from the selective sensitivity of
-      each neuron to a particular spatiotemporal configuration in its afferent
-      influences, and is independent of specific pathways.
-    authors: Maturana, H., & Frenk, S. (1963)
+  - highlight: 1
+    title: "Parallel organization of the avian sensorimotor arcopallium: Tectofugal
+      visual pathway in the pigeon (Columba livia)"
+    description: Abstract. The sensory–motor division of the avian arcopallium
+      receives parallel inputs from primary and high‐order pallial areas of
+      sensory and vocal control pathways, and sends a prominent descending
+      projection to ascending and premotor, subpallial stages of these pathways.
+      While this organization is well established for the auditory and
+      trigeminal systems, the arcopallial subdivision related to the tectofugal
+      visual system and its descending projection to the optic tectum (TeO) has
+      been less investigated. In this study, we charted the arcopallial area
+      displaying tectofugal visual responses and by injecting neural tracers, we
+      traced its connectional anatomy. We found visual motion‐sensitive
+      responses in a central region of the dorsal (AD) and intermediate (AI)
+      arcopallium, in between previously described auditory and trigeminal
+      zones. Blocking the ascending tectofugal sensory output, canceled these
+      visual responses in the arcopallium, verifying their tectofugal origin.
+      Injecting PHA‐L into the visual, but not into the auditory AI, revealed a
+      massive projection to tectal layer 13 and other tectal related areas,
+      sparing auditory, and trigeminal ones. Conversely, CTB injections
+      restricted to TeO retrogradely labeled neurons confined to the visual AI.
+      These results show that the AI zone receiving tectofugal inputs sends
+      top‐down modulations specifically directed to tectal targets, just like
+      the auditory and trigeminal AI zones project back to their respective
+      subpallial sensory and premotor areas, as found by previous studies.
+      Therefore, the arcopallium seems to be organized in a parallel fashion,
+      such that in spite of expected cross‐modal integration, the different
+      sensory–motor loops run through separate subdivisions of this structure.
     link:
-      url: https://science.sciencemag.org/content/142/3594/977
-      display: "Science, 142(3594), 977–979. doi: 10.1126/science.142.3594.977"
-    news: ""
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24775
+      display: "Journal of Comparative Neurology, 528: 597-623. doi: 10.1002/cne.24775."
+    authors: Fernández, M., Morales, C., Durán, E., Fernández-Colleman, S., Sentis,
+      E., Mpodozis, J., Karten, H. J., & Marín, G. J. (2020)
+    image: /images/uploads/fernandez2019_b.png
   - highlight: 1
     title: "Intratelencephalic projections of the avian visual dorsal ventricular
       ridge: Laminarly segregated, reciprocally and topographically organized."
@@ -20,7 +40,8 @@ papers:
       Mpodozis, J. (2019)
     link:
       url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24757
-      display: "Journal of Comparative Neurology, 528(2), 1–39. doi: 10.1002/cne.24757"
+      display: "Journal of Comparative Neurology, 528(2), 321– 359. doi:
+        10.1002/cne.24757."
     news: ""
     description: >+
       Abstract. Recent reports have shown that the avian visual dorsal
@@ -49,3 +70,24 @@ papers:
       cortical layers II/III.
 
     image: /images/uploads/fernandez2019_a.png
+  - highlight: 0
+    title: Specificity versus ambiguity in the retina of vertebrates.
+    link:
+      url: https://pubmed.ncbi.nlm.nih.gov/5825764/
+      display: Biologica (Santiago), 36:69-96.
+    authors: Maturana, H. (1964)
+    description: No description.
+  - highlight: 0
+    title: Directional movement and horizontal edge detectors in the pigeon retina.
+    image: ""
+    description: Abstract. There are ganglion cells in the pigeon retina that
+      respond selectively, some to any edge moving in a particular direction
+      only, others to any vertically moving horizontal edge. This selective
+      response to a specific stimulus arises from the selective sensitivity of
+      each neuron to a particular spatiotemporal configuration in its afferent
+      influences, and is independent of specific pathways.
+    authors: Maturana, H., & Frenk, S. (1963)
+    link:
+      url: https://science.sciencemag.org/content/142/3594/977
+      display: "Science, 142(3594), 977–979. doi: 10.1126/science.142.3594.977."
+    news: ""
