@@ -996,24 +996,182 @@ papers:
       of nonmammalian amniotes and contribute to clarifying the general
       organization of the tectopulvinar pathways in mammals.
     image: /images/uploads/fredes2012.png
-  - highlight: 0
-    title: Specificity versus ambiguity in the retina of vertebrates.
+  - highlight: 1
     link:
-      url: https://pubmed.ncbi.nlm.nih.gov/5825764/
-      display: Biologica (Santiago), 36:69-96.
-    authors: Maturana, H. (1964)
-    description: No description.
-  - highlight: 0
-    title: Directional movement and horizontal edge detectors in the pigeon retina.
-    image: ""
-    description: Abstract. There are ganglion cells in the pigeon retina that
-      respond selectively, some to any edge moving in a particular direction
-      only, others to any vertically moving horizontal edge. This selective
-      response to a specific stimulus arises from the selective sensitivity of
-      each neuron to a particular spatiotemporal configuration in its afferent
-      influences, and is independent of specific pathways.
-    authors: Maturana, H., & Frenk, S. (1963)
+      url: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1469-7580.2011.01357.x
+      display: "Journal of Anatomy, 218: 558-565. doi:
+        10.1111/j.1469-7580.2011.01357.x."
+    title: Shared and differential traits in the accessory olfactory bulb of
+      caviomorph rodents with particular reference to the semiaquatic capybara.
+    authors: Suárez, R., Santibáñez, R., Parra, D., Coppi, A. A., Abrahão, L. M. B.,
+      Sasahara, T. H. C., & Mpodozis, J. (2011)
+    description: Abstract. The vomeronasal system is crucial for social and sexual
+      communication in mammals. Two populations of vomeronasal sensory neurons,
+      each expressing Gαi2 or Gαo proteins, send projections to glomeruli of the
+      rostral or caudal accessory olfactory bulb, rAOB and cAOB, respectively.
+      In rodents, the Gαi2‐ and Gαo‐expressing vomeronasal pathways have shown
+      differential responses to small/volatile vs. large/non‐volatile
+      semiochemicals, respectively. Moreover, early gene expression suggests
+      predominant activation of rAOB and cAOB neurons in sexual vs. aggressive
+      contexts, respectively. We recently described the AOB of Octodon degus, a
+      semiarid‐inhabiting diurnal caviomorph. Their AOB has a cell indentation
+      between subdomains and the rAOB is twice the size of the cAOB. Moreover,
+      their AOB receives innervation from the lateral aspect, contrasting with
+      the medial innervation of all other mammals examined to date. Aiming to
+      relate AOB anatomy with lifestyle, we performed a morphometric study on
+      the AOB of the capybara, a semiaquatic caviomorph whose lifestyle differs
+      remarkably from that of O. degus. Capybaras mate in water and scent‐mark
+      their surroundings with oily deposits, mostly for male–male communication.
+      We found that, similar to O. degus, the AOB of capybaras shows a lateral
+      innervation of the vomeronasal nerve, a cell indentation between
+      subdomains and heterogeneous subdomains, but in contrast to O. degus the
+      caudal portion is larger than the rostral one. We also observed that four
+      other caviomorph species present a lateral AOB innervation and a cell
+      indentation between AOB subdomains, suggesting that those traits could
+      represent apomorphies of the group. We propose that although some AOB
+      traits may be phylogenetically conserved in caviomorphs, ecological
+      specializations may play an important role in shaping the AOB.
+    image: /images/uploads/suarez2011_a.png
+  - highlight: 1
+    title: Deterioration of the Gαo vomeronasal pathway in sexually dimorphic mammals.
+    description: "Abstract. In mammals, social and sexual behaviours are largely
+      mediated by the vomeronasal system (VNS). The accessory olfactory bulb
+      (AOB) is the first synaptic locus of the VNS and ranges from very large in
+      Caviomorph rodents, small in carnivores and ungulates, to its complete
+      absence in apes, elephants, most bats and aquatic species. Two pathways
+      have been described in the VNS of mammals. In mice, vomeronasal neurons
+      expressing Gαi2 protein project to the rostral portion of the AOB and
+      respond mostly to small volatile molecules, whereas neurons expressing Gαo
+      project to the caudal AOB and respond mostly to large non-volatile
+      molecules. However, the Gαo-expressing pathway is absent in several
+      species (horses, dogs, musk shrews, goats and marmosets) but no hypotheses
+      have been proposed to date to explain the loss of that pathway. We noted
+      that the species that lost the Gαo pathway belong to Laurasiatheria and
+      Primates lineages, both clades with ubiquitous sexual dimorphisms across
+      species. To assess whether similar events of Gαo pathway loss could have
+      occurred convergently in dimorphic species we studied G-protein expression
+      in the AOB of two species that independently evolved sexually dimorphic
+      traits: the California ground squirrel Spermophilus beecheyi (Rodentia;
+      Sciurognathi) and the cape hyrax Procavia capensis (Afrotheria;
+      Hyracoidea). We found that both species show uniform expression of
+      Gαi2-protein throughout AOB glomeruli, while Gαo expression is restricted
+      to main olfactory glomeruli only. Our results suggest that the
+      degeneration of the Gαo-expressing vomeronasal pathway has occurred
+      independently at least four times in Eutheria, possibly related to the
+      emergence of sexual dimorphisms and the ability of detecting the gender of
+      conspecifics at distance."
+    authors: Suárez, R., Fernández-Aburto, P., Manger, P. R., & Mpodozis, J. (2011)
     link:
-      url: https://science.sciencemag.org/content/142/3594/977
-      display: "Science, 142(3594), 977–979. doi: 10.1126/science.142.3594.977."
-    news: ""
+      url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026436
+      display: "PLoS ONE 6(10): e26436, 1-6. doi: 10.1371/journal.pone.0026436"
+    image: /images/uploads/suarez2011_b.png
+  - highlight: 1
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0022519311003389
+      display: "Journal of Theoretical Biology, 286: 100-113, doi:
+        10.1016/j.jtbi.2011.06.033."
+    title: "From L'Homme Machine to metabolic closure: Steps towards understanding
+      life."
+    description: Abstract. The nature of life has been a topic of interest from the
+      earliest of times, and efforts to explain it in mechanistic terms date at
+      least from the 18th century. However, the impressive development of
+      molecular biology since the 1950s has tended to have the question put on
+      one side while biologists explore mechanisms in greater and greater
+      detail, with the result that studies of life as such have been confined to
+      a rather small group of researchers who have ignored one another's work
+      almost completely, often using quite different terminology to present very
+      similar ideas. Central among these ideas is that of closure, which implies
+      that all of the catalysts needed for an organism to stay alive must be
+      produced by the organism itself, relying on nothing apart from food (and
+      hence chemical energy) from outside. The theories that embody this idea to
+      a greater or less degree are known by a variety of names, including (M,R)
+      systems, autopoiesis, the chemoton, the hypercycle, symbiosis,
+      autocatalytic sets, sysers and RAF sets. These are not all the same, but
+      they are not completely different either, and in this review we examine
+      their similarities and differences, with the aim of working towards the
+      formulation of a unified theory of life.
+    authors: Letelier, J. C., Cárdenas, M. L., & Cornish-Bowden, A. (2011)
+    image: /images/uploads/letelier2011.png
+  - highlight: 1
+    title: Can red flowers be conspicuous to bees? Bombus dahlbomii and South
+      American temperate forest flowers as a case in point.
+    authors: Martínez-Harms, J., Palacios, A. G., Márquez, N., Estay, P., Arroyo, M.
+      T. K., & Mpodozis, J. (2010)
+    link:
+      display: "Journal of Experimental Biology, 213: 564-571; doi: 10.1242/jeb.037622."
+      url: https://jeb.biologists.org/content/213/4/564
+    description: Abstract. It has been argued that trichromatic bees with
+      photoreceptor spectral sensitivity peaks in the ultraviolet (UV), blue and
+      green areas of the spectrum are blind to long wavelengths (red to humans).
+      South American temperate forests (SATF) contain a large number of human
+      red-looking flowers that are reported to be visited by the bumblebee
+      Bombus dahlbomii. In the present study, B. dahlbomii's spectral
+      sensitivity was measured through electroretinogram (ERG) recordings. No
+      extended sensitivity to long wavelengths was found in B. dahlbomii. The
+      spectral reflectance curves from eight plant species with red flowers were
+      measured. The color loci occupied by these flowers in the bee color space
+      was evaluated using the receptor noise-limited model. Four of the plant
+      species have pure red flowers with low levels of chromatic contrast but
+      high levels of negative L-receptor contrast. Finally, training experiments
+      were performed in order to assess the role of achromatic cues in the
+      detection and discrimination of red targets by B. dahlbomii. The results
+      of the training experiments suggest that the bumblebee relies on
+      achromatic contrast provided by the L-receptor to detect and discriminate
+      red targets. These findings are discussed in the context of the
+      evolutionary background under which the relationship between SATF species
+      and their flower visitors may have evolved.
+    image: /images/uploads/martinez-harms2010.png
+  - highlight: 1
+    title: Closure to efficient causation, computability and artificial life.
+    authors: Luz Cárdenas, M., Letelier, J. C., Gutierrez, C., Cornish-Bowden, A., &
+      Soto-Andrade, J. (2010)
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0022519309005360
+      display: "Journal of Theoretical Biology, 263, 1: 79-92, doi:
+        10.1016/j.jtbi.2009.11.010."
+    description: Abstract. The major insight in Robert Rosen's view of a living
+      organism as an (M,R)-system was the realization that an organism must be
+      “closed to efficient causation”, which means that the catalysts needed for
+      its operation must be generated internally. This aspect is not
+      controversial, but there has been confusion and misunderstanding about the
+      logic Rosen used to achieve this closure. In addition, his corollary that
+      an organism is not a mechanism and cannot have simulable models has led to
+      much argument, most of it mathematical in nature and difficult to
+      appreciate. Here we examine some of the mathematical arguments and clarify
+      the conditions for closure.
+    image: /images/uploads/cardenas2010.png
+  - highlight: 1
+    link:
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.22460
+      display: "Journal of Comparative Neurology, 518: 4342-4361. doi:
+        10.1002/cne.22460."
+    title: Topographic arrangement of the rotundo‐entopallial projection in the
+      pigeon (Columba livia),
+    description: Abstract. The tectofugal pathway (retina – optic tectum – nucleus
+      rotundus – entopallium) is a prominent route mediating visual
+      discrimination in diurnal birds. Several lines of evidence have shown that
+      at the tecto‐rotundal stage this pathway is composed of multiple parallel
+      channels. Anatomical studies show that the nucleus rotundus is composed of
+      at least four subdivisions, according to differences in cytoarchitectonic,
+      histochemical, and hodological properties. Each of these subdivisions is
+      in receipt of a highly convergent, nontopographic tectal projection,
+      originating from a distinct subset of tecto‐rotundal neurons.
+      Physiological studies show that neurons of different subdivisions respond
+      specifically to different visual dimensions, such as color, luminance,
+      two‐dimensional motion, and in‐depth motion. At present it is less clear
+      whether or to what extent this channel segregation is preserved at the
+      telencephalic stage of the tectofugal pathway. The entopallium shows no
+      obvious subdivisions or laminations. Nevertheless, tract‐tracing
+      experiments show that separate portions of the entopallium receive
+      efferent projections from different rotundal subdivisions, in a way that
+      maintains the rostrocaudal order of these subdivisions. In the present
+      study we investigate in detail the topography of the rotundo‐entopallial
+      projection by means of anterograde and retrograde neuronal tracers. Our
+      results confirm the zonal topography proposed by previous studies and
+      indicate that each zone in the entopallium receives a direct and
+      topographically organized projection from its corresponding rotundal
+      subdivision. These results suggest that the spatial arrangement of the
+      different rotundal functional modules is preserved at the entopallial
+      level.
+    authors: Fredes, F., Tapia, S., Letelier, J. C., Marín, G., & Mpodozis, J. (2010)
+    image: /images/uploads/fredes2010.png
