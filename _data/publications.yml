@@ -401,3 +401,59 @@ papers:
       url: https://science.sciencemag.org/content/142/3594/977
       display: "Science, 142(3594), 977–979. doi: 10.1126/science.142.3594.977."
     news: ""
+  - highlight: 1
+    link:
+      url: https://www.karger.com/Article/FullText/444741
+      display: "Brain, Behavior and Evolution, 87: 51-64. doi: 10.1159/000444741."
+    title: Effects of habitat and social complexity on brain size, brain asymmetry
+      and dentate gyrus morphology in two octodontid rodents.
+    description: Abstract. Navigational and social challenges due to habitat
+      conditions and sociality are known to influence dentate gyrus (DG)
+      morphology, yet the relative importance of these factors remains unclear.
+      Thus, we studied three natural populations of O. lunatus (Los Molles) and
+      Octodon degus (El Salitre and Rinconada), two caviomorph species that
+      differ in the extent of sociality and with contrasting vegetation cover of
+      habitat used. The brains and DG of male and female breeding degus with
+      simultaneous information on their physical and social environments were
+      examined. The extent of sociality was quantified from total group size and
+      range area overlap. O. degus at El Salitre was more social than at
+      Rinconada and than O. lunatus from Los Molles. The use of transects to
+      quantify cover of vegetation (and other physical objects in the habitat)
+      and measures of the spatial behavior of animals indicated animal
+      navigation based on unique cues or global landmarks is more cognitively
+      challenging to O. lunatus. During lactation, female O. lunatus had larger
+      brains than males. Relative DG volume was similar across sexes and
+      populations. The right hemisphere of male and female O. lunatus had more
+      cells than the left hemisphere, with DG directional asymmetry not found in
+      O. degus. Degu population differences in brain size and DG cell number
+      seemed more responsive to differences in habitat than to differences in
+      sociality. Yet, large-sized O. degus (but not O. lunatus) that ranged over
+      larger areas and were members of larger social groups had more DG cells
+      per hemisphere. Thus, within-population variation in DG cell number by
+      hemisphere was consistent with a joint influence of habitat and sociality
+      in O. degus at El Salitre.
+    authors: Sobrero, R., Fernández-Aburto, P., Ly-Prieto, Á., Delgado, S. E.,
+      Mpodozis, J., & Ebensperger, L. A. (2016)
+    image: /images/uploads/sobrero2016.png
+  - highlight: 1
+    link:
+      url: https://www.nature.com/articles/ncomms9902
+      display: "Nature Communications, 6, 8902: 1-7. doi: 10.1038/ncomms9902."
+    title: Bird embryos uncover homology and evolution of the dinosaur ankle.
+    description: The anklebone (astragalus) of dinosaurs presents a characteristic
+      upward projection, the ‘ascending process’ (ASC). The ASC is present in
+      modern birds, but develops a separate ossification centre, and projects
+      from the calcaneum in most species. These differences have been argued to
+      make it non-comparable to dinosaurs. We studied ASC development in six
+      different orders of birds using traditional techniques and spin–disc
+      microscopy for whole-mount immunofluorescence. Unexpectedly, we found the
+      ASC derives from the embryonic intermedium, an ancient element of the
+      tetrapod ankle. In some birds it comes in contact with the astragalus,
+      and, in others, with the calcaneum. The fact that the intermedium fails to
+      fuse early with the tibiale and develops an ossification centre is unlike
+      any other amniotes, yet resembles basal, amphibian-grade tetrapods. The
+      ASC originated in early dinosaurs along changes to upright posture and
+      locomotion, revealing an intriguing combination of functional innovation
+      and reversion in its evolution.
+    authors: Ossa-Fuentes, L., Mpodozis, J., & Vargas, A. O. (2015)
+    image: /images/uploads/ossa-fuentes2015.png
