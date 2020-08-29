@@ -791,6 +791,33 @@ papers:
       display: "BMC Developmental Biology, 14, 7: 1-13. doi: 10.1186/1471-213X-14-7."
       url: https://bmcdevbiol.biomedcentral.com/articles/10.1186/1471-213X-14-7
     image: /images/uploads/moya-diaz2014.png
+  - highlight: 1
+    link:
+      url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090165
+      display: "PLoS ONE 9(3): e90165, . doi: 10.1371/journal.pone.0090165."
+    title: "Cognitive ecology in hummingbirds: The role of sexual dimorphism and its
+      anatomical correlates on memory."
+    authors: González-Gómez, P. L., Madrid-Lopez, N., Salazar, J. E., Suárez, R.,
+      Razeto-Barry, P., Mpodozis, J., Bozinovic, F., & Vásquez, R. A. (2014)
+    description: Abstract. In scatter-hoarding species, several behavioral and
+      neuroanatomical adaptations allow them to store and retrieve thousands of
+      food items per year. Nectarivorous animals face a similar scenario having
+      to remember quality, location and replenishment schedules of several
+      nectar sources. In the green-backed firecrown hummingbird (Sephanoides
+      sephanoides), males are territorial and have the ability to accurately
+      keep track of nectar characteristics of their defended food sources. In
+      contrast, females display an opportunistic strategy, performing rapid
+      intrusions into males territories. In response, males behave aggressively
+      during the non-reproductive season. In addition, females have higher
+      energetic demands due to higher thermoregulatory costs and travel times.
+      The natural scenario of this species led us to compared cognitive
+      abilities and hippocampal size between males and females. Males were able
+      to remember nectar location and renewal rates significantly better than
+      females. However, the hippocampal formation was significantly larger in
+      females than males. We discuss these findings in terms of sexually
+      dimorphic use of spatial resources and variable patterns of brain
+      dimorphisms in birds.
+    image: /images/uploads/gonzalez-gomez2014.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
