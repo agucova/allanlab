@@ -103,7 +103,7 @@ papers:
       factor driving to distinct AOB morphometries.
     authors: Fernández-Aburto, P., Delgado, S. E., Sobrero, R., & Mpodozis, J. (2020)
     link:
-      display: "Journal of Anatomy, 236: 612-621. doi:10.1111/joa.13126."
+      display: "Journal of Anatomy, 236: 612-621. doi: 10.1111/joa.13126."
       url: https://onlinelibrary.wiley.com/doi/abs/10.1111/joa.13126
     image: /images/uploads/fernandez-aburto2020.png
   - highlight: 1
@@ -208,8 +208,8 @@ papers:
       connectivity.
     link:
       url: https://www.pnas.org/content/115/32/E7615
-      display: Proceedings of the National Academy of Sciences, 115(32) E7615-E7623.
-        doi:10.1073/pnas.1804517115.
+      display: "Proceedings of the National Academy of Sciences, 115(32) E7615-E7623.
+        doi: 10.1073/pnas.1804517115."
     authors: Garrido-Charad, F., Vega-Zuniga, T., Gutiérrez-Ibáñez, C., Fernandez,
       P., López-Jury, L., González-Cabrera, C., Karten, H. J., Luksch, H., &
       Marín, G. J. (2018)
@@ -513,7 +513,7 @@ papers:
       topography and retino‐central connections in the Chilean Tinamou
       (Nothoprocta perdicaria)."
     link:
-      display: "Journal of Comparative Neurology, 523: 226-250. doi:10.1002/cne.23676"
+      display: "Journal of Comparative Neurology, 523: 226-250. doi: 10.1002/cne.23676."
       url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23676
     description: "Abstract. Most systematic studies of the avian visual system have
       focused on Neognathous species, leaving virtually unexplored the
@@ -573,8 +573,8 @@ papers:
       feedback from the SLu to the TeO is indeed cholinergic, the feedback from
       the Ipc has a marked glutamatergic component."
     link:
-      display: "Journal of Comparative Neurology, 523: 1341-1358.
-        doi:10.1002/cne.23739."
+      display: "Journal of Comparative Neurology, 523: 1341-1358. doi:
+        10.1002/cne.23739."
       url: https://onlinelibrary.wiley.com/doi/10.1002/cne.23739
     authors: González-Cabrera, C., Garrido-Charad, F., Roth, A., & Marín, G. J. (2015)
     image: /images/uploads/gonzalez-cabrera2015.png
@@ -696,14 +696,16 @@ papers:
       & Mpodozis, J. (2015)
     link:
       url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23808
-      display: "Journal of Comparative Neurology, 523: 2618-2636. doi:10.1002/cne.23808"
+      display: "Journal of Comparative Neurology, 523: 2618-2636. doi:
+        10.1002/cne.23808."
     image: /images/uploads/ahumada-galleguillos2015.png
   - highlight: 1
     title: "Morphology, projection pattern, and neurochemical identity of Cajal's
       “centrifugal neurons”: The cells of origin of the tectoventrogeniculate
       pathway in pigeon (Columba livia) and chicken (Gallus gallus)."
     link:
-      display: "Journal of Comparative Neurology, 522: 2377-2396. doi:10.1002/cne.23539"
+      display: "Journal of Comparative Neurology, 522: 2377-2396.
+        doi:10.1002/cne.23539."
       url: https://onlinelibrary.wiley.com/doi/10.1002/cne.23539
     authors: Vega-Zuniga, Tomas, Mpodozis, J., Karten, H. J., Marín, G., Hain, S., &
       Luksch, H. (2014)
@@ -749,7 +751,8 @@ papers:
     link:
       url: https://link.springer.com/article/10.1007/s00359-014-0947-6
       display: "Journal of Comparative Physiology A: Neuroethology, Sensory, Neural,
-        and Behavioral Physiology, 200, 983–996. doi: 10.1007/s00359-014-0947-6"
+        and Behavioral Physiology, 200, 983–996. doi:
+        10.1007/s00359-014-0947-6."
     authors: Ramírez, E., Marín, G., Mpodozis, J., & Letelier, J. C. (2014)
     image: /images/uploads/ramirez2014.png
   - highlight: 1
@@ -860,8 +863,8 @@ papers:
       pars magnocellularis: A retrograde tracer and comparative study."
     link:
       url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23253
-      display: "Journal of Comparative Neurology, 521: 1727-1742.
-        doi:10.1002/cne.23253."
+      display: "Journal of Comparative Neurology, 521: 1727-1742. doi:
+        10.1002/cne.23253."
     description: "Abstract. The isthmic complex is part of a visual midbrain circuit
       thought to be involved in stimulus selection and spatial attention. In
       birds, this circuit is composed of the nuclei isthmi pars magnocellularis
@@ -888,6 +891,111 @@ papers:
     authors: Faunes, M., Fernández, S., Gutiérrez-Ibáñez, C., Iwaniuk, A. N., Wylie,
       D. R., Mpodozis, J., Karten, H. J., & Marín, G. (2013)
     image: /images/uploads/faunes2013.png
+  - highlight: 1
+    link:
+      url: https://www.jneurosci.org/content/32/3/1110
+      display: "Journal of Neuroscience, 32 (3), 1110-1122; doi:
+        10.1523/JNEUROSCI.4151-11.2012."
+    title: Attentional capture? Synchronized feedback signals from the isthmi boost
+      retinal signals to higher visual areas.
+    description: Abstract. When a salient object in the visual field captures
+      attention, the neural representation of that object is enhanced at the
+      expense of competing stimuli. How neural activity evoked by a salient
+      stimulus evolves to take precedence over the neural activity evoked by
+      other stimuli is a matter of intensive investigation. Here, we describe in
+      pigeons (Columba livia) how retinal inputs to the optic tectum (TeO,
+      superior colliculus in mammals), triggered by moving stimuli, are
+      selectively relayed on to the rotundus (Rt, caudal pulvinar) in the
+      thalamus, and to its pallial target, the entopallium (E, extrastriate
+      cortex). We show that two satellite nuclei of the TeO, the nucleus isthmi
+      parvocelullaris (Ipc) and isthmi semilunaris (SLu), send synchronized
+      feedback signals across tectal layers. Preventing the feedback from Ipc
+      but not from SLu to a tectal location suppresses visual responses to
+      moving stimuli from the corresponding region of visual space in all Rt
+      subdivisions. In addition, the bursting feedback from the Ipc imprints a
+      bursting rhythm on the visual signals, such that the visual responses of
+      the Rt and the E acquire a bursting modulation significantly synchronized
+      to the feedback from Ipc. As the Ipc feedback signals are selected by
+      competitive interactions, the visual responses within the receptive fields
+      in the Rt tend to synchronize with the tectal location receiving the
+      “winning” feedback from Ipc. We propose that this selective transmission
+      of afferent activity combined with the cross-regional synchronization of
+      the areas involved represents a bottom-up mechanism by which salient
+      stimuli capture attention.
+    authors: Marín, G. J., Durán, E., Morales, C., González-Cabrera, C., Sentis, E.,
+      Mpodozis, J., & Letelier, J. C. (2012)
+    image: /images/uploads/marin2012.png
+  - highlight: 1
+    title: Functional implications of species differences in the size and morphology
+      of the isthmo optic nucleus (ION) in birds.
+    description: "Abstract. In birds, there is a retinofugal projection from the
+      brain to the retina originating from the isthmo optic nucleus (ION) in the
+      midbrain. Despite a large number of anatomical, physiological and
+      histochemical studies, the function of this retinofugal system remains
+      unclear. Several functions have been proposed including: gaze
+      stabilization, pecking behavior, dark adaptation, shifting attention, and
+      detection of aerial predators. This nucleus varies in size and
+      organization among some species, but the relative size and morphology of
+      the ION has not been systematically studied. Here, we present a comparison
+      of the relative size and morphology of the ION in 81 species of birds,
+      representing 17 different orders. Our results show that several orders of
+      birds, besides those previously reported, have a large, well-organized
+      ION, including: hummingbirds, woodpeckers, coots and allies, and
+      kingfishers. At the other end of the spectrum, parrots, herons, waterfowl,
+      owls and diurnal raptors have relatively small ION volumes. ION also
+      appears to be absent or unrecognizable is several taxa, including one of
+      the basal avian groups, the tinamous, which suggests that the ION may have
+      evolved only in the more modern group of birds, Neognathae. Finally, we
+      demonstrate that evolutionary changes in the relative size and the
+      cytoarchitectonic organization of ION have occurred largely independent of
+      phylogeny. The large relative size of the ION in orders with very
+      different lifestyles and feeding behaviors suggest there is no clear
+      association with pecking behavior or predator detection. Instead, our
+      results suggest that the ION is more complex and enlarged in birds that
+      have eyes that are emmetropic in some parts of the visual field and myopic
+      in others. We therefore posit that the ION is involved in switching
+      attention between two parts of the retina i.e. from an emmetropic to a
+      myopic part of the retina."
+    link:
+      url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037816
+      display: "PLoS ONE 7(5): e37816, . doi: 10.1371/journal.pone.0037816."
+    authors: Gutiérrez-Ibáñez, C., Iwaniuk, A. N., Lisney, T. J., Faunes, M., Marín,
+      G. J., & Wylie, D. R. (2012)
+    image: /images/uploads/gutierrez-ibañez2012.png
+  - highlight: 1
+    title: "Bilateral and ipsilateral ascending tectopulvinar pathways in mammals: A
+      study in the squirrel (spermophilus beecheyi)."
+    link:
+      display: "Journal of Comparative Neurology, 520: 1800-1818. doi:
+        10.1002/cne.23014."
+      url: https://onlinelibrary.wiley.com/doi/10.1002/cne.23014
+    authors: Fredes, F., Vega-Zuniga, T., Karten, H., & Mpodozis, J. (2012)
+    description: Abstract. The mammalian pulvinar complex is a collection of dorsal
+      thalamic nuclei related to several visual and integrative processes.
+      Previous studies have shown that the superficial layers of the superior
+      colliculus project to multiple divisions of the pulvinar complex. Although
+      most of these works agree about the existence of an ipsilateral
+      tectopulvinar projection arising from the stratum griseum superficialis,
+      some others report a bilateral projection originating from this same
+      tectal layer. We investigated the organization of the tectopulvinar
+      projections in the Californian ground squirrel using cholera toxin B
+      (CTb). We confirmed previous studies showing that the caudal pulvinar of
+      the squirrel receives a massive bilateral projection originating from a
+      specific cell population located in the superficial collicular layers
+      (SGS3, also called the “lower SGS” or “SGSL”). We found that this
+      projection shares striking structural similarities with the tectorotundal
+      pathway of birds and reptiles. Morphology of the collicular cells
+      originating this projection closely corresponds to that of the bottlebrush
+      tectal cells described previously for chickens and squirrels. In addition,
+      we found that the rostral pulvinar receives an exclusively ipsilateral
+      projection from a spatially separate population of collicular cells
+      located at the base of the stratum opticum, deeper than the cells
+      projecting to the caudal pulvinar. These results strongly support, at a
+      structural level, the homology of the pathway originating in the SGS3
+      collicular cells upon the caudal pulvinar with the tectorotundal pathway
+      of nonmammalian amniotes and contribute to clarifying the general
+      organization of the tectopulvinar pathways in mammals.
+    image: /images/uploads/fredes2012.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
