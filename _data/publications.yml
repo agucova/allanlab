@@ -346,6 +346,40 @@ papers:
       for advancing our understanding of the evolution, plasticity and
       functional roles of the avian centrifugal visual system.
     image: /images/uploads/krabichler2017.png
+  - highlight: 1
+    title: Microconnectomics of the pretectum and ventral thalamus in the chicken
+      (Gallus gallus).
+    link:
+      display: "J. Comp. Neurol., 524: 2208-2229. doi: 10.1002/cne.23941."
+      url: https://onlinelibrary.wiley.com/doi/10.1002/cne.23941
+    authors: Vega-Zuniga, Tomas, Marín, G., González-Cabrera, C., Planitscher, E.,
+      Hartmann, A., Marks, V., Mpodozis, J., & Luksch, H. (2016)
+    description: "Abstract. The avian pretectal and ventrothalamic nuclei,
+      encompassing the griseum tectale (GT), n. lentiformis mesencephali (LM),
+      and n. geniculatus lateralis pars ventralis (GLv), are prominent
+      retinorecipient structures related to optic flow operations and visuomotor
+      control. Hence, a close coordination of these neural circuits is to be
+      expected. Yet the connectivity among these nuclei is poorly known. Here,
+      using intracellular labeling and in situ hybridization, we investigated
+      the detailed morphology, connectivity, and neurochemical identity of
+      neurons in these nuclei. Two different cell types exist in the GT: one
+      that generates an axonal projection to the optic tectum (TeO), LM, GLv,
+      and n. intercalatus thalami (ICT), and a second population that only
+      projects to the LM and GLv. In situ hybridization revealed that most
+      neurons in the GT express the vesicular glutamate transporter (VGluT2)
+      mRNA, indicating a glutamatergic identity. In the LM, three morphological
+      cell types were defined, two of which project axons towards dorsal
+      targets. The LM neurons showed strong VGluT2 expression. Finally, the
+      cells located in the GLv project to the TeO, LM, GT, n. principalis
+      precommisuralis (PPC), and ICT. All neurons in the GLv showed strong
+      expression of the vesicular inhibitory amino acid transporter (VIAAT)
+      mRNA, suggesting a GABAergic identity. Our results show that the pretectal
+      and ventrothalamic nuclei are highly interconnected, especially by
+      glutamatergic and GABAergic neurons from the GT and GLv, respectively.
+      This complex morphology and connectivity might be required to organize
+      orienting visuomotor behaviors and coordinate the specific optic flow
+      patterns that they induce."
+    image: /images/uploads/vega-zuniga2016.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
