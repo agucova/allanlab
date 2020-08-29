@@ -350,7 +350,8 @@ papers:
     title: Microconnectomics of the pretectum and ventral thalamus in the chicken
       (Gallus gallus).
     link:
-      display: "J. Comp. Neurol., 524: 2208-2229. doi: 10.1002/cne.23941."
+      display: "Journal of Comparative Neurology, 524: 2208-2229. doi:
+        10.1002/cne.23941."
       url: https://onlinelibrary.wiley.com/doi/10.1002/cne.23941
     authors: Vega-Zuniga, Tomas, Marín, G., González-Cabrera, C., Planitscher, E.,
       Hartmann, A., Marks, V., Mpodozis, J., & Luksch, H. (2016)
@@ -507,6 +508,41 @@ papers:
       display: "PLoS ONE 10(2): e0118018. doi: 10.1371/journal.pone.0118018."
     authors: Márquez, N., Martínez-Harms, J., Vásquez, R. A., & Mpodozis, J. (2015)
     image: /images/uploads/marquez2015.png
+  - highlight: 1
+    title: "The visual system of a Palaeognathous bird: Visual field, retinal
+      topography and retino‐central connections in the Chilean Tinamou
+      (Nothoprocta perdicaria)."
+    link:
+      display: "Journal of Comparative Neurology, 523: 226-250. doi:10.1002/cne.23676"
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23676
+    description: "Abstract. Most systematic studies of the avian visual system have
+      focused on Neognathous species, leaving virtually unexplored the
+      Palaeognathae, comprised of the flightless ratites and the South American
+      tinamous. We investigated the visual field, the retinal topography, and
+      the pattern of retinal and centrifugal projections in the Chilean tinamou,
+      a small Palaeognath of the family Tinamidae. The tinamou has a panoramic
+      visual field with a small frontal binocular overlap of 20°. The retina
+      possesses three distinct topographic specializations: a horizontal visual
+      streak, a dorsotemporal area, and an area centralis with a shallow fovea.
+      The maximum ganglion cell density is 61,900/ mm2, comparable to
+      Falconiformes. This would provide a maximal visual acuity of 14.0
+      cycles/degree, in spite of relatively small eyes. The central retinal
+      projections generally conform to the characteristic arrangement observed
+      in Neognathae, with well‐differentiated contralateral targets and very few
+      ipsilateral fibers. The centrifugal visual system is composed of a
+      considerable number of multipolar centrifugal neurons, resembling the
+      “ectopic” neurons described in Neognathae. They form a diffuse nuclear
+      structure, which may correspond to the ancestral condition shared with
+      other sauropsids. A notable feature is the presence of terminals in deep
+      tectal layers 11–13. These fibers may represent either a novel
+      retinotectal pathway or collateral branches from centrifugal neurons
+      projecting to the retina. Both types of connections have been described in
+      chicken embryos. Our results widen the basis for comparative studies of
+      the vertebrate visual system, stressing the conserved character of the
+      visual projections' pattern within the avian clade."
+    authors: Krabichler, Q., Vega-Zuniga, T., Morales, C., Luksch, H., & Marín, G.
+      J. (2015)
+    image: /images/uploads/krabichler2015.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
