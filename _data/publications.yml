@@ -70,6 +70,42 @@ papers:
       cortical layers II/III.
 
     image: /images/uploads/fernandez2019_a.png
+  - highlight: 1
+    link:
+      url: https://www.karger.com/Article/Abstract/504162
+      display: "Brain, Behavior and Evolution, 94(suppl 1-4):27-36. doi:
+        10.1159/000504162."
+    title: "Anatomical specializations related to foraging in the visual system of a
+      nocturnal insectivorous bird, the Band-winged Nightjar (Aves:
+      Caprimulgiformes)."
+    description: "Abstract. Nocturnal animals that rely on their visual system for
+      foraging, mating, and navigation usually exhibit specific traits
+      associated with living in scotopic conditions. Most nocturnal birds have
+      several visual specializations, such as enlarged eyes and an increased
+      orbital convergence. However, the actual role of binocular vision in
+      nocturnal foraging is still debated. Nightjars (Aves: Caprimulgidae) are
+      predators that actively pursue and capture flying insects in crepuscular
+      and nocturnal environments, mainly using a conspicuous “sit-and-wait”
+      tactic on which pursuit begins with an insect flying over the bird that
+      sits on the ground. In this study, we describe the visual system of the
+      band-winged nightjar (Systellura longirostris), with emphasis on
+      anatomical features previously described as relevant for nocturnal birds.
+      Orbit convergence, determined by 3D scanning of the skull, was 73.28°. The
+      visual field, determined by ophthalmoscopic reflex, exhibits an area of
+      maximum binocular overlap of 42°, and it is dorsally oriented. The eyes
+      showed a nocturnal-like normalized corneal aperture/axial length index.
+      Retinal ganglion cells (RGCs) were relatively scant, and distributed in an
+      unusual oblique-band pattern, with higher concentrations in the
+      ventrotemporal quadrant. Together, these results indicate that the
+      band-winged nightjar exhibits a retinal specialization associated with the
+      binocular area of their dorsal visual field, a relevant area for pursuit
+      triggering and prey attacks. The RGC distribution observed is unusual
+      among birds, but similar to that of some visually dependent insectivorous
+      bats, suggesting that those features might be convergent in relation to
+      feeding strategies."
+    authors: Salazar, J. E., Severin, D., Vega-Zuniga, T., Fernández-Aburto, P.,
+      Deichler, A., Sallaberry, M. A., & Mpodozis, J. (2019)
+    image: /images/uploads/salazar2019.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
