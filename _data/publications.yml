@@ -177,6 +177,43 @@ papers:
     authors: Salazar, J. E., Severin, D., Vega-Zuniga, T., Fernández-Aburto, P.,
       Deichler, A., Sallaberry, M. A., & Mpodozis, J. (2019)
     image: /images/uploads/salazar2019.png
+  - highlight: 1
+    title: “Shepherd’s crook” neurons drive and synchronize the enhancing and
+      suppressive mechanisms of the midbrain stimulus selection network.
+    description: Abstract. The optic tectum (TeO), or superior colliculus, is a
+      multisensory midbrain center that organizes spatially orienting responses
+      to relevant stimuli. To define the stimulus with the highest priority at
+      each moment, a network of reciprocal connections between the TeO and the
+      isthmi promotes competition between concurrent tectal inputs. In the avian
+      midbrain, the neurons mediating enhancement and suppression of tectal
+      inputs are located in separate isthmic nuclei, facilitating the analysis
+      of the neural processes that mediate competition. A specific subset of
+      radial neurons in the intermediate tectal layers relay retinal inputs to
+      the isthmi, but at present it is unclear whether separate neurons
+      innervate individual nuclei or a single neural type sends a common input
+      to several of them. In this study, we used in vitro neural tracing and
+      cell-filling experiments in chickens to show that single neurons
+      innervate, via axon collaterals, the three nuclei that comprise the
+      isthmotectal network. This demonstrates that the input signals
+      representing the strength of the incoming stimuli are simultaneously
+      relayed to the mechanisms promoting both enhancement and suppression of
+      the input signals. By performing in vivo recordings in anesthetized
+      chicks, we also show that this common input generates synchrony between
+      both antagonistic mechanisms, demonstrating that activity enhancement and
+      suppression are closely coordinated. From a computational point of view,
+      these results suggest that these tectal neurons constitute integrative
+      nodes that combine inputs from different sources to drive in parallel
+      several concurrent neural processes, each performing complementary
+      functions within the network through different firing patterns and
+      connectivity.
+    link:
+      url: https://www.pnas.org/content/115/32/E7615
+      display: Proceedings of the National Academy of Sciences, 115(32) E7615-E7623.
+        doi:10.1073/pnas.1804517115.
+    authors: Garrido-Charad, F., Vega-Zuniga, T., Gutiérrez-Ibáñez, C., Fernandez,
+      P., López-Jury, L., González-Cabrera, C., Karten, H. J., Luksch, H., &
+      Marín, G. J. (2018)
+    image: /images/uploads/garrido-charad2018.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
