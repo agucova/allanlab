@@ -255,6 +255,19 @@ papers:
       the well-known spectral differences between REM and NREM sleep, while also
       illuminating the origin of the EEG 1/f spectrum."
     image: /images/uploads/diaz2018.png
+  - highlight: 1
+    link:
+      url: https://www.frontiersin.org/articles/10.3389/fnins.2018.00447/full
+      display: "Frontiers in Neuroscience, 12, 447: 1-2. doi: 10.3389/fnins.2018.00447."
+    title: "Editorial: From ecology to brain development: bridging separate
+      evolutionary paradigms."
+    authors: Aboitiz, F., Concha, M. L., González-Billault, C., & Mpodozis, J. (2018)
+    description: This special topic proposes an integrative view of brain evolution
+      involving ecology, behavior, cognition and neurodevelopmental processes.
+      We address three main questions, (i) the role of sensorimotor systems in
+      brain evolution, (ii) the evolution of computational capacities and neural
+      circuits, and (iii) the role of development in shaping brain evolution.
+    image: /images/uploads/aboitiz2018.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
