@@ -70,7 +70,7 @@ papers:
       cortical layers II/III.
 
     image: /images/uploads/fernandez2019_a.png
-  - highlight: 0
+  - highlight: 1
     title: Can social behaviour drive accessory olfactory bulb asymmetries? Sister
       species of caviomorph rodents as a case in point.
     description: Abstract. In mammals, the accessory olfactory or vomeronasal system
@@ -107,6 +107,41 @@ papers:
       url: https://onlinelibrary.wiley.com/doi/abs/10.1111/joa.13126
     image: /images/uploads/fernandez-aburto2020.png
   - highlight: 1
+    title: "The nucleus pretectalis principalis: A pretectal structure hidden in the
+      mammalian thalamus."
+    link:
+      display: "Journal of Comparative Neurology, 527: 372– 391. doi:
+        10.1002/cne.24540."
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24540
+    description: Abstract. A defining feature of the amniote tecto‐fugal visual
+      pathway is a massive bilateral projection to the thalamus originating from
+      a distinct neuronal population, tectal ganglion cells (TGCs), of the optic
+      tectum/superior colliculus (TeO/SC). In sauropsids, the thalamic target of
+      the tecto‐fugal pathway is the nucleus rotundus thalami (Rt). TGCs axons
+      collateralize en route to Rt to target the nucleus pretectalis principalis
+      (PT), which in turn gives rise to bilateral projection to the TeO. In
+      rodents, the thalamic target of these TGCs afferents is the caudal
+      division of the pulvinar complex (PulC). No pretectal structures in
+      receipt of TGC collaterals have been described in this group. However,
+      Baldwin et al. (Journal of Comparative Neurology, 2011;519(6):1071–1094)
+      reported in the squirrel a feedback projection from the PulC to the SC.
+      Pulvino‐tectal (Pul‐T) cells lie at the caudal pole of the PulC,
+      intermingled with the axonal terminals of TGCs. Here, by performing a
+      combination of neuronal tracing, immunohistochemistry, immunofluorescence,
+      and in situ hybridization, we characterized the pattern of projections,
+      neurochemical profile, and genoarchitecture of Pul‐T cells in the diurnal
+      Chilean rodent Octodon degus. We found that Pul‐T neurons exhibit
+      pretectal, but not thalamic, genoarchitectonical markers, as well as
+      hodological and neurochemical properties that match specifically those of
+      the avian nucleus PT. Thus, we propose that Pul‐T cells constitute a
+      pretectal cell population hidden within the dorsal thalamus of mammals.
+      Our results solve the oddity entailed by the apparent existence of a
+      noncanonic descending sensory thalamic projection and further stress the
+      conservative character of the tectofugal pathway.
+    image: /images/uploads/deichler-2019.png
+    authors: Deichler, A., Carrasco, D., Gonzalez-Cabrera, C., Letelier, J. C.,
+      Marín, G., & Mpodozis, J. (2019)
+  - highlight: 1
     link:
       url: https://www.karger.com/Article/Abstract/504162
       display: "Brain, Behavior and Evolution, 94(suppl 1-4):27-36. doi:
@@ -142,41 +177,6 @@ papers:
     authors: Salazar, J. E., Severin, D., Vega-Zuniga, T., Fernández-Aburto, P.,
       Deichler, A., Sallaberry, M. A., & Mpodozis, J. (2019)
     image: /images/uploads/salazar2019.png
-  - highlight: 1
-    title: "The nucleus pretectalis principalis: A pretectal structure hidden in the
-      mammalian thalamus."
-    link:
-      display: "Journal of Comparative Neurology, 527: 372– 391. doi:
-        10.1002/cne.24540."
-      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24540
-    description: Abstract. A defining feature of the amniote tecto‐fugal visual
-      pathway is a massive bilateral projection to the thalamus originating from
-      a distinct neuronal population, tectal ganglion cells (TGCs), of the optic
-      tectum/superior colliculus (TeO/SC). In sauropsids, the thalamic target of
-      the tecto‐fugal pathway is the nucleus rotundus thalami (Rt). TGCs axons
-      collateralize en route to Rt to target the nucleus pretectalis principalis
-      (PT), which in turn gives rise to bilateral projection to the TeO. In
-      rodents, the thalamic target of these TGCs afferents is the caudal
-      division of the pulvinar complex (PulC). No pretectal structures in
-      receipt of TGC collaterals have been described in this group. However,
-      Baldwin et al. (Journal of Comparative Neurology, 2011;519(6):1071–1094)
-      reported in the squirrel a feedback projection from the PulC to the SC.
-      Pulvino‐tectal (Pul‐T) cells lie at the caudal pole of the PulC,
-      intermingled with the axonal terminals of TGCs. Here, by performing a
-      combination of neuronal tracing, immunohistochemistry, immunofluorescence,
-      and in situ hybridization, we characterized the pattern of projections,
-      neurochemical profile, and genoarchitecture of Pul‐T cells in the diurnal
-      Chilean rodent Octodon degus. We found that Pul‐T neurons exhibit
-      pretectal, but not thalamic, genoarchitectonical markers, as well as
-      hodological and neurochemical properties that match specifically those of
-      the avian nucleus PT. Thus, we propose that Pul‐T cells constitute a
-      pretectal cell population hidden within the dorsal thalamus of mammals.
-      Our results solve the oddity entailed by the apparent existence of a
-      noncanonic descending sensory thalamic projection and further stress the
-      conservative character of the tectofugal pathway.
-    image: /images/uploads/deichler-2019.png
-    authors: Deichler, A., Carrasco, D., Gonzalez-Cabrera, C., Letelier, J. C.,
-      Marín, G., & Mpodozis, J. (2019)
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
