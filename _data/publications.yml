@@ -794,7 +794,7 @@ papers:
   - highlight: 1
     link:
       url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090165
-      display: "PLoS ONE 9(3): e90165, . doi: 10.1371/journal.pone.0090165."
+      display: "PLoS ONE 9(3): e90165, 1-8. doi: 10.1371/journal.pone.0090165."
     title: "Cognitive ecology in hummingbirds: The role of sexual dimorphism and its
       anatomical correlates on memory."
     authors: González-Gómez, P. L., Madrid-Lopez, N., Salazar, J. E., Suárez, R.,
@@ -818,6 +818,43 @@ papers:
       dimorphic use of spatial resources and variable patterns of brain
       dimorphisms in birds.
     image: /images/uploads/gonzalez-gomez2014.png
+  - highlight: 1
+    title: Does nocturnality drive binocular vision? Octodontine rodents as a case
+      study.
+    description: "Abstract. Binocular vision is a visual property that allows fine
+      discrimination of in-depth distance (stereopsis), as well as enhanced
+      light and contrast sensitivity. In mammals enhanced binocular vision is
+      structurally associated with a large degree of frontal binocular overlap,
+      the presence of a corresponding retinal specialization containing a fovea
+      or an area centralis, and well-developed ipsilateral retinal projections
+      to the lateral thalamus (GLd). We compared these visual traits in two
+      visually active species of the genus Octodon that exhibit contrasting
+      visual habits: the diurnal Octodon degus, and the nocturnal Octodon
+      lunatus. The O. lunatus visual field has a prominent 100° frontal
+      binocular overlap, much larger than the 50° of overlap found in O. degus.
+      Cells in the retinal ganglion cell layer were 40% fewer in O. lunatus
+      (180,000) than in O. degus (300,000). O. lunatus has a poorly developed
+      visual streak, but a well developed area centralis, located centrally near
+      the optic disk (peak density of 4,352 cells/mm2). O. degus has a highly
+      developed visual streak, and an area centralis located more temporally
+      (peak density of 6,384 cells/mm2). The volumes of the contralateral GLd
+      and superior colliculus (SC) are 15% larger in O. degus compared to O.
+      lunatus. However, the ipsilateral projections to GLd and SC are 500%
+      larger in O. lunatus than in O. degus. Other retinorecipient structures
+      related to ocular movements and circadian activity showed no statistical
+      differences between species. Our findings strongly suggest that nocturnal
+      visual behavior leads to an enhancement of the structures associated with
+      binocular vision, at least in the case of these rodents. Expansion of the
+      binocular visual field in nocturnal species may have a beneficial effect
+      in light and contrast sensitivity, but not necessarily in stereopsis. We
+      discuss whether these conclusions can be extended to other mammalian and
+      non-mammalian amniotes."
+    authors: Vega-Zuniga, Tomas, Medina, F. S., Fredes, F., Zuniga, C., Severín, D.,
+      Palacios, A. G., Karten, H. J., & Mpodozis, J. (2013)
+    link:
+      url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0084199
+      display: " PLoS ONE 8(12): e84199, 1-12. doi: 10.1371/journal.pone.0084199."
+    image: /images/uploads/vega-zuniga2013.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
