@@ -855,6 +855,39 @@ papers:
       url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0084199
       display: " PLoS ONE 8(12): e84199, 1-12. doi: 10.1371/journal.pone.0084199."
     image: /images/uploads/vega-zuniga2013.png
+  - highlight: 1
+    title: "Laminar segregation of GABAergic neurons in the avian nucleus isthmi
+      pars magnocellularis: A retrograde tracer and comparative study."
+    link:
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23253
+      display: "Journal of Comparative Neurology, 521: 1727-1742.
+        doi:10.1002/cne.23253."
+    description: "Abstract. The isthmic complex is part of a visual midbrain circuit
+      thought to be involved in stimulus selection and spatial attention. In
+      birds, this circuit is composed of the nuclei isthmi pars magnocellularis
+      (Imc), pars parvocellularis (Ipc), and pars semilunaris (SLu), all of them
+      reciprocally connected to the ipsilateral optic tectum (TeO). The Imc
+      conveys heterotopic inhibition to the TeO, Ipc, and SLu via widespread
+      γ‐aminobutyric acid (GABA)ergic axons that allow global competitive
+      interactions among simultaneous sensory inputs. Anatomical studies in the
+      chick have described a cytoarchitectonically uniform Imc nucleus
+      containing two intermingled cell types: one projecting to the Ipc and SLu
+      and the other to the TeO. Here we report that in passerine species, the
+      Imc is segregated into an internal division displaying larger, sparsely
+      distributed cells, and an external division displaying smaller, more
+      densely packed cells. In vivo and in vitro injections of neural tracers in
+      the TeO and the Ipc of the zebra finch demonstrated that neurons from the
+      external and internal subdivisions project to the Ipc and the TeO,
+      respectively, indicating that each Imc subdivision contains one of the two
+      cell types hodologically defined in the chick. In an extensive survey
+      across avian orders, we found that, in addition to passerines, only
+      species of Piciformes and Rallidae exhibited a segregated Imc, whereas all
+      other groups exhibited a uniform Imc. These results offer a comparative
+      basis to investigate the functional role played by each Imc neural type in
+      the competitive interactions mediated by this nucleus."
+    authors: Faunes, M., Fernández, S., Gutiérrez-Ibáñez, C., Iwaniuk, A. N., Wylie,
+      D. R., Mpodozis, J., Karten, H. J., & Marín, G. (2013)
+    image: /images/uploads/faunes2013.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
