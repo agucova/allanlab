@@ -730,6 +730,67 @@ papers:
       integrated tectal activity rapidly feeds back to the GLv and exerts a
       focal cholinergic modulation of incoming retinal inputs.
     image: /images/uploads/vega-zuniga2014.png
+  - highlight: 1
+    title: Extracellular recordings reveal absence of magneto sensitive units in the
+      avian optic tectum.
+    description: Abstract. There is a consensus that birds detect the earth’s
+      magnetic field and use some of its features for orientation and homing
+      purposes. Since the late 1960s, when the first solid behavioral evidence
+      of magnetoreception was obtained, much research has been devoted to
+      describing the ethological aspects of this behavior. The
+      neurophysiological basis of magnetoreception has been much less studied,
+      although a frequently cited 1986 report described a high prevalence (70 %)
+      of magneto-sensitive neurons in the pigeon optic tectum with high
+      signal-to-noise ratios (Semm and Demaine, J Comp Physiol A 159:619–625,
+      1986). Here, we repeated these neurophysiological experiments using
+      anesthetized as well as awake pigeons and new recording techniques. Our
+      data indicate that magneto-sensitive units do not exist in the avian
+      tectum.
+    link:
+      url: https://link.springer.com/article/10.1007/s00359-014-0947-6
+      display: "Journal of Comparative Physiology A: Neuroethology, Sensory, Neural,
+        and Behavioral Physiology, 200, 983–996. doi: 10.1007/s00359-014-0947-6"
+    authors: Ramírez, E., Marín, G., Mpodozis, J., & Letelier, J. C. (2014)
+    image: /images/uploads/ramirez2014.png
+  - highlight: 1
+    title: "Electroablation: a method for neurectomy and localized tissue injury."
+    description: "Abstract. Background: Tissue injury has been employed to study
+      diverse biological processes such as regeneration and inflammation. In
+      addition to physical or surgical based methods for tissue injury, current
+      protocols for localized tissue damage include laser and two-photon
+      wounding, which allow a high degree of accuracy, but are expensive and
+      difficult to apply. In contrast, electrical injury is a simple and
+      inexpensive technique, which allows reproducible and localized cell or
+      tissue damage in a variety of contexts. Results: We describe a novel
+      technique that combines the advantages of zebrafish for in vivo
+      visualization of cells with those of electrical injury methods in a simple
+      and versatile protocol which allows the study of regeneration and
+      inflammation. The source of the electrical pulse is a microelectrode that
+      can be placed with precision adjacent to specific cells expressing
+      fluorescent proteins. We demonstrate the use of this technique in
+      zebrafish larvae by damaging different cell types and structures.
+      Neurectomy can be carried out in peripheral nerves or in the spinal cord
+      allowing the study of degeneration and regeneration of nerve fibers. We
+      also apply this method for the ablation of single lateral line
+      mechanosensory neuromasts, showing the utility of this approach as a tool
+      for the study of organ regeneration. In addition, we show that electrical
+      injury induces immune cell recruitment to damaged tissues, allowing in
+      vivo studies of leukocyte dynamics during inflammation within a confined
+      and localized injury. Finally, we show that it is possible to apply
+      electroablation as a method of tissue injury and inflammation induction in
+      adult fish. Conclusions: Electrical injury using a fine microelectrode can
+      be used for axotomy of neurons, as a general tissue ablation tool and as a
+      method to induce a powerful inflammatory response. We demonstrate its
+      utility to studies in both larvae and in adult zebrafish but we expect
+      that this technique can be readily applied to other organisms as well. We
+      have called this method of electrical based tissue ablation,
+      electroablation."
+    authors: Moya-Díaz, J., Peña, O. A., Sánchez, M., Ureta, D. A., Reynaert, N. G.,
+      Anguita-Salinas, C., Marín, G., & Allende, M. L. (2014)
+    link:
+      display: "BMC Developmental Biology, 14, 7: 1-13. doi: 10.1186/1471-213X-14-7."
+      url: https://bmcdevbiol.biomedcentral.com/articles/10.1186/1471-213X-14-7
+    image: /images/uploads/moya-diaz2014.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
