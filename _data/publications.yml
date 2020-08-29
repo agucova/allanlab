@@ -601,6 +601,30 @@ papers:
     authors: Francisco Botelho, J., Smith-Paredes, D., Soto-Acuña, S., Mpodozis, J.,
       Palma, V., & Vargas, A. O. (2015)
     image: /images/uploads/botelho2015.png
+  - highlight: 1
+    title: On the hodological criterion for homology.
+    description: "Abstract. Owen's pre-evolutionary definition of a homolog as “the
+      same organ in different animals under every variety of form and function”
+      and its redefinition after Darwin as “the same trait in different lineages
+      due to common ancestry” entail the same heuristic problem: how to
+      establish “sameness.”Although different criteria for homology often
+      conflict, there is currently a generalized acceptance of gene expression
+      as the best criterion. This gene-centered view of homology results from a
+      reductionist and preformationist concept of living beings. Here, we adopt
+      an alternative organismic-epigenetic viewpoint, and conceive living beings
+      as systems whose identity is given by the dynamic interactions between
+      their components at their multiple levels of composition. We posit that
+      there cannot be an absolute homology criterion, and instead, homology
+      should be inferred from comparisons at the levels and developmental stages
+      where the delimitation of the compared trait lies. In this line, we argue
+      that neural connectivity, i.e., the hodological criterion, should prevail
+      in the determination of homologies between brain supra-cellular
+      structures, such as the vertebrate pallium."
+    link:
+      url: https://www.frontiersin.org/articles/10.3389/fnins.2015.00223/full
+      display: "Frontiers in Neuroscience, 9, 223, 1-7. doi: 10.3389/fnins.2015.00223."
+    image: /images/uploads/fnins-09-00223-g001.jpg
+    authors: Faunes, M., Botelho, J. F., Galleguillos, P. A., & Mpodozis, J. (2015)
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
