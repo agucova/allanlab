@@ -13,3 +13,39 @@ papers:
       url: https://science.sciencemag.org/content/142/3594/977
       display: "doi: 10.1126/science.142.3594.977"
     news: Science  15, Vol. 142, Issue 3594, pp. 977-979.
+  - highlight: 1
+    title: "Intratelencephalic projections of the avian visual dorsal ventricular
+      ridge: Laminarly segregated, reciprocally and topographically organized"
+    authors: Fernández, M., Ahumada-Galleguillos, P., Sentis, E., Marín, G., &
+      Mpodozis, J. (2019)
+    link:
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24757
+      display: "doi: 10.1002/cne.24757"
+    news: Journal of Comparative Neurology, 528(2), 1–39.
+    description: >+
+      Abstract. Recent reports have shown that the avian visual dorsal
+      ventricular ridge (DVR) is organized as a trilayered complex, in which the
+      forming layers—the thalamo‐recipient entopallium (E), an overlaying
+      nidopallial stripe called intermediate nidopallium (NI), and the dorsally
+      adjacent mesopallium ventrale—appear to be extensively interconnected by
+      topographically organized columns of reciprocal axonal processes running
+      perpendicular to the layers, an arrangement highly reminiscent to that of
+      the sensory cortices of mammals. In the present report, we implemented in
+      vivo anterograde and retrograde tracing techniques aiming to elucidate the
+      organization of the connections of this complex with other pallial areas.
+      Previous studies have shown that the efferent projections of the visual
+      DVR originate mainly from the NI and E, reaching several distinct
+      associative and premotor nidopallial areas. We found that the efferents
+      from the visual DVR originated solely from the NI, and confirmed that the
+      targets of these projections were the pallial areas described by previous
+      studies. We also found novel projections from the NI to the visual
+      hyperpallium, and to the lateral striatum. Moreover, we found that these
+      projections were reciprocal, topographically organized, and originated
+      from different cell populations within the NI. We conclude that the NI
+      constitutes a specialized layer of the visual DVR that form the core of a
+      dense network of highly specific connections between this region and other
+      higher order areas of the avian pallium. Finally, we discuss to what
+      extent these hodological properties resemble those of the mammalian
+      cortical layers II/III.
+
+    image: /images/uploads/fernandez2019_a.png
