@@ -625,6 +625,79 @@ papers:
       display: "Frontiers in Neuroscience, 9, 223, 1-7. doi: 10.3389/fnins.2015.00223."
     image: /images/uploads/fnins-09-00223-g001.jpg
     authors: Faunes, M., Botelho, J. F., Galleguillos, P. A., & Mpodozis, J. (2015)
+  - highlight: 1
+    title: Zebrin II expression in the cerebellum of a Paleognathous bird, the
+      Chilean tinamou (Nothoprocta perdicaria).
+    description: "Abstract. Zebrin II (ZII) is a glycolytic enzyme expressed in
+      cerebellar Purkinje cells. In both mammals and birds, ZII is expressed
+      heterogeneously, such that there are sagittal stripes of Purkinje cells
+      with a high ZII expression (ZII+) alternating with stripes of Purkinje
+      cells with little or no expression (ZII-). To date, ZII expression studies
+      are limited to neognathous birds: pigeons (Columbiformes), chickens
+      (Galliformes), and hummingbirds (Trochilidae). These previous studies
+      divided the avian cerebellum into 5 transverse regions based on the
+      pattern of ZII expression. In the lingular region (lobule I) all Purkinje
+      cells are ZII+. In the anterior region (lobules II-V) there are 4 pairs of
+      ZII+/- stripes. In the central region (lobules VI-VIII) all Purkinje cells
+      are ZII+. In the posterior region (lobules VIII-IX) there are 5-7 pairs of
+      ZII+/- stripes. Finally, in the nodular region (lobule X) all Purkinje
+      cells are ZII+. As the pattern of ZII stripes is quite similar in these
+      disparate species, it appears that it is highly conserved. However, it has
+      yet to be studied in paleognathous birds, which split from the neognaths
+      over 100 million years ago. To better understand the evolution of
+      cerebellar compartmentation in birds, we examined ZII immunoreactivity in
+      a paleognath, the Chilean tinamou (Nothoprocta perdicaria). In the
+      tinamou, Purkinje cells expressed ZII heterogeneously such that there were
+      sagittal ZII+ and ZII- stripes of Purkinje cells, and this pattern of
+      expression was largely similar to that observed in neognathous birds. For
+      example, all Purkinje cells in the lingular (lobule I) and nodular (lobule
+      X) regions were ZII+, and there were 4 pairs of ZII+/- stripes in the
+      anterior region (lobules II-V). In contrast to neognaths, however, ZII was
+      expressed in lobules VI-VII as a series of sagittal stripes in the
+      tinamou. Also unlike in neognaths, stripes were absent in lobule IXab, and
+      all Purkinje cells expressed ZII in the tinamou. The differences in ZII
+      expression between the tinamou and neognaths could reflect behavior, but
+      the general similarity of the expression patterns across all bird species
+      suggests that ZII stripes evolved early in the avian phylogenetic tree."
+    authors: Corfield, J. R., Kolominsky, J., Marin, G. J., Craciun, I.,
+      Mulvany-Robbins, B. E., Iwaniuk, A. N., & Wylie, D. R. (2015)
+    link:
+      display: "Brain, Behavior and Evolution, 85: 94-106. doi: 10.1159/000380810."
+      url: https://www.karger.com/Article/Abstract/380810
+    image: /images/uploads/corfield2015.png
+  - highlight: 1
+    title: "Anatomical organization of the visual dorsal ventricular ridge in the
+      chick (Gallus gallus): Layers and columns in the avian pallium."
+    description: Abstract. The dorsal ventricular ridge (DVR) is one of the main
+      components of the sauropsid pallium. In birds, the DVR is formed by an
+      inner region, the nidopallium, and a more dorsal region, the mesopallium.
+      The nidopallium contains discrete areas that receive auditory, visual, and
+      multisensory collothalamic projections. These nidopallial nuclei are known
+      to sustain reciprocal, short‐range projections with their overlying
+      mesopallial areas. Recent findings on the anatomical organization of the
+      auditory DVR have shown that these short‐range projections have a columnar
+      organization that closely resembles that of the mammalian neocortex.
+      However, it is unclear whether this columnar organization generalizes to
+      other areas within the DVR. Here we examine in detail the organization of
+      the visual DVR, performing small, circumscribed deposits of neuronal
+      tracers as well as intracellular fillings in brain slices. We show that
+      the visual DVR is organized in three main laminae, the thalamorecipient
+      nucleus entopallium; a dorsally adjacent nidopallial lamina, the
+      intermediate nidopallium; and a contiguous portion of the ventral
+      mesopallium, the mesopallium ventrale. As in the case of the auditory DVR,
+      we found a highly topographically organized system of reciprocal
+      interconnections among these layers, which was formed by dorsoventrally
+      oriented, discrete columnar bundles of axons. We conclude that the
+      columnar organization previously demonstrated in the auditory DVR is not a
+      unique feature but a general characteristic of the avian sensory pallium.
+      We discuss these results in the context of a comparison between sauropsid
+      and mammalian pallial organization.
+    authors: Ahumada-Galleguillos, P., Fernández, M., Marin, G. J., Letelier, J. C.,
+      & Mpodozis, J. (2015)
+    link:
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23808
+      display: "Journal of Comparative Neurology, 523: 2618-2636. doi:10.1002/cne.23808"
+    image: /images/uploads/ahumada-galleguillos2015.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
