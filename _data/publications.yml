@@ -380,27 +380,6 @@ papers:
       orienting visuomotor behaviors and coordinate the specific optic flow
       patterns that they induce."
     image: /images/uploads/vega-zuniga2016.png
-  - highlight: 0
-    title: Specificity versus ambiguity in the retina of vertebrates.
-    link:
-      url: https://pubmed.ncbi.nlm.nih.gov/5825764/
-      display: Biologica (Santiago), 36:69-96.
-    authors: Maturana, H. (1964)
-    description: No description.
-  - highlight: 0
-    title: Directional movement and horizontal edge detectors in the pigeon retina.
-    image: ""
-    description: Abstract. There are ganglion cells in the pigeon retina that
-      respond selectively, some to any edge moving in a particular direction
-      only, others to any vertically moving horizontal edge. This selective
-      response to a specific stimulus arises from the selective sensitivity of
-      each neuron to a particular spatiotemporal configuration in its afferent
-      influences, and is independent of specific pathways.
-    authors: Maturana, H., & Frenk, S. (1963)
-    link:
-      url: https://science.sciencemag.org/content/142/3594/977
-      display: "Science, 142(3594), 977–979. doi: 10.1126/science.142.3594.977."
-    news: ""
   - highlight: 1
     link:
       url: https://www.karger.com/Article/FullText/444741
@@ -457,3 +436,95 @@ papers:
       and reversion in its evolution.
     authors: Ossa-Fuentes, L., Mpodozis, J., & Vargas, A. O. (2015)
     image: /images/uploads/ossa-fuentes2015.png
+  - highlight: 1
+    title: Copper enhances cellular and network excitabilities, and improves
+      temporal processing in the rat hippocampus.
+    link:
+      display: "European Journal of Neuroscience, 42: 3066-3080. doi:
+        10.1111/ejn.13104."
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13104
+    description: "Abstract. Copper, an ion with many important metabolic functions,
+      has also been proposed to have a role as modulator on neuronal function,
+      mostly based on its effects on voltage‐ and neurotransmitter‐gated
+      conductance as well as on neurological symptoms of patients with altered
+      copper homeostasis. Nevertheless, the mechanisms by which copper exerts
+      its neuromodulatory effects have not been clearly established in a
+      functional neuronal network. Using rat hippocampus slices as a neuronal
+      network model, the effects of copper in the range of 10–100 nm were tested
+      on the intrinsic, synaptic and network properties of the CA1 region. Most
+      of the previously described effects of this cation were in the micromolar
+      range of copper concentrations. The current results indicate that copper
+      is a multifaceted neuromodulator, having effects that may be grouped into
+      two categories: (i) activity enhancement, by modulating synaptic
+      communication and action potential (AP) conductances; and (ii) temporal
+      processing and correlation extraction, by improving reliability and
+      depressing inhibition. Specifically it was found that copper
+      hyperpolarizes AP firing threshold, enhances neuronal and network
+      excitability, modifies CA3–CA1 pathway gain, enhances the frequency of
+      spontaneous synaptic events, decreases inhibitory network activity, and
+      improves AP timing reliability. Moreover, copper chelation by
+      bathocuproine decreases spontaneous network spiking activity. These
+      results allow the proposal that copper affects the network activity from
+      cellular to circuit levels on a moment‐by‐moment basis, and should be
+      considered a crucial functional component of hippocampal neuronal
+      circuitry."
+    authors: Maureira, C., Letelier, J. C., Alvarez, O., Delgado, R., & Vergara, C.
+      (2015)
+    image: /images/uploads/maureira2015.png
+  - highlight: 0
+    title: Early olfactory environment influences social behaviour in adult octodon
+      degus.
+    description: "Abstract. We evaluated the extent to which manipulation of early
+      olfactory environment can influence social behaviours in the South
+      American Hystricognath rodent Octodon degus. The early olfactory
+      environment of newborn degus was manipulated by scenting all litter
+      members with eucalyptol during the first month of life. The social
+      behaviour of sexually mature animals (5–7 months old) towards conspecifics
+      was then assessed using a y-maze to compare the response of control
+      (naïve) and treated animals to two different olfactory configurations
+      (experiment 1): (i) a non-familiarized conspecific impregnated with
+      eucalyptol (eucalyptol arm) presented against (ii) a non-familiarized
+      unscented conspecific (control arm). In addition, in dyadic encounters, we
+      assessed the behaviour of control and eucalyptol treated animals towards a
+      non-familiarized conspecific scented with eucalyptol (experiment 2). We
+      found that control subjects explored and spent significantly less time in
+      the eucalyptol arm, indicating neophobic behaviours towards the
+      artificially scented conspecific. Treated subjects explored and spent
+      similar time in both arms of the maze, showing the same interest for both
+      olfactory stimuli presented. During dyadic encounters in experiment 2, an
+      interaction effect between early experience and sex was observed. Control
+      males escaped and avoided their scented partner more frequently than
+      eucalyptol treated male subjects and than females. Both groups did not
+      differ in the exploration of their scented partners, suggesting that
+      avoidance within agonistic context does not relate to neophobic
+      behaviours. Our results suggest that the exposure to eucalyptol during
+      early ontogeny decreases evasive behaviours within an agonistic context as
+      a result of olfactory learning. Altogether, these results indicate that
+      olfactory cues learned in early ontogeny can influence olfactory-guided
+      behaviours in adult degus."
+    link:
+      url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118018
+      display: "PLoS ONE 10(2): e0118018. doi: 10.1371/journal.pone.0118018."
+    authors: Márquez, N., Martínez-Harms, J., Vásquez, R. A., & Mpodozis, J. (2015)
+    image: /images/uploads/marquez2015.png
+  - highlight: 0
+    title: Specificity versus ambiguity in the retina of vertebrates.
+    link:
+      url: https://pubmed.ncbi.nlm.nih.gov/5825764/
+      display: Biologica (Santiago), 36:69-96.
+    authors: Maturana, H. (1964)
+    description: No description.
+  - highlight: 0
+    title: Directional movement and horizontal edge detectors in the pigeon retina.
+    image: ""
+    description: Abstract. There are ganglion cells in the pigeon retina that
+      respond selectively, some to any edge moving in a particular direction
+      only, others to any vertically moving horizontal edge. This selective
+      response to a specific stimulus arises from the selective sensitivity of
+      each neuron to a particular spatiotemporal configuration in its afferent
+      influences, and is independent of specific pathways.
+    authors: Maturana, H., & Frenk, S. (1963)
+    link:
+      url: https://science.sciencemag.org/content/142/3594/977
+      display: "Science, 142(3594), 977–979. doi: 10.1126/science.142.3594.977."
+    news: ""
