@@ -1,9 +1,15 @@
 papers:
-  - highlight: 1
-    title: Algo
-    image: /images/uploads/edm7c6kx0aa8i84.jpg
-    description: Bla bla bla
-    authors: Perrito bonito et al., 2020
+  - highlight: 0
+    title: Directional Movement and Horizontal Edge Detectors in the Pigeon Retina
+    image: ""
+    description: Abstract. There are ganglion cells in the pigeon retina that
+      respond selectively, some to any edge moving in a particular direction
+      only, others to any vertically moving horizontal edge. This selective
+      response to a specific stimulus arises from the selective sensitivity of
+      each neuron to a particular spatiotemporal configuration in its afferent
+      influences, and is independent of specific pathways.
+    authors: Maturana, H., & Frenk, S., 1963
     link:
-      url: nohyanadaaqui.com
-      display: No hay nada
+      url: https://science.sciencemag.org/content/142/3594/977
+      display: "doi: 10.1126/science.142.3594.977"
+    news: Science  15, Vol. 142, Issue 3594, pp. 977-979.
