@@ -698,6 +698,38 @@ papers:
       url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23808
       display: "Journal of Comparative Neurology, 523: 2618-2636. doi:10.1002/cne.23808"
     image: /images/uploads/ahumada-galleguillos2015.png
+  - highlight: 1
+    title: "Morphology, projection pattern, and neurochemical identity of Cajal's
+      “centrifugal neurons”: The cells of origin of the tectoventrogeniculate
+      pathway in pigeon (Columba livia) and chicken (Gallus gallus)."
+    link:
+      display: "Journal of Comparative Neurology, 522: 2377-2396. doi:10.1002/cne.23539"
+      url: https://onlinelibrary.wiley.com/doi/10.1002/cne.23539
+    authors: Vega-Zuniga, Tomas, Mpodozis, J., Karten, H. J., Marín, G., Hain, S., &
+      Luksch, H. (2014)
+    description: Abstract. The nucleus geniculatus lateralis pars ventralis (GLv) is
+      a prominent retinal target in all amniotes. In birds, it is in receipt of
+      a dense and topographically organized retinal projection. The GLv is also
+      the target of substantial and topographically organized projections from
+      the optic tectum and the visual wulst (hyperpallium). Tectal and retinal
+      afferents terminate homotopically within the external GLv‐neuropil.
+      Efferents from the GLv follow a descending course through the tegmentum
+      and can be traced into the medial pontine nucleus. At present, the cells
+      of origin of the Tecto‐GLv projection are only partially described. Here
+      we characterized the laminar location, morphology, projection pattern, and
+      neurochemical identity of these cells by means of neural tracer injections
+      and intracellular fillings in slice preparations and extracellular tracer
+      injections in vivo. The Tecto‐GLv projection arises from a distinct subset
+      of layer 10 bipolar neurons, whose apical dendrites show a complex
+      transverse arborization at the level of layer 7. Axons of these bipolar
+      cells arise from the apical dendrites and follow a course through the
+      optic tract to finally form very fine and restricted terminal endings
+      inside the GLv‐neuropil. Double‐label experiments showed that these
+      bipolar cells were choline acetyltransferase (ChAT)‐immunoreactive. Our
+      results strongly suggest that Tecto‐GLv neurons form a pathway by which
+      integrated tectal activity rapidly feeds back to the GLv and exerts a
+      focal cholinergic modulation of incoming retinal inputs.
+    image: /images/uploads/vega-zuniga2014.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
