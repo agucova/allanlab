@@ -8,11 +8,11 @@ papers:
       response to a specific stimulus arises from the selective sensitivity of
       each neuron to a particular spatiotemporal configuration in its afferent
       influences, and is independent of specific pathways.
-    authors: Maturana, H., & Frenk, S., 1963
+    authors: Maturana, H., & Frenk, S. (1963)
     link:
       url: https://science.sciencemag.org/content/142/3594/977
-      display: "doi: 10.1126/science.142.3594.977"
-    news: Science  15, Vol. 142, Issue 3594, pp. 977-979.
+      display: "Science, 142(3594), 977–979. doi: 10.1126/science.142.3594.977"
+    news: ""
   - highlight: 1
     title: "Intratelencephalic projections of the avian visual dorsal ventricular
       ridge: Laminarly segregated, reciprocally and topographically organized"
@@ -20,8 +20,8 @@ papers:
       Mpodozis, J. (2019)
     link:
       url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24757
-      display: "doi: 10.1002/cne.24757"
-    news: Journal of Comparative Neurology, 528(2), 1–39.
+      display: "Journal of Comparative Neurology, 528(2), 1–39. doi: 10.1002/cne.24757"
+    news: ""
     description: >+
       Abstract. Recent reports have shown that the avian visual dorsal
       ventricular ridge (DVR) is organized as a trilayered complex, in which the
