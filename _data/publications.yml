@@ -543,6 +543,41 @@ papers:
     authors: Krabichler, Q., Vega-Zuniga, T., Morales, C., Luksch, H., & Marín, G.
       J. (2015)
     image: /images/uploads/krabichler2015.png
+  - highlight: 1
+    title: "The isthmic nuclei providing parallel feedback connections to the avian
+      tectum have different neurochemical identities: Expression of
+      glutamatergic and cholinergic markers in the chick (Gallus gallus)."
+    description: "Abstract. Retinal inputs to the optic tectum (TeO) triggered by
+      moving stimuli elicit synchronized feedback signals from two isthmic
+      nuclei: the isthmi parvocelullaris (Ipc) and isthmi semilunaris (SLu).
+      Both of these nuclei send columnar axon terminals back to the same tectal
+      position receiving the retinal input. The feedback signals from the Ipc
+      seem to act as an attentional spotlight by selectively boosting the
+      propagation of retinal inputs from the tectum to higher visual areas.
+      Although Ipc and SLu nuclei are widely considered cholinergic because of
+      their immunoreactivity for choline acetyltransferase (ChAT), contradictory
+      findings, including the expression of the vesicular glutamate transporter
+      2 (VGluT2) mRNA in Ipc neurons, have raised doubts about the purely
+      cholinergic nature of this nucleus. In this study, in chicks, we revise
+      the neurochemical identity of the isthmic nuclei by using in situ
+      hybridization assays for VGluT2 along with three cholinergic markers: the
+      vesicular acetylcholine transporter (VAChT), the high‐affinity choline
+      transporter (CHT1) and ChAT. We found that neurons in the SLu showed
+      strong mRNA expression of all three cholinergic markers, whereas the
+      expression of VAChT mRNA in the Ipc was undetectable in our essays.
+      Instead, Ipc neurons exhibited a strong expression of VGluT2 mRNA.
+      Immunohistochemistry assays showed VGluT2 immunoreactivity in the TeO
+      codistributing with anterogradely labeled Ipc axon‐terminal boutons,
+      further supporting a glutamatergic function for the Ipc nucleus.
+      Therefore, our results strongly suggest that, in the chick, whereas the
+      feedback from the SLu to the TeO is indeed cholinergic, the feedback from
+      the Ipc has a marked glutamatergic component."
+    link:
+      display: "Journal of Comparative Neurology, 523: 1341-1358.
+        doi:10.1002/cne.23739."
+      url: https://onlinelibrary.wiley.com/doi/10.1002/cne.23739
+    authors: González-Cabrera, C., Garrido-Charad, F., Roth, A., & Marín, G. J. (2015)
+    image: /images/uploads/gonzalez-cabrera2015.png
   - highlight: 0
     title: Specificity versus ambiguity in the retina of vertebrates.
     link:
