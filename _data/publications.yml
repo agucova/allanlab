@@ -1318,3 +1318,17 @@ papers:
 
     authors: Gutstein, C. S., Cozzuol, M. A., Vargas, A. O., Suárez, M. E., Schultz,
       C. L., & Rubilar-Rogers, D. (2009)
+  - highlight: 0
+    title: On the nature of thumbs.
+    link:
+      url: https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-3-213
+      display: "Genome Biology, 9, 213, 1-3. doi: 10.1186/gb-2008-9-3-213."
+    description: >-
+      Abstract. Asymmetric regulation of Hox gene expression pre-dates the
+      appearance of tetrapod digits, and was co-opted in the development of
+      'thumbness'. This asymmetric expression correlates with independent
+      morphological evolutionary variation of digit 1.
+
+
+      Each finger on your hand is uniquely identified by its relative size, position and shape. But on closer inspection, only one digit is really different from the rest - the thumb (digit 1). Digit 1 has two bones (phalanges) whereas all the other fingers have three. Only the thumb can be moved away from the other digits, a phenomenon called opposability, and on a more subtle anatomical level, growth of the corresponding metacarpal bone in the hand is proximal for the thumb but distal for all the other digits. In every respect the thumb stands out (no pun intended) as qualitatively different. With the appearance of a paper in Genes and Development by Montavon et al. [1], we now have a detailed understanding of some of the molecular mechanisms that make this anterior-most digit special.
+    authors: Wagner, G. P., & Vargas, A. O. (2008)
