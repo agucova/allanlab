@@ -505,7 +505,7 @@ papers:
       behaviours in adult degus."
     link:
       url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118018
-      display: "PLoS ONE 10(2): e0118018. doi: 10.1371/journal.pone.0118018."
+      display: "PLoS ONE 10(2): e0118018, 1-12. doi: 10.1371/journal.pone.0118018."
     authors: Márquez, N., Martínez-Harms, J., Vásquez, R. A., & Mpodozis, J. (2015)
     image: /images/uploads/marquez2015.png
   - highlight: 1
@@ -894,7 +894,7 @@ papers:
   - highlight: 1
     link:
       url: https://www.jneurosci.org/content/32/3/1110
-      display: "Journal of Neuroscience, 32 (3), 1110-1122; doi:
+      display: "Journal of Neuroscience, 32 (3), 1110-1122. doi:
         10.1523/JNEUROSCI.4151-11.2012."
     title: Attentional capture? Synchronized feedback signals from the isthmi boost
       retinal signals to higher visual areas.
