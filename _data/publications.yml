@@ -1068,7 +1068,7 @@ papers:
   - highlight: 1
     link:
       url: https://www.sciencedirect.com/science/article/abs/pii/S0022519311003389
-      display: "Journal of Theoretical Biology, 286: 100-113, doi:
+      display: "Journal of Theoretical Biology, 286: 100-113. doi:
         10.1016/j.jtbi.2011.06.033."
     title: "From L'Homme Machine to metabolic closure: Steps towards understanding
       life."
@@ -1127,7 +1127,7 @@ papers:
       Soto-Andrade, J. (2010)
     link:
       url: https://www.sciencedirect.com/science/article/abs/pii/S0022519309005360
-      display: "Journal of Theoretical Biology, 263, 1: 79-92, doi:
+      display: "Journal of Theoretical Biology, 263, 1: 79-92. doi:
         10.1016/j.jtbi.2009.11.010."
     description: Abstract. The major insight in Robert Rosen's view of a living
       organism as an (M,R)-system was the realization that an organism must be
@@ -1175,3 +1175,28 @@ papers:
       level.
     authors: Fredes, F., Tapia, S., Letelier, J. C., Marín, G., & Mpodozis, J. (2010)
     image: /images/uploads/fredes2010.png
+  - highlight: 0
+    title: Frame-shifts of digit identity in bird evolution and Cyclopamine-treated
+      wings.
+    authors: Vargas, A. O., & Wagner, G. P. (2009)
+    link:
+      display: "Evolution & Development, 11: 163-169. doi:
+        10.1111/j.1525-142X.2009.00317.x."
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1525-142X.2009.00317.x
+    description: >+
+      Abstract. A highly conserved spatio-temporal pattern of cartilage
+      formation reveals that the digits of the bird wing develop from positions
+      that become digits 2, 3, and 4 in other amniotes. However, the morphology
+      of the digits of early birds like Archaeopteryx corresponds to that of
+      digits 1, 2, and 3 of other archosaurs. A hypothesis is that a homeotic
+      "frame-shift" occurred, such that in the bird wing, digits 1, 2, and 3
+      develop from the embryological positions of digits 2, 3, and 4.
+      Experimental homeotic transformations of single digits are
+      well-documented, but frame-shifts of more than one digit are not. We
+      investigated the pattern of cartilage formation in the development of
+      Cyclopamine-treated wings. When Cyclopamine was applied between stages 18
+      and 21, morphologies that normally develop from positions 2 and 3
+      developed from positions 3 and 4. The serial shift of digit identity
+      toward posterior confirms a mechanistic possibility that was previously
+      inferred from the evolutionary history of birds.
+
