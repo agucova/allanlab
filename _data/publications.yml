@@ -1332,3 +1332,29 @@ papers:
 
       Each finger on your hand is uniquely identified by its relative size, position and shape. But on closer inspection, only one digit is really different from the rest - the thumb (digit 1). Digit 1 has two bones (phalanges) whereas all the other fingers have three. Only the thumb can be moved away from the other digits, a phenomenon called opposability, and on a more subtle anatomical level, growth of the corresponding metacarpal bone in the hand is proximal for the thumb but distal for all the other digits. In every respect the thumb stands out (no pun intended) as qualitatively different. With the appearance of a paper in Genes and Development by Montavon et al. [1], we now have a detailed understanding of some of the molecular mechanisms that make this anterior-most digit special.
     authors: Wagner, G. P., & Vargas, A. O. (2008)
+  - highlight: 0
+    title: "The evolution of HoxD-11 expression in the bird wing: Insights from
+      Alligator mississippiensis. "
+    description: >-
+      Abstract. Background. Comparative morphology identifies the digits of the
+      wing of birds as 1,2 and 3, but they develop at embryological positions
+      that become digits 2, 3 and 4 in other amniotes. A hypothesis to explain
+      this is that a homeotic frame shift of digital identity occurred in the
+      evolution of the bird wing, such that digits 1,2 and 3 are developing from
+      embryological positions 2, 3 and 4. Digit 1 of the mouse is the only digit
+      that shows no late expression of HoxD-11. This is also true for the
+      anterior digit of the bird wing, suggesting this digit is actually a digit
+      1. If this is the case, we can expect closer relatives of birds to show no
+      HoxD-11 expression only in digit 1. To test this prediction we investigate
+      HoxD-11 expression in crocodilians, the closest living relatives of birds.
+
+
+      Methodology/Principal Findings. Using degenerate primers we cloned a 606 nucleotide fragment of exon 1 of the alligator HoxD-11 gene and used it for whole-mount in-situ detection in alligator embryos. We found that in the pentadactyl forelimbs of alligator, as in the mouse, late expression of HoxD-11 is absent only in digit 1.
+
+
+      Conclusions/Significance. The ancestral condition for amniotes is that late-phase HoxD-11 expression is absent only in digit 1. The biphalangeal morphology and lack of HoxD-11 expression of the anterior digit of the wing is like digit 1 of alligator and mouse, but its embryological position as digit 2 is derived. HoxD-11 expression in alligator is consistent with the hypothesis that both digit morphology as well as HoxD-11 expression are shifted towards posterior in the bird wing.
+    authors: Vargas, A. O., Kohlsdorf, T., Fallon, J. F., VandenBrooks, J., &
+      Wagner, G. P. (2008)
+    link:
+      url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003325
+      display: " PLoS ONE 3(10): e3325, 1-7. doi: 10.1371/journal.pone.0003325."
