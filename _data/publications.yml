@@ -1543,3 +1543,77 @@ papers:
       url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.b.21051
       display: "Journal of Experimental Zoology - Part B: Molecular and Developmental
         Evolution, 304B: 206-219. doi:10.1002/jez.b.21051."
+  - highlight: 0
+    link:
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.b.21023
+      display: "Journal of Experimental Zoology - Part B: Molecular and Developmental
+        Evolution, 304B: 86-90. doi:10.1002/jez.b.21023."
+    title: "Birds have dinosaur wings: The molecular evidence."
+    description: Abstract. Within developmental biology, the digits of the wing of
+      birds are considered on embryological grounds to be digits 2, 3 and 4. In
+      contrast, within paleontology, wing digits are named 1, 2, 3 as a result
+      of phylogenetic analysis of fossil taxa indicating that birds descended
+      from theropod dinosaurs that had lost digits 4 and 5. It has been argued
+      that the development of the wing does not support the conclusion that
+      birds are theropods, and that birds must have descended from ancestors
+      that had lost digits 1 and 5. Here we use highly conserved gene expression
+      patterns in the developing limbs of mouse and chicken, including the
+      chicken talpid2 mutant and polydactylous Silkie breed (Silkie mutant), to
+      aid the assessment of digital identity in the wing. Digit 1 in developing
+      limbs does not express Hoxd12, but expresses Hoxd13. All other digits
+      express both Hoxd12and Hoxd13. We found this signature expression pattern
+      identifies the anteriormost digit of the wing as digit 1, in accordance
+      with the hypothesis these digits are 1, 2 and 3, as in theropod dinosaurs.
+      Our evidence contradicts the long‐standing argument that the development
+      of the wing does not support the hypothesis that birds are living
+      dinosaurs.
+    authors: Vargas, A. O., & Fallon, J. F. (2005)
+  - highlight: 0
+    title: How ancient is the adult swimming capacity in the lineage leading to
+      Euchordates?
+    link:
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1525-142X.2005.05029.x
+      display: "Evolution & Development, 7: 171-174. doi:
+        10.1111/j.1525-142X.2005.05029.x."
+    authors: Vargas, A. O., & Aboitiz, F. (2005)
+    description: "Abstract. "
+  - highlight: 0
+    title: Oscillatory bursts in the optic tectum of birds represent re-entrant
+      signals from the nucleus isthmi pars parvocellularis.
+    description: Abstract. Fast oscillatory bursts (OBs; 500-600 Hz) are the most
+      prominent response to visual stimulation in the optic tectum of birds. To
+      investigate the neural mechanisms generating tectal OBs, we compared local
+      recordings of OBs with simultaneous intracellular and extracellular
+      single-unit recordings in the tectum of anesthetized pigeons. We found a
+      specific population of units that responded with burst discharges that
+      mirrored the burst pattern of OBs. Intracellular filling with biocytin of
+      some of these bursting units demonstrated that they corresponded to the
+      paintbrush axon terminals from the nucleus isthmi pars parvocellularis
+      (Ipc). Direct recordings in the Ipc confirmed the high correlation between
+      Ipc cell firing and tectal OBs. After injecting micro-drops of lidocaine
+      in the Ipc, the OBs of the corresponding tectal locus disappeared
+      completely. These results identify the paintbrush terminals as the neural
+      elements generating tectal OBs. These terminals are presumably cholinergic
+      and ramify across tectal layers in a columnar manner. Because the optic
+      tectum and the Ipc are reciprocally connected such that each Ipc neuron
+      sends a paintbrush axon to the part of the optic tectum from which its
+      visual inputs come, tectal OBs represent re-entrant signals from the Ipc,
+      and the spatial-temporal pattern of OBs across the tectum is the mirror
+      representation of the spatial-temporal pattern of bursting neurons in the
+      Ipc. We propose that an active location in the Ipc may act, via bursting
+      paintbrushes in the tectum, as a focal “beam of attention” across tectal
+      layers, enhancing the saliency of stimuli in the corresponding location in
+      visual space.
+    link:
+      url: https://www.jneurosci.org/content/25/30/7081
+      display: "Journal of Neuroscience, 25, (30), 7081-7089. doi:
+        10.1523/JNEUROSCI.1379-05.2005."
+    authors: Marín, G., Mpdozis, J., Sentis, E., Ossandón, T., & Letelier, J. C. (2005)
+  - highlight: 0
+    title: Beyond selection. Más allá de la selección.
+    description: Abstract.
+    authors: Vargas, A. O. (2005)
+    link:
+      display: "Revista Chilena de Historia Natural, 78, 4, 739-752. doi:
+        10.4067/S0716-078X2005000400012 ."
+      url: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-078X2005000400012&lng=en&nrm=iso&tlng=en
