@@ -1403,7 +1403,7 @@ papers:
     link:
       url: https://www.jneurosci.org/content/27/30/8112
       display: "Journal of Neuroscience, 27, (30), 8112-8121. doi:
-        10.1523/JNEUROSCI.1420-07.2007"
+        10.1523/JNEUROSCI.1420-07.2007."
     description: Abstract. We describe the operation of a midbrain neural circuit in
       pigeons that may participate in selecting and attending to one visual
       stimulus from the myriad displayed in their visual environment. This
@@ -1437,7 +1437,7 @@ papers:
       J.  (2007)
     link:
       display: "Journal of Neuroscience, 27, (34), 9238-9245. doi:
-        10.1523/JNEUROSCI.4512-06.2007"
+        10.1523/JNEUROSCI.4512-06.2007."
       url: https://www.jneurosci.org/content/27/34/9238
     description: Abstract. Neural oscillations, which appear in several areas of the
       nervous system and cover a wide frequency range, are a prominent issue in
@@ -1483,3 +1483,24 @@ papers:
       real biology of systems."
     authors: Cornish-Bowden, A., Cárdenas, M. L., Letelier, J. C., & Soto-Andrade,
       J. (2007)
+  - highlight: 0
+    title: "Organizational invariance and metabolic closure: Analysis in terms of
+      (M, R) systems."
+    description: "Abstract. "
+    authors: Letelier, J. C., Soto-Andrade, J., Guíñez Abarzúa, F., Cornish-Bowden,
+      A., & Luz Cárdenas, M. (2006)
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0022519305003073?via%3Dihub
+      display: "Journal of Theoretical Biology, 238, 4, 949-961. doi:
+        10.1016/j.jtbi.2005.07.007."
+  - highlight: 0
+    title: "Influencing and interpreting visual input: The role of a visual feedback
+      system."
+    description: "Abstract. "
+    link:
+      url: https://www.jneurosci.org/content/26/41/10368
+      display: "Journal of Neuroscience, 26, (41), 10368-10371. doi:
+        10.1523/JNEUROSCI.3288-06.2006."
+    authors: Gruberg, E., Dudkin, E., Wang, Y., Marín, G., Salas, C., Sentis, E.,
+      Letelier, J., Mpodozis, J., Malpeli, J., Cui, H., Ma, R., Northmore, D., &
+      Udin, S. (2006)
