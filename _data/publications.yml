@@ -1504,3 +1504,42 @@ papers:
     authors: Gruberg, E., Dudkin, E., Wang, Y., Marín, G., Salas, C., Sentis, E.,
       Letelier, J., Mpodozis, J., Malpeli, J., Cui, H., Ma, R., Northmore, D., &
       Udin, S. (2006)
+  - highlight: 0
+    title: The digits of the wing of birds are 1, 2, and 3. A review.
+    description: >+
+      Abstract. Fossil evidence documenting the evolutionary transition from
+      theropod dinosaurs to birds indicates unambiguously that the digits of the
+      wing of birds are digits 1, 2, and 3. However, some embryological evidence
+      suggests that these digits are 2, 3, and 4. This apparent lack of
+      correspondence has been described as the greatest challenge to the widely
+      accepted theropod–bird link (Zhou 2004. Naturwissenschaften 91:455–471).
+      Here we review the pertinent literature regarding the debate on the origin
+      of birds and wing digital identity and the evidence in favor of a 1, 2, 3
+      identity of the wing digits. Recent molecular evidence shows that the
+      expression of Hoxd12 and Hoxd13 in the developing wing supports the
+      theropod–bird link. In the chicken foot and in the mouse hand and foot,
+      digit 1 is the only digit to combine the expression of Hoxd13 with the
+      absence of expression of Hoxd12. The same is observed in the anterior
+      digit of the wing, suggesting it is a digit 1, as expected for a theropod.
+      Nevertheless, Galis et al. (2005. J Exp Zool (Mol Dev Evol) in press),
+      argue that Hoxd12 and Hoxd13 expression patterns in mutant limbs do not
+      allow distinguishing the most anterior digit in the bird wing from digit
+      2. They also argue that constraints to the evolution of limb development
+      support the 2, 3, 4 identity of the wing digits. However, the case put
+      forward by Galis et al. is biased and flawed with regard to interpretation
+      of mutant limbs, developmental mechanisms, stages observed, and the
+      description of the evolutionary variation of limb development.
+      Importantly, Galis et al. do not present evidence from wild‐type limbs
+      that counters the conclusions of Vargas and Fallon (2005. J Exp Zool (Mol
+      Dev Evol) 304B(1):85–89), and fail to provide molecular evidence to
+      specifically support the hypothesis that the wing digits are 2, 3, and 4.
+      The expression of Hoxd12 and Hoxd13 in the developing wing is consistent
+      with the hypothesis that birds are living dinosaurs; this view can lead to
+      a greater understanding of the actual limits to the evolutionary variation
+      of limb development.
+
+    authors: Vargas, A. O., & Fallon, J. F. (2005)
+    link:
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.b.21051
+      display: "Journal of Experimental Zoology - Part B: Molecular and Developmental
+        Evolution, 304B: 206-219. doi:10.1002/jez.b.21051."
