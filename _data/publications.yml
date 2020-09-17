@@ -2031,3 +2031,367 @@ papers:
       We suggest that the direct bilateral tecto‐rotundal projections are excitatory, whereas the indirect ipsilateral projections from the SP/IPS and PV are mainly inhibitory, possibly acting via a GABA‐A receptor.
     authors: Mpodozis, J., Cox, K., Shimizu, T., Bischof, H. J., Woodson, W., &
       Karten, H. J. (1996)
+  - highlight: 0
+    link:
+      display: " Proceedings of International Conference on Neural Networks (ICNN'96),
+        Washington, DC, USA, 1996, pp. 724-727 vol.2. doi:
+        10.1109/ICNN.1996.548985."
+      url: https://ieeexplore.ieee.org/document/548985
+    authors: Glaria-Bengoechea, A., Mpodozis Marin, J., Jonas-Zuñiga, R., &
+      Ballesteros Leiva, A. (1996)
+    description: Abstract. Psychophysics of color perception has demonstrated to be
+      a complex phenomenon, because some illusionary perceptions raised
+      questions about the view that it might be determined by the wavelength
+      composition of the light spectra reflected into the retina. We review the
+      phenomena of color constancy, color induction and colored shadows and
+      develop a neural network with lateral interactions in its input layer,
+      which implements these psychophysical phenomena suggesting a possible
+      explanation for them. The model is based on a simplified neural
+      architecture of the retina.
+    title: "RETINET: A Neural Network for the Psychophysics of Color Vision."
+  - highlight: 0
+    title: Linear analysis of auto-organization in Hebbian neural networks.
+    authors: Letelier, J. C., & Mpodozis, J. (1995)
+    link:
+      url: https://pubmed.ncbi.nlm.nih.gov/8728824/
+      display: Biological Research, 28, (1), 97-104.
+    description: Abstract. The self-organization of neurotopies where neural
+      connections follow Hebbian dynamics is framed in terms of linear operator
+      theory. A general and exact equation describing the time evolution of the
+      overall synaptic strength connecting two neural laminae is derived. This
+      linear matricial equation, which is similar to the equations used to
+      describe oscillating systems in physics, is modified by the introduction
+      of non-linear terms, in order to capture self-organizing (or
+      auto-organizing) processes. The behavior of a simple and small system,
+      that contains a non-linearity that mimics a metabolic constraint, is
+      analyzed by computer simulations. The emergence of a simple "order" (or
+      degree of organization) in this low-dimensionality model system is
+      discussed.
+  - highlight: 0
+    title: Conduction velocity groups in the retino-tectal and retino-thalamic
+      visual pathways of the pigeon (Columba livia).
+    description: >+
+      Abstract. The anatomical characteristics of the avian visual system are
+      well known. However, there are wide gaps in our knowledge with respect to
+      the physiological characteristics of their visual system. For example, we
+      lack both an operational identification of the different ganglion cell
+      types present in the retinae of birds, and a description of their
+      presumptive differentia] central projections. The results presented here
+      address this latter point by classifying the conduction velocity groups of
+      fibers present in the optic tract of the pigeon. We report the existence
+      of at least 5 groups of axons in the optic tract of the pigeon, with
+      conduction velocities of 22-18 m/s, 12-10 m/s, 8 m/s, 6 m/s and less than
+      2.5 m/s. All five groups project to the tectum but only the four fastest
+      groups project to the dorsal thalamic complex. The homologies with the
+      populations of retinal axons found in cats are discussed.
+
+    authors: Mpodozis, J., Letelier, J. C., Concha, M. L., & Maturana, H. (1995)
+    link:
+      url: https://www.tandfonline.com/doi/abs/10.3109/00207459509015304
+      display: "International Journal of Neuroscience, 81:3-4, 123-136. doi:
+        10.3109/002074595090153.04"
+  - highlight: 0
+    link:
+      url: https://pubmed.ncbi.nlm.nih.gov/8728817/
+      display: Biological Research, 28, (1), 15-26.
+    title: Brain, language and the origin of human mental functions.
+    authors: Maturana, H., Mpodozis, J., & Letelier, J. C. (1995)
+    description: "Abstract. We propose that to understand the biological and
+      neurophysiological processes that give rise to human mental phenomena it
+      is necessary to consider them as behavioral relational phenomena. In
+      particular, we propose that: a) these phenomena take place in the
+      relational manner of living that human language constitutes, and b) that
+      they arise as recursive operations in such behavioral domain. Accordingly,
+      we maintain that these phenomena do not take place in the brain, nor are
+      they the result of a unique operation of the human brain, but arise with
+      the participation of the brain as it generates the behavioral relational
+      dynamics that constitutes language."
+  - highlight: 0
+    title: The retinal targets of centrifugal neurons and the retinal neurons
+      projecting to the accessory optic system.
+    description: "Abstract. In birds, neurons of the isthmo-optic nucleus (ION), as
+      well as “ectopic” neurons, send axons to the retina, where they synapse on
+      cells in the inner nuclear layer (INL). Previous work has shown that
+      centrifugal axons can be divided into two anatomically distinct types
+      depending on their mode of termination: either “convergent” or “divergent”
+      (Ramon y Cajal, 1889; Maturana & Frenk, 1965). We show that
+      cytochrome-oxidase histochemistry specifically labels “convergent”
+      centrifugal axons and target neurons which appear to be amacrine cells, as
+      well as three “types” of ganglion cells: two types found in the INL
+      (displaced ganglion cells) and one in the ganglion cell layer. Labeled
+      target amacrine cells have distinct darkly labeled “nests” of boutons
+      enveloping the somas, are associated with labeled centrifugal fibers, and
+      are confined to central retina. Lesions of the isthmo-optic tract abolish
+      the cytochrome-oxidase labeling in the centrifugal axons and in the target
+      amacrine cells but not in the ganglion cells. Cytochrome-oxidase-labeled
+      ganglion cells in the INL are large; one type is oval and similar to the
+      classical displaced ganglion cells of Dogiel, which have been reported to
+      receive centrifugal input; the other type is rounder. Rhodamine beads
+      injected into the accessory optic system results in retrograde label in
+      both types of cells, showing that two distinct types of displaced ganglion
+      cells project to the accessory optic system in chickens. The ganglion
+      cells in the ganglion cell layer that label for cytochrome oxidase also
+      project to the accessory optic system. These have proximal dendrites that
+      ramify in the outer inner plexiform layer. Neither the target amacrine
+      cells nor either of the displaced ganglion cells are immunoreactive for
+      the inhibitory transmitter gamma aminobutyric acid. At least some of the
+      target amacrine cells may, however, be cholinoceptive: we found that the
+      antibody to the alpha-7 subunit of the nicotinic ACh receptor labels a
+      population of cells in the INL that are similar in location, size, and the
+      presence of labeled bouton-like structures to those we find labeled with
+      cytochrome oxidase. This antibody also labels neurons in the ION proper
+      but not ectopic cells. In conclusion, it appears that cytochrome oxidase
+      may be a marker for “convergent” centrifugal axons and at least one of
+      their target cells in the INL."
+    link:
+      display: "Visual Neuroscience, 11, (2), 401-409. doi: 10.1017/S0952523800001747."
+      url: https://www.cambridge.org/core/journals/visual-neuroscience/article/retinal-targets-of-centrifugal-neurons-and-the-retinal-neurons-projecting-to-the-accessory-optic-system/8DC99FE1976B46AA4EB173C4FAD5D102
+    authors: Britto, Luiz R.G., Gottlieb, M., Marin, G., Rojas, X., & Wallman, J. (1994)
+  - highlight: 0
+    title: "Effects of retinal lesions upon the distribution of nicotinic
+      acetylcholine receptor subunits in the chick visual system. "
+    link:
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.903500311
+      display: "Journal of Comparative Neurology, 350: 473-484. doi:
+        10.1002/cne.903500311."
+    description: "Abstract. Immunohistochemistry was used in this study to evaluate
+      the effects of retinal lesions upon the distribution of neuronal nicotinic
+      acetylocholine receptor subunits in the chick visual system. Following
+      unilateral retinal lesions, the neuropil staining with an antibody against
+      the β2 receptor subunit, a major component of α‐bungarotoxin‐insensitive
+      nicotinic receptors, was dramatically reduced or completely eliminated in
+      all of the contralateral retinorecipient structures. On the other hand,
+      neuropil staining with antibodies against two α‐bungarotoxinsensitive
+      receptor subunits, α7 and α8, was only slightly affected after retinal
+      lesions. Decreased neuropil staining for α7‐like immunoreactivity was only
+      observed in the nucleus of the basal optic root and layers 2–4 and 7 of
+      the optic tectum. For α8‐like immunoreactivity, slight reduction of
+      neuropil staining could be observed in the ventral geniculate complex,
+      griseum tecti, nucleus lateralis anterior, nucleus lentiformis
+      mesencephali, layers 4 and 7 of the tectum, and nucleus suprachiasmaticus.
+      Taken together with previous data on the localization of nicotinic
+      receptors in the retina, the present results indicate that the β2 subunit
+      is transported from retinal ganglion cells to their central targets,
+      whereas the α7 and α8 subunit immunoreactivity appears to have a central
+      origin. The source of these immunoreactivities could be, at least in part,
+      the stained perikarya that were observed to contain α7 and α8 subunits in
+      all retinoreceipient areas. In agreement with this hypothesis, the β2
+      subunit of the nicotinic acetylcholine receptors was not frequently found
+      in perikarya of the same areas. "
+    authors: Britto, L. R.G., Torrao, A. S., Hamassaki‐Britto, D. E., Mpodozis, J.,
+      Keyser, K. T., Lindstrom, J. M., & Karten, H. J.  (1994)
+  - highlight: 0
+    title: Alternativas de automatización para el guiado autónomo de vehículos
+      cargadores frontales en una mina subterránea.
+    description: Abstract,
+    authors: Córdova, F., Doggenweiler, C., Maturana, H., Mpodozis, J., Letelier, J.
+      C., & Moyano, A. (1993)
+    link:
+      url: https://cepa.info/paper.cgi?id=631&action=add
+      display: "Automática e Innovación, 2: 67–63."
+  - highlight: 0
+    title: Saccade-related responses of centrifugal neurons projecting to the
+      chicken retina.
+    description: Abstract. Centrifugal projections to several sensory systems
+      modulate the afferent activity during active behaviors. To see whether
+      such modulation occurred in the visual system, we recorded the activity of
+      isthmo-optic neurons in awake chickens during eye movements. We find that
+      the discharge of all isthmo-optic neurons tends to stop during saccades,
+      although every neuron does not pause for every saccade. The pause begins
+      at approximately the same time as the saccade, and pause duration is
+      correlated with saccade duration. Pausing during saccades occurs in both
+      dark and light suggesting that it is motoric rather that visual in origin.
+      In addition, we find that the spontaneous activity of isthmo-optic neurons
+      increases in darkness. We discuss the significance of the saccadic
+      modulation of isthmo-optic activity in terms of possible functions of the
+      centrifugal projection in modulation of ganglion cell activity.
+    link:
+      url: https://link.springer.com/article/10.1007/BF00231246
+      display: "Experimental Brain Research, 82, 263–270. doi: 10.1007/BF00231246."
+    authors: Marin, G., Letelier, J. C., & Wallman, J.  (1990)
+  - highlight: 0
+    title: "Lenguaje y realidad: el origen de lo humano."
+    link:
+      url: http://www.biologiachile.cl/biological_research/VOL22_1989/N2/Humberto_Maturana.pdf
+      display: "Archivos de Biología y Medicina Experimentales, 22: 77-81."
+    description: Abstract.
+    authors: Maturana, H. (1989)
+  - highlight: 0
+    title: "Morphic resonance in silicon chips: An experimental test of the
+      hypothesis of formative causation."
+    description: Abstract.
+    link:
+      url: https://skepticalinquirer.org/1988/04/morphic-resonance-in-silicon-chips-2/
+      display: "Skeptical Inquirer, 12, 3: 298–300."
+    authors: Varela, F., & Letelier, J. C. (1988)
+  - highlight: 0
+    title: A quantitative assessment of the dependency of the visual temporal frame
+      upon the cortical rhythm.
+    link:
+      display: Journal of Physiology (Paris), 83, (2):95-101.
+      url: https://pubmed.ncbi.nlm.nih.gov/3251042/
+    description: Abstract.
+    authors: Gho, M., & Varela, F. J. (1988)
+  - highlight: 0
+    title: Frontal and lateral visual system in birds.
+    description: "Abstract. Birds exhibit a variable retinal organization in terms
+      of foveas and areas of high cell density. The distribution of these
+      retinal structures in different species does not follow phylogenetic
+      lines. In order to study this phenomenon, we presented chickens and
+      pigeons with a luminous bar that could be moved at different speeds and
+      directions in the visual field and could be located at various distances
+      from the animal; head movements were monitored during the presentations.
+      The results show that for a static or slow-moving stimulus the birds
+      adopted a frontal gaze that stabilized the image in the retina, and for a
+      fast-moving stimulus they adopted a lateral gaze that allowed the image to
+      move across the retina. These results reveal that: (a) these two ways of
+      looking correlate with the retinal anatomy, not with the phylogeny, of the
+      species, and (b) these two ways of looking reflect two different
+      sensorimotor systems that involve different anatomical features and
+      neurophysiological properties of the visual system in birds."
+    link:
+      display: "Brain, Behavior and Evolution, 32: 57–62. doi: 10.1159/000116532."
+      url: https://www.karger.com/Article/PDF/116532
+    authors: Maldonado, P. E., Maturana, H., & Varela, F. (1988)
+  - highlight: 0
+    title: "Perception: Behavioral configuration of the object."
+    link:
+      url: https://pubmed.ncbi.nlm.nih.gov/8929093/
+      display: Archivos de Biología y Medicina Experimentales, 20, (3-4), 319–324.
+    description: >
+      Abstract. The word perception is usually heard as connoting an operation
+      of grasping an external reality through the process of receiving
+      information from it. This, however, is constitutively impossible because
+      living systems are dynamic structure determined systems, and everything
+      happens in them determined at every instant by their structure. This means
+      that the medium cannot specify what happens in a living system, and that
+      it can only trigger in it structural changes determined in its structure.
+      As a result a living system constitutively always operates in structural
+      congruence with the medium, and exists as such only as long as this
+      structural congruence (adaptation) is conserved; otherwise it
+      desintegrates. In these circumstances, the phenomenon connoted by the word
+      perception consists in the association, by the observer, of the behavioral
+      regularities that he or she distinguishes in the observed organism with
+      the conditions of the medium that he or she sees triggering them. The
+      observer uses such behavioral regularities to characterize perceptual
+      objects. This applies to all living systems including the observer. The
+      explanation of perception in the context of the structural determinism of
+      living systems invalidates any attempt to account for the phenomenon of
+      cognition (including language) with notions that entail the denotation or
+      connotation of a domain of reality independent of the distinctions of the
+      observer.
+    authors: Maturana, H., & Mpodozis, J. (1987)
+  - highlight: 0
+    title: "The organ of form: towards a theory of biological shape."
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/0140175087900352
+      display: "Journal of Social and Biological Structures, 10, 1, 73-83. doi:
+        10.1016/0140-1750(87)90035-2."
+    description: Abstract. Cells and the extracellular matrix (ECM) immediately
+      surrounding them engage in reciprocal determinations. But the ECM is also
+      a global structure because it is continuous throughout the body. We argue
+      that this local-global articulation is a central element in the
+      determination of an animal's form, and we show how it participates in all
+      the other dimensions of animal life. Specific experimental implications
+      and further consequences of this view are discussed.
+    authors: Varela, F. J., & Frenk, S. (1987)
+  - highlight: 0
+    title: Exact results for the average dynamic behavior of some non-linear neural
+      networks.
+    description: Abstract. We have studied the global dynamic behavior of
+      neural-like networks of synchronous threshold elements by writing a master
+      equation as a function of parameter values using statistical methods.
+      Exact results for highly connected networks and no correlation are
+      obtained, showing that in this case (contrary to previous results) the
+      average activity can only display simple stable behaviour, the sole
+      exception being special cases of a slow passage through a tangent
+      bifurcation, and a limit cycle of length two. By introducing an
+      appropriate probabilistic hypothesis, we also study the average activity
+      and correlation for highly connected networks with the topology of a
+      (Cayley) tree. In this case the dynamic is ruled by a pair of coupled
+      equations linking activity and correlation, and the tendency is for the
+      correlation to dispappear over time. However, under reasonable biological
+      conditions, this tendency will be extremely slow, giving rise to a region
+      of pseudo-stability.
+    link:
+      url: https://link.springer.com/article/10.1007/BF00338818
+      display: "Biological Cybernetics, 57, 249–256. doi: 10.1007/BF00338818."
+    authors: Rössler, J., & Varela, F. J. (1987)
+  - highlight: 0
+    title: Cytoarchitecture of the avian ventral lateral geniculate nucleus.
+    description: >-
+      Abstract. The avian thalamic ventral lateral geniculate nucleus (GLv) was
+      studied by light microscopic techniques in order to understand its
+      anatomy, neuronal composition, and the nature of its retinal and tectal
+      afferents. The avian GLv is of considerable interest because physiological
+      experiments show that it is the brain structure with the highest
+      percentage of color‐opponent responses (Maturana and Varela, '82).
+
+
+      We used adult pigeons and quail for the present study. With Nissl techniques a predominance of medium‐size neurons (58%) constitute the GLv. The shape, size, and orientation of the different neurons is highly variable throughout the GLv. With the Golgi methods, 5 classes of neurons are distinguished: I and IV (large), II (medium‐size), III and V (small). Some class IV large neurons have bifurcated axons; no axons were distinguished on the small neurons. Optic fibers penetrating the GLv are often collateral branches of retinal axons that continue elsewhere. Fink‐Heimer methods show that retinal axon terminals end around large and medium‐size neurons and also reach the internal lamina of the GLv. HRP tracing shows that the large and medium‐size neurons of the GLv project to the optic tectum.
+
+
+      On the basis of comparisons between the cytoarchitecture of the GLv described here and the physiological findings previously reported (Maturana and Varela, '82; Pateromichelakis, '79), we suggest that: (1) large GLv neurons are the color‐opponent units, (2) medium‐size neurons are the movement‐sensitive units, and (3) small neurons are either interneurons (local circuit neurons), or they might project to the area pretectalis or to some other GLv projection region not yet described.
+    link:
+      display: "Journal of Comparative Neurology, 264: 509-526. doi:
+        10.1002/cne.902640406."
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902640406
+    authors: Guiloff, G. D., Maturana, H. R., & Varela, F. J. (1987)
+  - highlight: 0
+    title: "Self-reference and fixed points: A discussion and an extension of
+      Lawvere’s Theorem."
+    description: Abstract. We consider an extension of Lawvere's Theorem showing
+      that all classical results on limitations (i.e. Cantor, Russel, Godel,
+      etc.) stem from the same underlying connection between self-referentiality
+      and fixed points. We first prove an even stronger version of this result.
+      Secondly, we investigate the Theorem's converse, and we are led to the
+      conjecture that any structure with the fixed point property is a retract
+      of a higher reflexive domain, from which this property is inherited. This
+      is proved here for the category of chain complete posets with continuous
+      morphisms. The relevance of these results for computer science and biology
+      is briefly considered.
+    authors: Soto-Andrade, J., & Varela, F. J.  (1984)
+    link:
+      display: "Acta Applicandae Mathematica 2, 1–19. doi: 10.1007/BF01405490."
+      url: https://link.springer.com/article/10.1007/BF01405490
+  - highlight: 0
+    title: Why the cortical magnification factor in rhesus is isotropic.
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/0042698984900877
+      display: "Vision Research, 24, 9, Pages 1091-1095. doi:
+        10.1016/0042-6989(84)90087-7."
+    authors: Letelier, J. C., & Varela, F. (1984)
+    description: >-
+      Abstract. We examine the arguments advanced recently [by Sakitt (Vision
+      Res.22, 417–421, 1982), and Tootellet al. (Science 218, 902–904, 1982)[
+      leading to the conclusion that the retino-cortical magnification factor
+      cannot be isotropic. The relevance of the issue is discussed through the
+      use of complex function theory as the appropriate tool to express the
+      geometry of interconnections between neural lamina. A general expression
+      is obtained to compute the length of a curve under a conformal
+      transformation. When this result is applied to circles in the visual
+      field, it is shown that Sakitt's findings imply radial asymmetry of the
+      retino-cortical map, and not local anisotropy, as claimed. In fact, by
+      taking Schwartz's (Vision Res.20, 645–670, 1980) proposal that the complex
+      log map including a constant eccentricity term be used to represent the
+      retino-cortical mapping, we show that both local isotropy and radial
+      asymmetry are simultaneously valid. Furthermore, the values of cortical
+      length predicted from this approach account exactly for the data shown by
+      Sakitt. A quantitative prediction is offered also for the ratio between
+      the magnification factor of vertical and horizontal meridians at different
+      eccentricities, which is precisely the value reported by Tootellet al. We
+      conclude that these results show that
+
+
+      (1) conformal transformations are appropriate tools to describe the geometrical interconnections between neural lamina;
+
+
+      (2) for the case of the retino-cortical mapping the appropriate conformai transform is an eccentric complex logarithm.
+  - highlight: 0
+    title: Scientists in Pinochet ’s Chile.
+    link:
+      display: "Nature, 308, 310. doi: 10.1038/308310a0."
+      url: https://www.nature.com/articles/308310a0
+    authors: Cordero, P., Garreton, M. A., Giannini, H., Goic, A., Izquierdo, L.,
+      Latorre, R., Minguell, J., Ureta, T., Varela, F., & Vivaldi, E.  (1984)
+    description: Abstract.
