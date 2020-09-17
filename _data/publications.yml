@@ -1786,3 +1786,248 @@ papers:
       url: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-97602001000200002
       display: "Biological Research, 34, (2), 7-13. doi:
         10.4067/S0716-97602001000200002."
+  - highlight: 0
+    title: A simple method to microinject solid neural tracers into deep structures
+      of the brain.
+    description: Abstract. We have developed an instrument to perform
+      microinjections of solid neural tracers into deep structures of the brain.
+      The instrument consists of a thin hypodermic needle equipped with a
+      movable internal rod, which is connected to a pressure chamber. When a
+      pressure pulse is applied to the chamber, the rod moves forward and back
+      inside the needle, pushing out a solid load previously packed inside the
+      needle tip. By attaching a microelectrode to the instrument, it is also
+      possible to have electrophysiological control of the injection placement.
+      To test the instrument, we microinjected DiI and rhodamine crystals into
+      selected structures of the visual system of pigeons. The results show
+      small, well-defined injection sites, accurately located in the desired
+      targets, together with well-developed anterogade and retrograde transport,
+      selectively originated from the injection sites. This method extends the
+      usage of solid tracers to most structures in the brain and may, in certain
+      cases, be more advantageous than the conventional method of injecting
+      tracer solutions.
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0165027001003326
+      display: "Journal of Neuroscience Methods, 106, 2, 121-129. doi:
+        10.1016/S0165-0270(01)00332-6."
+    authors: Marín, G., Henny, P., Letelier, J. C., Sentis, E., Karten, H., Mrosko,
+      B., & Mpodozis, J. (2001)
+  - highlight: 0
+    title: El ¿delito? de Aristóteles.
+    link:
+      url: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-078X2001000300001
+      display: "Revista Chilena de Historia Natural, 74, (3), 507-514. doi:
+        10.4067/S0716-078X2001000300001."
+    description: "Abstract. El filósofo griego Aristóteles es reconocido como uno de
+      los más tempranos naturalistas del mundo occidental. Sus acabados y
+      precisos conocimientos sobre zoología están contenidos en una variedad de
+      escritos dedicados al estudio de los animales. Sorprende que, pese a su
+      gran acervo de conocimientos biológicos, el estagirita nunca se planteó la
+      posibilidad de que los organismos pudieran transformarse o estar
+      conectados por relaciones de origen, ideas sustentadoras de la teoría de
+      la evolución orgánica. Nosotros planteamos que hay en la biología
+      aristotélica tres factores principales que explican esta falta de visión:
+      (1) la idea eternizadora de la reproducción de los entes que no da lugar a
+      la posibilidad de la transformación genérica de los organismos a través
+      del nexo reproductivo; (2) el planteamiento que los fenómenos naturales
+      tienen un propósito (causa final) que determina su existencia, cuestión
+      que lleva a desestimar la eventual existencia de conexiones en el origen
+      entre los distintos géneros (sensu Aristóteles) de organismos vivos; y (3)
+      como consecuencia de lo anterior, la clasificación de los seres vivos
+      según criterios analógico-funcionales que oscurece la existencia de
+      vínculos estructurales y semejanzas de origen entre los organismos. El
+      análisis de esta situación propia de la biología aristotélica nos lleva a
+      examinar la importancia que tiene, para la formulación y desarrollo de las
+      ideas evolucionistas, el advenimiento de una clasificación biológica de
+      tipo jerárquica, inclusiva y ramificada, como la fundada por Linné y
+      desarrollada, sobre la base de correspondencias estructurales y semejanzas
+      de origen entre los organismos, por los grandes naturalistas del siglo
+      XVIII y XIX."
+    authors: Cecchi, M. C., Guerrero-Bosagna, C., & Mpodozis, J. (2001)
+  - highlight: 0
+    title: The origin of species by means of natural drift.
+    description: "Abstract. In this article we propose that the mechanism that gave
+      rise to the diversity of living systems that we find today, as well as to
+      the biosphere as coherent system of interrelated autonomous living
+      systems, is natural drift. And we also propose that that which we
+      biologists connote with the expression natural selection is a consequence
+      of the history of the constitution of the biosphere through natural drift,
+      and not the mechanism that generates that history. Moreover, we do this by
+      proposing: a) that the history of living systems on earth is the history
+      of the arising, conservation, and diversification of lineages through
+      reproduction, and not of populations; b) that biological reproduction is a
+      systemic process of conservation of a particular
+      ontogenic-phenotype/ontogenic- niche relation, and not a genetic process
+      of conservation of some genetic constitution; c) that a lineage arises in
+      the systemic reproductive conservation of an
+      ontogenic-phenotype/ontogenic-niche relation, and not in the conservation
+      of a particular genotype; d) that although nothing can happen in the life
+      history of a living system that is not permitted by its total genotype,
+      whatever happens in it arises in an epigenetic manner, and it is not
+      possible to properly claim that any features that arises in the life
+      history of an organism is genetically determined; e) that it is behavior
+      what guides the course of the history of living systems, not genetics; and
+      f) that that which a taxonomist distinguishes when he or she claims that
+      an organism belongs to a particular species, is a particular ontogenic
+      phenotype/ontogenic niche relation that occupies a nodal position in the
+      historical diversification of lineages."
+    authors: Maturana, H., & Mpodozis, J. (2000)
+    link:
+      url: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-078X2000000200005&lng=es&nrm=iso&tlng=en
+      display: "Revista Chilena de Historia Natural, 73, (2), 261-310. doi:
+        10.4067/S0716-078X2000000200005."
+  - highlight: 0
+    title: Spike sorting based on discrete wavelet transform coefficients.
+    description: Abstract. Using the novel mathematical technique known as wavelet
+      analysis, a new method (WSC) is presented to sort spikes according to a
+      decomposition of neural signals in the time–frequency space. The WSC
+      method is implemented by a pyramidal algorithm that acts upon neural
+      signals as a bank of quadrature mirror filters. This algorithm is clearly
+      explained and an overview of the mathematical background of wavelet
+      analysis is given. An artificial spike train, especially designed to test
+      the specificity and sensibility of sorting procedures, was used to assess
+      the performance of the WSC method as well as of methods based on principal
+      component analysis (PCA) and reduced feature set (RFS). The WSC method
+      outperformed the other two methods. Its superior performance was largely
+      due to the fact that spike profiles that could not be separated by
+      previous methods (because of the similarity of their temporal profile and
+      the masking action of noise) were separable by the WSC method. The WSC
+      method is particularly noise resistant, as it implicitly eliminates the
+      irrelevant information contained in the noise frequency range. But the
+      main advantage of the WSC method is its use of parameters that describe
+      the joint time–frequency localization of spike features to build a fast
+      and unspecialized pattern recognition procedure.
+    authors: Letelier, J. C., & Weber, P. P. (2000)
+    link:
+      display: "Journal of Neuroscience Methods, 101, 2, 93-106. doi:
+        10.1016/S0165-0270(00)00250-8."
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0165027000002508
+  - highlight: 0
+    title: "Spatiotemporal profile of synaptic activation produced by the electrical
+      and visual stimulation of retinal inputs to the optic tectum: A current
+      source density analysis in the pigeon (Columba livia)."
+    description: Abstract. The optic tectum of the pigeon is a highly organized,
+      multilayered structure that receives a massive polystratified afference of
+      at least five different populations of retinal ganglion cells and gives
+      rise to various anatomically segregated efferent systems. The synaptic
+      organization of retino‐tectal circuitry is, at present, mostly unknown. To
+      investigate the spatiotemporal profile of synaptic activation produced by
+      differential (electrical and visual) stimulation of the retinal inputs, we
+      performed a high‐spatial‐resolution current source density analysis in the
+      optic tectum of the anaesthetized pigeon. Electrical stimuli consisted of
+      brief pulses of different durations applied to the optic nerve head, while
+      visual stimuli consisted of light flashes of different intensities.
+      Electrical stimulation generated sinks confined to retinorecipient layers.
+      The temporal structure, spatial location and thresholds of these sinks
+      indicated that they are all due to primary tectal synapses of retinal
+      fibers with different conduction velocities. Sinks evoked by the fastest
+      retinal axons were more superficially located than sinks produced by
+      slower retinal fibers. Visual stimulation, on the other hand, resulted in
+      a more complex pattern of current sinks, with various sinks located in the
+      retinorecipient layers and also well below. Visual stimulation induced
+      action potentials at superficial as well as deep tectal levels. We
+      conclude that electrical stimulation activates most of the populations of
+      ganglion cells as well as their primary tectal synapses, but is unable to
+      elicit a significant activation of secondary tectal synapses. Visual
+      stimulation, on the contrary, activates just some of the incoming retinal
+      populations, but in a way that produces noticeable secondary activation of
+      intratectal circuits. Laminar segregation of retinally evoked tectal
+      activity, as reported here, has also been found in other vertebrates.
+      Similarities and differences with previous studies are discussed.
+    link:
+      display: "European Journal of Neuroscience, 12: 47-57. doi:
+        10.1046/j.1460-9568.2000.00872.x."
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1460-9568.2000.00872.x
+    authors: Letelier, J. C., Mpodozis, J., Marin, G., Morales, D., Rozas, C.,
+      Madrid, C., & Velasco, M. (2000)
+  - highlight: 0
+    title: "Evolution of arm size in theropod dinosaurs: a developmental hypothesis. "
+    description: Abstract.
+    link:
+      display: "Noticiario Mensual del Museo Nacional de Historia Natural, Chile, 338:
+        16-19."
+      url: http://publicaciones.mnhn.gob.cl/668/w3-article-66661.html
+    authors: Vargas, A. O. (1999)
+  - highlight: 0
+    title: Reversible mechanical fixation of eye position in awake head-restrained
+      pigeons (Columba livia).
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0165027099000734
+      display: "Journal of Neuroscience Methods, 91, 1–2, 67-71. doi:
+        10.1016/S0165-0270(99)00073-4."
+    description: Abstract. Here we describe a method to fix gaze positions and to
+      significantly reduce saccadic oscillations in pigeons. The procedure
+      consists of a mechanical immobilization of the eye through the use of an
+      electromagnet that exerts a radial force upon a small metal rectangle
+      glued to the dorsal part of the eye. The method can be used in avian
+      visual neurophysiology in order to hold the eye immobilized for periods of
+      time, long enough to map the properties of visual receptive fields and
+      investigate the possible functions of saccadic oscillations.
+    authors: Letelier, J. C., Mpodozis, J., Marin, G., Morales, D., Henny, P.,
+      Madrid, C., & Velasco, M. (1999)
+  - highlight: 0
+    title: Two distinct populations of tectal neurons have unique connections within
+      the retinotectorotundal pathway of the pigeon (Columba livia).
+    description: >-
+      Abstract. The tectofugal pathway is a massive ascending polysynaptic
+      pathway from the tectum to the thalamus and then to the telencephalon. In
+      birds, the initial component of this pathway is known as the tectorotundal
+      pathway; in mammals, it is known as the tectopulvinar pathway. The avian
+      tectorotundal pathway is highly developed; thus, it provides a
+      particularly appropriate model for exploring the fundamental properties of
+      this system in all amniotes. To further define the connectivity of the
+      tectorotundal projections of the tectofugal pathway, we injected cholera
+      toxin B fragment into various rotundal divisions, the tectobulbar
+      projection, and the ventral supraoptic decussation of the pigeon. We found
+      intense bilateral retrograde labeling of neurons that stratified within
+      layer 13 and, in certain cases, granular staining in layer 5b of the optic
+      tectum. Based on these results, we propose that there are two distinct
+      types of layer 13 neurons that project to the rotundus: 1) type I neurons,
+      which are found in the outer sublamina of layer 13 (closer to layer 12)
+      and which project to the anterior and centralis rotundal divisions, and 2)
+      type II neurons, which are found in the inner sublamina of layer 13
+      (closer to layer 14) and which project to the posterior and triangularis
+      rotundal divisions. Only the labeling of type I neurons produced the
+      granular dendritic staining in layer 5b. An additional type of tectal
+      neuron was also found that projected to the tectobulbar system. We then
+      injected Phaseolus vulgaris‐leucoagglutinin in the optic tract and found
+      that the retinal axons terminating within tectal layer 5b formed narrow
+      radial arbors (7–10 μm in diameter) that were confined to layer 5b. Based
+      on these results, we propose that these axons are derived from a
+      population of small retinal ganglion cells (4.5–6.0 μm in diameter) that
+      terminate on the distal dendrites of type I neurons.
+
+
+      This study strongly indicated the presence of a major bilateral oligosynaptic retinotectorotundal pathway arising from small retinal ganglion cells projecting to the rotundus with only a single intervening tectal neuron, the proposed type I neuron. We suggest that a similar organization of retinotectopulvinar connections exist in reptiles and in many mammals.
+    authors: Karten, H. J., Cox, K., & Mpodozis, J. (1997)
+    link:
+      display: "Journal of Comparative Neurology, 387: 449-465. doi:
+        10.1002/(SICI)1096-9861(19971027)387:3<449::AID-CNE10>3.0.CO;2-G."
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1096-9861(19971027)387:3%3C449::AID-CNE10%3E3.0.CO%3B2-G
+  - highlight: 0
+    title: GABAergic inputs to the nucleus rotundus (pulvinar inferior) of the
+      pigeon (Columba livia).
+    link:
+      url: https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19961014)374:2%3C204::AID-CNE4%3E3.0.CO;2-6
+      display: "Journal of Comparative Neurology, 374: 204-222. doi:
+        10.1002/(SICI)1096-9861(19961014)374:2<204::AID-CNE4>3.0.CO;2-6."
+    description: >-
+      Abstract. The avian nucleus rotundus, a nucleus that appears to be
+      homologous to the inferior/caudal pulvinar of mammals, is the major target
+      of an ascending retino‐tecto‐thalamic pathway. Further clarification of
+      the inputs to the rotundus and their functional properties will contribute
+      to our understanding of the fundamental role of the ascending tectal
+      inputs to the telencephalon in all vertebrates, including mammals.
+
+
+      We found that the rotundus contains a massive plexus of glutamic acid decarboxylase (GAD)‐immunoreactive axons using antibodies against GAD. The cells within the rotundus, however, were not immunoreactive for GAD. The retrograde tracer cholera toxin B fragment was injected into the rotundus to establish the location of the afferent neurons and determine the source of the gamma‐aminobutyric acid (GABA) inputs into the rotundus. In addition to the recognized bilateral inputs from layer 13 of the tectum, we found intense retrograde labeling of neurons within the ipsilateral nuclei subpretectalis (SP), subpretectalis‐caudalis (SPcd), interstitio‐pretecto‐subpretectalis (IPS), posteroventralis thalami (PV), and reticularis superior thalami (RS). All the neurons of the SP, SPcd, IPS, and PV were intensely GAD‐immunoreactive. The neurons of layer 13 of the tectum were not immunoreactive for GAD.
+
+
+      Following the destruction of the ipsilateral SP/IPS complex, we found a major reduction in the intensity of the GAD axonal immunoreactivity within the ipsilateral rotundus, but this destruction did not diminish the intensity of the GAD‐immunoreactivity within the contralateral rotundus.
+
+
+      Our studies indicated that the source of the massive GAD‐immunoreactive plexus within the rotundus was from the ipsilateral SP, SPcd, IPS, and PV nuclei. These nuclei, in turn, received ipsilateral tectal input via collaterals of the neurons of layer 13 in the course of their projections upon the rotundus.
+
+
+      We suggest that the direct bilateral tecto‐rotundal projections are excitatory, whereas the indirect ipsilateral projections from the SP/IPS and PV are mainly inhibitory, possibly acting via a GABA‐A receptor.
+    authors: Mpodozis, J., Cox, K., Shimizu, T., Bischof, H. J., Woodson, W., &
+      Karten, H. J. (1996)
