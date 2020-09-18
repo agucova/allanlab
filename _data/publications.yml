@@ -2419,4 +2419,65 @@ papers:
     authors: Maturana, H., Varela, F., Marin, G., & Letelier, J. C. (1983)
     link:
       url: https://www.semanticscholar.org/paper/The-neurophysiology-of-avian-color-vision.-Varela-Letelier/d631c0bd794078cc5171244d2205841fe6c563ba
-      display: "Archivos de Biolgía y Medicina Experimentales, 16: 291–303."
+      display: "Archivos de Biología y Medicina Experimentales, 16: 291–303."
+  - highlight: 0
+    title: What is it to see?
+    description: Abstract.
+    authors: Maturana, H. R. (1983)
+    link:
+      url: https://pubmed.ncbi.nlm.nih.gov/6680992/
+      display: "Archivos de Biología y Medicina Experimentales, 16(3-4): 255-269."
+  - highlight: 0
+    title: "La corteza bien temperada: Análisis harmónico de campos receptivos
+      visuales."
+    description: Abstract.
+    authors: Varela, F. (1982)
+    link:
+      url: https://cepa.info/paper.cgi?id=1912&action=add
+      display: "Archivos de Biología y Medicina Experimentales, 15: 297–303."
+  - highlight: 0
+    title: Las álgebras de Boole y la noción de distinción.
+    description: Abstract.
+    authors: Varela, F. (1982)
+    link:
+      url: No existe
+      display: "Notas de la Sociedad de Matemática de Chile, 1: 39-53."
+  - highlight: 0
+    title: "Color-opponent responses in the avian lateral geniculate: A study in the
+      quail (Coturnix coturnix japonica)."
+    description: >-
+      Abstract. Extracellular recordings were made from cells in the ventral
+      lateral geniculate (GLv) of the Japanese quail (Coturnix coturnix
+      japonica), and their responses studied with chomatic stimuli. A total of
+      156 units were studied, and of these, 124 were found to be optimally
+      responsive to changes in hue, and not to changes of contrast or motion of
+      the stimuli in their receptive fields.
+
+
+      These chromatic responses can be characterized as follows: (1) they have large (average 15° × 15°) receptive fields; (2) these receptive fields are mostly located in the anterior part of the visual field; (3) the receptive fields are organized in a (rough) retinotopy in agreement with anatomical findings; (4) units exhibit a sustained response in the dark or under white illumination, which is strongly modulated by changes in hue of stimuli of equal illuminance; (4) the units have a complementary inhibitory response, thus exhibiting a color-opponent pattern of responses; (5) the inhibitory and excitatory areas of the receptive fields are uniform and superimposed; (6) there is a tendency of units of the same optimal chromatic responses to be clustered together in the GLv; (7) although units of all preferences are found, the population is dominated by units with preferences in the short wavelength end of the spectrum (48%).
+
+
+      This is the first report of a region in the avian brain where color-opponent responses are found in significant numbers, thus making it apparent that the difficulty of finding similar units in the optic tract, tectum, dorsal geniculate, or telencephalon, is not due to a lack of appropriate retinal afferents. The relationship between the present findings and other reports on the GLv's anatomy and physiology are discussed, as well as its possible roles in the generation of chromatic behavioral discrimination of birds.
+    authors: Maturana, H. R, & Varela, F. J. (1982)
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/0006899382912483
+      display: "Brain Research, 247, 2, 227-241. doi: 10.1016/0006-8993(82)91248-3."
+  - highlight: 0
+    title: Perceptual framing and cortical alpha rhythm.
+    description: >+
+      Abstract. Apparent motion was used as a probe to test the hypothesis that
+      perceptual framing is correlated to the phase of the alpha rhythm. Stimuli
+      were presented phasically with respect to the occipital and parietal alpha
+      cycle, and subjects were asked to judge whether the stimuli appeared
+      simultaneous or sequential. The probability of perceived simultaneity was
+      maximal for the positive phase of the occipital alpha cycle. Visual evoked
+      potentials recorded during stimulus presentation were significantly
+      different, in the late components, for the cases of perceived simultaneity
+      or sequential motion. A brief review of previous experimental and
+      theoretical studies of the relationship of perceptual framing to alpha
+      rhythm is presented.
+
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/0028393281900051
+      display: "Neuropsychologia, 19, 5, 675-686. doi: 10.1016/0028-3932(81)90005-1."
+    authors: Varela, F. J., Toro, A., John, E. R., & Schwartz, E. L. (1981)
