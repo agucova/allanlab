@@ -2481,3 +2481,136 @@ papers:
       url: https://www.sciencedirect.com/science/article/abs/pii/0028393281900051
       display: "Neuropsychologia, 19, 5, 675-686. doi: 10.1016/0028-3932(81)90005-1."
     authors: Varela, F. J., Toro, A., John, E. R., & Schwartz, E. L. (1981)
+  - highlight: 0
+    title: Size constancy and accommodation.
+    description: Abstract.
+    link:
+      display: "Perception, 10, (6), 707–709. doi: 10.1068/p100707"
+      url: https://journals.sagepub.com/doi/10.1068/p100707
+    authors: Maturana, H. R., & Varela, F. J. (1981)
+  - highlight: 0
+    title: "The quest for the intelligence of intelligence. "
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/0140175080900068
+      display: "Journal of Social and Biological Structures, 3, 2, 135-148. doi:
+        10.1016/0140-1750(80)90006-8."
+    authors: Maturana, H. R., & Guiloff, G. D. (1980)
+    description: Abstract.
+  - highlight: 0
+    title: Class I retinal ganglion cells in the toad, Bufo spinulosus.
+    description: Abstract.
+    link:
+      display: "Vision Research, 20, 6, 549-551. doi: 10.1016/0042-6989(80)90131-5."
+      url: https://www.sciencedirect.com/science/article/abs/pii/0042698980901315
+    authors: Guiloff, G. D. (1980)
+  - highlight: 0
+    title: "The organization of the living : A theory of the living organization."
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0020737375800150
+      display: "International Journal of Man-Machine Studies, 7, 3, 313-332. doi:
+        10.1016/S0020-7373(75)80015-0."
+    authors: Maturana, H. R. (1975)
+    description: Abstract.
+  - highlight: 0
+    link:
+      url: https://www.tandfonline.com/doi/abs/10.1080/03081077508960828
+      display: "International Journal of General Systems, 2, 1, 5-24. doi:
+        10.1080/03081077508960828."
+    authors: Varela, F. J. (1975)
+    description: Abstract.
+    title: A calculus for self-reference.
+  - highlight: 0
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/0303264774900318
+      display: "Biosystems, 5, 4, 187-196. doi: 10.1016/0303-2647(74)90031-8."
+    title: "Autopoiesis: The organization of living systems, its characterization
+      and a model."
+    description: Abstract.
+    authors: Varela, F. G., Maturana, H. R., & Uribe, R. (1974)
+  - highlight: 0
+    title: Mechanism and biological explanation.
+    description: Abstract.
+    authors: Varela, F., & Maturana, H. (1972)
+    link:
+      url: https://www.journals.uchicago.edu/doi/pdf/10.1086/288458
+      display: "Philosophy of Science, 39, 3, 378-382. doi: 10.1086/288458."
+  - highlight: 0
+    title: Size constancy and the problem of perceptual spaces.
+    description: Abstract.
+    link:
+      display: "Cognition, 1, 1, 97-104. doi: 10.1016/0010-0277(72)90047-9."
+      url: https://www.sciencedirect.com/science/article/abs/pii/0010027772900479
+    authors: Maturana, H. R., Varela, F. G., & Frenk, S. G. (1972)
+  - highlight: 0
+    title: The vertebrate and the (insect) compound eye in evolutionary perspective.
+    description: Abstract.
+    authors: Varela, F. G. (1971)
+    link:
+      display: "Vision Research, 11, 3, 201-209. doi: 10.1016/0042-6989(71)90040-X."
+      url: https://www.sciencedirect.com/science/article/abs/pii/004269897190040X
+  - highlight: 0
+    title: Oil droplet distribution and colour discrimination in the pigeon.
+    description: Abstract.
+    link:
+      url: https://www.nature.com/articles/newbio234284a0
+      display: "Nature New Biology 234, 284–285. doi: 10.1038/newbio234284a0."
+    authors: Bloch, S., & Maturana, H. R. (1971)
+  - highlight: 0
+    title: "Are colour oil droplets the basis of the pigeon’s chromatic space? "
+    description: Abstract.
+    link:
+      display: "Vision Research, 11, 3, 411-418. doi: 10.1016/0042-6989(71)90054-X."
+      url: https://www.sciencedirect.com/science/article/abs/pii/004269897190054X
+    authors: Bloch, S., & Martinoya, C. (1971)
+  - highlight: 0
+    title: Biology of cognition.
+    description: Abstract.
+    link:
+      display: "Biological Computer Laboratory Research Report BCL 9.0. Urbana IL:
+        University of Illinois, 1970."
+      url: No existe.
+    authors: Maturana, H. (1970)
+  - highlight: 0
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/0014488670900877
+      display: "Experimental Neurology, 26, 1, 53-59. doi:
+        10.1016/0014-4886(70)90087-7."
+    authors: Varela, F. G., & Maturana, H. R. (1970)
+    description: Abstract.
+    title: Time courses of excitation and inhibition in retinal ganglion cells.
+  - highlight: 0
+    link:
+      display: "Archivos de Biología y Medicina Experimentales, 1: 1-30."
+      url: https://pubmed.ncbi.nlm.nih.gov/4950855/
+    authors: Maturana, H., Uribe, G., & Frenk, S. (1968)
+    title: A biological theory of relativistic colour coding in the primate retina.
+    description: Abstract.
+  - highlight: 0
+    title: Synaptic connections of the centrifugal fibers in the pigeon retina.
+    description: Abstract.
+    link:
+      url: https://science.sciencemag.org/content/150/3694/359
+      display: "Science, 150, 3694, 359-361. doi: 10.1126/science.150.3694.359."
+    authors: Maturana, H. R., & Frenk, S.
+  - highlight: 0
+    title: Octopus optic responses.
+    description: Abstract.
+    authors: Boycott, B. B., Lettvin, J. Y., Maturana, H. R., & Wall, P. D. (1965)
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/0014488665900701
+      display: "Experimental Neurology, 12, 3, 247-256. doi:
+        10.1016/0014-4886(65)90070-1."
+  - highlight: 0
+    link:
+      url: https://obtienearchivo.bcn.cl/obtienearchivo?id=documentos/10221.1/55430/1/254889.pdf
+      display: Biologica, fascículo XXXVI, 69-96.
+    authors: Maturana, H. (1964)
+    description: Abstract.
+    title: Especificidad vs ambigüedad en la retina de los vertebrados.
+  - highlight: 0
+    link:
+      url: https://science.sciencemag.org/content/142/3594/977.long
+      display: "Science, 142, 3594, 977-979. doi: 10.1126/science.142.3594.977."
+    authors: Maturana, H., & Frenk, S. (1963)
+    description: Abstract.
+    title: Directional movement and horizontal edge detectors in the pigeon retina.
