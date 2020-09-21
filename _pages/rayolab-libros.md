@@ -3,7 +3,7 @@ layout: default
 title: RayoLab - Libros
 excerpt: Libros - RayoLab @ Universidad de Chile
 sitemap: true
-permalink: "{{slug}}"
+permalink: /libros
 ---
 # Libros y Capítulos
 
