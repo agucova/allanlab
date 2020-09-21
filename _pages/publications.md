@@ -1,11 +1,11 @@
 ---
 layout: gridlay
-title: RayoLab - Publicaciones
-excerpt: Publicaciones - RayoLab @ Universidad de Chile
-sitemap: false
-permalink: /publications/
+title: RayoLab - Papers
+excerpt: Papers - RayoLab @ Universidad de Chile
+sitemap: true
+permalink: /papers/
 ---
-# Publicaciones
+# Papers
 
 ## Lo resaltado
 
@@ -60,14 +60,3 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
-## Libros (y Capítulos)
-
-{% for publi in site.data.publications.libros %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-
