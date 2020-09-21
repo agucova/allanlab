@@ -60,3 +60,14 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+## Libros (y Capítulos)
+
+{% for publi in site.data.publications.libros %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
