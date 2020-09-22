@@ -2614,4 +2614,8 @@ papers:
     authors: Maturana, H., & Frenk, S. (1963)
     description: Abstract.
     title: Directional movement and horizontal edge detectors in the pigeon retina.
-libros: []
+libros:
+  - description: .
+    title: "Maturana, H. (1970). Chapter 1: Neurophysiology of cognition."
+    authors: "In Garvin, P.L. (Ed.), Cognition: A multiple view (pp. 3-23). Spartan
+      Books."
