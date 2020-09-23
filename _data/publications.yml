@@ -2618,9 +2618,23 @@ libros:
   - title: "Letelier, J. C. (2016). La segunda década del Senado Universitario de la
       Universidad de Chile: Una envolvente de proyección. "
     description: .
-    authors: "In Anales de la Universidad de Chile, (11), (pp.189-207). Editorial
-      Universidad de Chile. doi: 10.5354/0717-8883.2017.45237."
+    authors: "In Zeran, F. (Ed.), Anales de la Universidad de Chile, (11),
+      (pp.189-207). Editorial Universidad de Chile. doi:
+      10.5354/0717-8883.2017.45237."
   - title: Vas, N., Mpodozis, J., Botelho, J. F., & Ramos, G. (2011). Onde está o
       organismo? Derivas e outras histórias na biologia e imunologia.
     authors: Editora da UFSC.
     description: .
+  - title: "Contreras, D. A., Pereira, U., Hernández, V., Reynaert, B., & Letelier,
+      J. C. (2011). A loop conjecture for metabolic closure. "
+    description: .
+    authors: In Lenaerts, T., Giacobini, M., Bersini, H., Bourgine, P., Dorigo, M.,
+      & Doursat, R. (Eds.), Advances in artificial life, ECAL 2011. MIT Press.
+      (pp. 176-183).
+  - title: "Soto-Andrade, J., Jaramillo, S., Gutiérrez, C., & Letelier, J. C.
+      (2011). Ouroboros avatars: A mathematical exploration of Self-reference
+      and Metabolic Closure. "
+    description: .
+    authors: In Lenaerts, T., Giacobini, M., Bersini, H., Bourgine, P., Dorigo, M.,
+      & Doursat, R. (Eds.), Advances in artificial life, ECAL 2011. MIT Press.
+      (pp. 763-770).
