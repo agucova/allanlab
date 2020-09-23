@@ -2633,49 +2633,55 @@ libros:
   - title: "Contreras, D. A., Pereira, U., Hernández, V., Reynaert, B., & Letelier,
       J. C. (2011). A loop conjecture for metabolic closure. "
     description: .
-    authors: In Lenaerts, T., Giacobini, M., Bersini, H., Bourgine, P., Dorigo, M.,
-      & Doursat, R. (Eds.), Advances in artificial life, ECAL 2011. MIT Press.
-      (pp. 176-183).
+    authors: "In Lenaerts, T., Giacobini, M., Bersini, H., Bourgine, P., Dorigo, M.,
+      & Doursat, R. (Eds.), Advances in artificial life, ECAL 2011 (pp.
+      176-183). The MIT Press. "
   - title: "Soto-Andrade, J., Jaramillo, S., Gutiérrez, C., & Letelier, J. C.
       (2011). Ouroboros avatars: A mathematical exploration of Self-reference
       and Metabolic Closure. "
     description: .
-    authors: In Lenaerts, T., Giacobini, M., Bersini, H., Bourgine, P., Dorigo, M.,
-      & Doursat, R. (Eds.), Advances in artificial life, ECAL 2011. MIT Press.
-      (pp. 763-770).
+    authors: "In Lenaerts, T., Giacobini, M., Bersini, H., Bourgine, P., Dorigo, M.,
+      & Doursat, R. (Eds.), Advances in artificial life, ECAL 2011 (pp.
+      763-770). The MIT Press. "
   - title: "Jaramillo, S., Honorato-Zimmer, R., Pereira, U., Contreras, D.,
       Raynaert, B., Hernández, V., Soto-Andrade, J., Cárdenas, M. L.,
       Cornish-Bowden, A., & Letelier, J. C. (2010). (M,R) Systems and RAF sets:
       Common ideas, tools and projections. "
     description: .
-    authors: In Fellermann, H., Dörr, M., Hanczyc, M., Ladegaard, L., Maurer, S.,
-      Merkle, D., Monnard, P., Støy, K., & Rasmussen, S. (Eds.). Artificial Life
+    authors: "In Fellermann, H., Dörr, M., Hanczyc, M., Ladegaard, L., Maurer, S.,
+      Merkle, D., Monnard, P., Støy, K., & Rasmussen, S. (Eds.), Artificial Life
       XII, Proceedings of the Twelfth International Conference on the Synthesis
-      of Living Systems. MIT Press. (pp. 94-100).
+      of Living Systems (pp. 94-100). The MIT Press. "
   - title: "Rubilar-Rogers, D., & Vargas, A. O. (2008). Vertebrados terrestres del
       mesozoico en Chile: Estado del conocimiento y perspectivas. "
     description: .
-    authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds). I Simposio
-      - Paleontología en Chile - Libro de actas. (pp. 83-86).
+    authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds), I Simposio
+      - Paleontología en Chile - Libro de actas (pp. 83-86).
   - title: "Mpodozis, J. (2008). Phyletic conservation and change: behavior is
       (most) important. "
     description: .
-    authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds). I Simposio
-      - Paleontología en Chile - Libro de actas. (p. 171).
+    authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds), I Simposio
+      - Paleontología en Chile - Libro de actas (p. 171).
   - title: "Vargas, A. O., Fallon, J. F., Rubilar-Rogers, D., & Mpodozis, J. (2008).
       The evolution and development of perching digir of birds. "
-    authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds). I Simposio
-      - Paleontología en Chile - Libro de actas. (pp. 174-176).
+    authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds), I Simposio
+      - Paleontología en Chile - Libro de actas (pp. 174-176).
     description: .
   - title: "Vargas, A. O., & Wagner, G. P. (2008). A homeotic framshift in the
       evolution of the bird wing: New comparative and experimental evidence. "
     description: .
-    authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds). I Simposio
-      - Paleontología en Chile - Libro de actas. (p. 177).
+    authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds)., I
+      Simposio - Paleontología en Chile - Libro de actas (p. 177).
   - title: "Letelier, J. C., Soto-Andrade, J., Guíñez-Abarzúa, F., Cornish-Bowden,
       A., & Cardenas, M. (2004). Metabolic closure in (M,R) System. "
     description: .
-    authors: In Pollack, J., Bedau, M., Husbands, P., Ikegami, T., & Watson, R. A.
+    authors: "In Pollack, J., Bedau, M., Husbands, P., Ikegami, T., & Watson, R. A.
       (Eds.), Artificial Life IX, Proceedings of the Ninth International
-      Conference on the Simulation and Synthesis of Artificial Life. MIT Press.
-      (pp. 450-455).
+      Conference on the Simulation and Synthesis of Artificial Life (pp.
+      450-455). The MIT Press. "
+  - title: "Letelier, J. C., Kuboyama, T., Yasuda, H., Cárdenas, M., &
+      Cornish-Bowden, A. (2005). A Self-referential equation, f(f) = f, obtained
+      by using the Theory of (M,R) Systems: Overview and applications."
+    authors: In Horimoto, A.H. (Ed.), Algebraic Biology (pp. 115-126). Universal
+      Academic Press.
+    description: .
