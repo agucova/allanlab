@@ -2672,6 +2672,12 @@ libros:
     description: .
     authors: In Rubilar, A., Rubilar-Rogers, D., & Gutstein, C. S. (Eds)., I
       Simposio - Paleontología en Chile - Libro de actas (p. 177).
+  - title: "Letelier, J. C., Kuboyama, T., Yasuda, H., Cárdenas, M., &
+      Cornish-Bowden, A. (2005). A Self-referential equation, f(f) = f, obtained
+      by using the Theory of (M,R) Systems: Overview and applications."
+    authors: In Horimoto, A.H. (Ed.), Algebraic Biology (pp. 115-126). Universal
+      Academic Press.
+    description: .
   - title: "Letelier, J. C., Soto-Andrade, J., Guíñez-Abarzúa, F., Cornish-Bowden,
       A., & Cardenas, M. (2004). Metabolic closure in (M,R) System. "
     description: .
@@ -2679,9 +2685,25 @@ libros:
       (Eds.), Artificial Life IX, Proceedings of the Ninth International
       Conference on the Simulation and Synthesis of Artificial Life (pp.
       450-455). The MIT Press. "
-  - title: "Letelier, J. C., Kuboyama, T., Yasuda, H., Cárdenas, M., &
-      Cornish-Bowden, A. (2005). A Self-referential equation, f(f) = f, obtained
-      by using the Theory of (M,R) Systems: Overview and applications."
-    authors: In Horimoto, A.H. (Ed.), Algebraic Biology (pp. 115-126). Universal
-      Academic Press.
+  - title: "Vargas, A., & Rubilar-Rogers, D. (2003). La evolución de los ancestros
+      de las aves. "
     description: .
+    authors: In Muñoz, A., Rau, J., & Yáñez, J. (Eds.). Aves rapaces de Chile (pp.
+      107-119). CEA Ediciones.
+  - title: "Letelier, J. C. (2002). Dedication: The scientific routes of Francisco
+      Varela (1946-2001). "
+    description: .
+    authors: "). In Roy, R., Köppen, M., Ovaska, S., Furuhashi, T., & Hoffman, F.
+      (Eds.), Soft computing and industry: Recent applications (pp. XIX-XXVII).
+      Springer."
+  - title: "Letelier, J. C., Marin, G., & Mpodozis, J. (2002). Computing with
+      autopoietic systems. "
+    description: .
+    authors: "In Roy, R., Köppen, M., Ovaska, S., Furuhashi, T., & Hoffman, F.
+      (Eds.), Soft computing and industry: Recent applications (pp. 67-80).
+      Springer."
+  - title: "Mayor, R., Young, R., & Vargas, A. (1998). 3 Development of neural crest
+      in Xenophus. "
+    description: .
+    authors: In Current topics in development biology (Volumen 43) (pp. 85-113).
+      Academic Press.
