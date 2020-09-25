@@ -47,3 +47,8 @@ miembros:
     name: Rodrigo Dover Aburto
     number_educ: 2
     photo: /images/uploads/cesolaa.png
+  - photo: /images/uploads/dscn1844.jpg
+    name: Solano Henríquez
+    info: Technical Support
+    email: solanohenri[at]hotmail[dot]com
+    number_educ: 5
