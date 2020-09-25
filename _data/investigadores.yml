@@ -1,7 +1,31 @@
 miembros:
+  - name: Jorge Mpodozis Marín
+    info: Investigador Principal y Académico del Departamento de Biología de la
+      Facultad de Ciencias de la Universidad de Chile.
+    email: epistemo[at]uchile[dot]cl
+    number_educ: 2
+    education1: |
+      Licenciado en Ciencias con Mención en Biología, Universidad de Chile.
+    education2: Doctor en Ciencias Biológicas con mención en Fisiología y
+      Neurobiología, Universidad de Chile.
+    photo: /images/uploads/jorge_mpodozis.jpg
+  - name: Juan Carlos Letelier
+    info: Investigador Principal y Académico del Departamento de Biología de la
+      Facultad de Ciencias de la Universidad de Chile.
+    photo: /images/uploads/lete.png
+    email: letelier[at]uchile[dot]cl
+    number_educ: 2
+    education1: Licenciado en Ciencias con Mención en Biología, Universidad de Chile.
+    education2: Doctor en Biología, City University of New York
+  - name: Gonzalo Marín Game
+    info: Investigador Asociado.
+    photo: /images/uploads/imageservlet-1-.jpg
+    email: gmarin[at]uchile[dot]cl
+    number_educ: 1
+    education1: Licenciado en Ciencias con Mención en Biología, Universidad de Chile.
   - education1: Magíster en Ciencias Biológicas de la Universidad de Chile.
     email: sentis2[at]gmail[dot]com
-    info: Investigadora Asociada
+    info: Investigadora Asociada.
     name: Elisa Sentis Bahamondes
     number_educ: 1
     photo: /images/uploads/elisa.png
