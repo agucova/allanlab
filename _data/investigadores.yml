@@ -16,14 +16,14 @@ miembros:
     email: letelier[at]uchile[dot]cl
     number_educ: 2
     education1: Licenciado en Ciencias con Mención en Biología, Universidad de Chile.
-    education2: Doctor en Biología, City University of New York
+    education2: Doctor en Biología, City University of New York.
   - name: Gonzalo Marín Game
     info: Investigador Asociado.
     photo: /images/uploads/imageservlet-1-.jpg
     email: gmarin[at]uchile[dot]cl
     number_educ: 1
     education1: Licenciado en Ciencias con Mención en Biología, Universidad de Chile.
-  - education1: Magíster en Ciencias Biológicas de la Universidad de Chile.
+  - education1: Magíster en Ciencias Biológicas, Universidad de Chile.
     email: sentis2[at]gmail[dot]com
     info: Investigadora Asociada.
     name: Elisa Sentis Bahamondes
@@ -40,7 +40,7 @@ miembros:
     name: Carolina Norambuena López
     number_educ: 3
     photo: /images/uploads/carolina-norambuena.jpg
-  - education1: Licenciada en Ciencias con Mención en Biología de la Universidad de Chile.
+  - education1: Licenciada en Ciencias con Mención en Biología, Universidad de Chile.
     education2: Estudiante del programa de Doctorado en Ecología y Biología
       Evolutiva de la Universidad de Chile.
     email: danielaflorescampos[at]gmail[dot]com
@@ -51,9 +51,9 @@ miembros:
     name: Daniela Flores Campos
     number_educ: 2
     photo: /images/uploads/daniela-flores-campos.jpg
-  - education1: Titulado en Biotecnología Molecular en la Universidad de Chile.
+  - education1: Ingeniero en Biotecnología Molecular, Universidad de Chile.
     education2: Estudiante de programa de Doctorado en Ciencias con mención en
-      Biología Molecular, Celular y Neurociencias de la Universidad de Chile.
+      Biología Molecular, Celular y Neurociencias, Universidad de Chile.
     email: tente.munoz[at]gmail[dot]com
     info: Mi trabajo se centra en entender la evolución mediante el estudio de la
       biología del desarrollo. De especial interés para mí son la evolución de
@@ -61,8 +61,8 @@ miembros:
     name: Vicente Muñoz-Walther
     number_educ: 2
     photo: /images/uploads/vicente-muñoz-walther.jpg
-  - education1: Licenciado en Ciencias con Mención en Biología de la Universidad de Chile.
-    education2: Estudiante del Magíster en Ciencias Biológicas de la Universidad de Chile.
+  - education1: Licenciado en Ciencias con Mención en Biología, Universidad de Chile.
+    education2: Estudiante del Magíster en Ciencias Biológicas, Universidad de Chile.
     email: rodrigo.dover[at]ug[dot]uchile[dot]cl
     info: Mi interés se enfoca en el estudio de los sistemas visuales,
       particularmente en el desarrollo de las RGC (retinal ganglion cells).
