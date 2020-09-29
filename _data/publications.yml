@@ -2724,6 +2724,11 @@ libros:
     authors: In Mira, J., & Sandoval, F. (Eds). From Natural to Artificial Neural
       Computation. IWANN 1995. Lecture Notes in Computer Science Volume 930)
       (pp. 130-136). Springer. https://doi.org/10.1007/3-540-59497-3_166
+  - title: Wallman, J., & Letelier, J. C. (1993). Eye movements, head movements, and
+      gaze stabilization in birds.
+    description: .
+    authors: In Zeigler, H. P., & Bischof, H. J. (Eds.). Vision, brain, and behavior
+      in birds (p. 245–263). The MIT Press.
   - title: "Maturana, H., & Mpodozis, J. (1992). Origen de las especies por medio de
       la deriva natural. O la diversificación de los linajes a través de la
       conservación y cambio de los fenotipos ontogenéticos. "
