@@ -1,5 +1,39 @@
 papers:
   - highlight: 1
+    title: "The evolutionary consequences of epigenesis and neutral change: A
+      conceptual approach at the organismal level."
+    image: /images/uploads/campos.png
+    description: "Abstract. Living beings are autopoietic systems with highly
+      context‐dependent structural dynamics and interactions, that determine
+      whether a disturbance in the genotype or environment will lead or not to
+      phenotypic change. The concept of epigenesis entails how a change in the
+      phenotype may not correspond to a change in the structure of an earlier
+      developmental stage, including the genome. Disturbances of embryonic
+      structure may fail to change the phenotype, as in regulated development,
+      or when different genotypes are associated to a single phenotype.
+      Likewise, the same genotype or early embryonic structure may develop
+      different phenotypes, as in phenotypic plasticity. Disturbances that fail
+      to trigger phenotypic change are considered neutral, but even so, they can
+      alter unexpressed developmental potential. Here, we present conceptual
+      diagrams of the “epigenic field”: similar to Waddington's epigenetic
+      landscapes, but including the ontogenic niche (organism/environment
+      interactional dynamics during ontogeny) as a factor in defining epigenic
+      fields, rather than just selecting among possible pathways. Our diagrams
+      illustrate transgenerational changes of genotype, ontogenic niche, and
+      their correspondence (or lack thereof) with changes of phenotype. Epigenic
+      fields provide a simple way to understand developmental constraints on
+      evolution, for instance: how constraints evolve as a result of
+      developmental system drift; how neutral changes can be involved in genetic
+      assimilation and de‐assimilation; and how constraints can evolve as a
+      result of neutral changes in the ontogenic niche (not only the genotype).
+      We argue that evolutionary thinking can benefit from a framework for
+      evolution with conceptual foundations at the organismal level.."
+    authors: Vargas, A. O., Botelho, J. F. & Mpodozis, J. (2020)
+    link:
+      display: "The Journal of Experimental Zoology Part B: Molecular and
+        Developmental Evolution: 1– 10. doi: 10.1002/jez.b.23023."
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.b.23023
+  - highlight: 1
     title: "Parallel organization of the avian sensorimotor arcopallium: Tectofugal
       visual pathway in the pigeon (Columba livia)."
     description: Abstract. The sensory–motor division of the avian arcopallium
