@@ -1,5 +1,39 @@
 papers:
   - highlight: 1
+    title: A specialized reciprocal connectivity suggests a link between the
+      mechanisms by which the superior colliculus and parabigeminal nucleus
+      produce defensive behaviors in rodents.
+    image: /images/uploads/2020_oct.png
+    description: Abstract. The parabigeminal nucleus (PBG) is the mammalian
+      homologue to the isthmic complex of other vertebrates. Optogenetic
+      stimulation of the PBG induces freezing and escape in mice, a result
+      thought to be caused by a PBG projection to the central nucleus of the
+      amygdala. However, the isthmic complex, including the PBG, has been
+      classically considered satellite nuclei of the Superior Colliculus (SC),
+      which upon stimulation of its medial part also triggers fear and avoidance
+      reactions. As the PBG-SC connectivity is not well characterized, we
+      investigated whether the topology of the PBG projection to the SC could be
+      related to the behavioral consequences of PBG stimulation. To that end, we
+      performed immunohistochemistry, in situ hybridization and neural tracer
+      injections in the SC and PBG in a diurnal rodent, the Octodon degus. We
+      found that all PBG neurons expressed both glutamatergic and cholinergic
+      markers and were distributed in clearly defined anterior (aPBG) and
+      posterior (pPBG) subdivisions. The pPBG is connected reciprocally and
+      topographically to the ipsilateral SC, whereas the aPBG receives afferent
+      axons from the ipsilateral SC and projected exclusively to the
+      contralateral SC. This contralateral projection forms a dense field of
+      terminals that is restricted to the medial SC, in correspondence with the
+      SC representation of the aerial binocular field which, we also found, in
+      O. degus prompted escape reactions upon looming stimulation. Therefore,
+      this specialized topography allows binocular interactions in the SC region
+      controlling responses to aerial predators, suggesting a link between the
+      mechanisms by which the SC and PBG produce defensive behaviors.
+    authors: Deichler, A., Carrasco, D., Lopez-Jury, L., Vega-Zuniga, T., Márquez,
+      N., Mpodozis, J., & Marín, G.J. (2020)
+    link:
+      url: https://www.nature.com/articles/s41598-020-72848-0
+      display: "Scientific Reports 10, 16220. doi: 10.1038/s41598-020-72848-0."
+  - highlight: 1
     title: "The evolutionary consequences of epigenesis and neutral change: A
       conceptual approach at the organismal level."
     image: /images/uploads/campos.png
